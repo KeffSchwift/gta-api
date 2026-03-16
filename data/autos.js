@@ -1,4 +1,4 @@
-{
+module.exports = {
   "boats": {
     "dinghy (2-seater)": {
       "images": {
