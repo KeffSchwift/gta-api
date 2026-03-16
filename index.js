@@ -3,8 +3,7 @@ const app = express();
 app.use(express.json());
 
 app.use('/bj', require('./api/bj'));
-app.use('/race', require('./api/c4'));
-app.use('/auto', require('./api/carros'));
+app.use('/auto', require('./api/autos'));
 app.use('/armas', require('./api/armas')); 
 app.use('/time', require('./api/time'));
 
