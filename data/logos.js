@@ -1,4 +1,4 @@
-{
+module.exports = {
   "albany": "https://vignette.wikia.nocookie.net/gtawiki/images/1/1a/Albany-GTAO-Logo.png/revision/latest/scale-to-width-down/210",
   "ambulate": "https://vignette.wikia.nocookie.net/gtawiki/images/c/ce/UnseenCharacter.jpg/revision/latest/scale-to-width-down/210",
   "american motors": "https://vignette.wikia.nocookie.net/gtawiki/images/c/c2/AmericanMotors-GTAVCS-Logo.svg/revision/latest/scale-to-width-down/210",
