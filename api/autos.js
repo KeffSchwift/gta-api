@@ -4,44 +4,28 @@ const autos = require('../data/autos.json');
 const logos = require('../data/logos.json');
 
 router.get('/', (req, res) => {
-    try {
-        const { q } = req.query;
+    const { q } = req.query;
 
-        if (!q) {
-            return res.status(400).json({ msg: "Introduce un término de búsqueda en ?q=" });
-        }
+    if (!q) return res.status(400).json({ msg: "Pon un modelo en ?q=" });
 
-        const query = q.toLowerCase().trim();
+    const query = q.toLowerCase().trim();
 
-        const resultados = Object.keys(autos).filter(id => {
+    const resultados = Object.keys(autos)
+        .filter(id => {
+            const modelo = autos[id]?.model || "";
+            return modelo.toLowerCase().includes(query);
+        })
+        .map(id => {
             const auto = autos[id];
+            const fab = (auto?.manufacturer || "").toLowerCase().trim();
             
-            // USAMOS EL OPERADOR ?. PARA EVITAR EL ERROR DE UNDEFINED
-            // Si auto.model no existe, devuelve una cadena vacía en lugar de romper la API
-            const nombreAuto = (auto?.model || "").toLowerCase();
-            const fabricanteAuto = (auto?.manufacturer || "").toLowerCase();
-            
-            return nombreAuto.includes(query) || fabricanteAuto.includes(query);
-        }).map(id => {
-            const auto = autos[id];
-            
-            // Buscamos el logo con seguridad
-            const fabricanteRaw = auto?.manufacturer || "";
-            const fabricanteKey = fabricanteRaw.toLowerCase().trim();
-            const logoUrl = logos[fabricanteKey] || null;
-
-            // Manejo de imagen (soporta ambos formatos que tenías)
-            const urlImagen = auto?.images?.frontQuarter || auto?.image || "";
-
             return {
                 id: id,
                 nombre: auto?.model || id,
-                fabricante: auto?.manufacturer || "Desconocido",
-                imagen: urlImagen,
-                fabricanteLogo: logoUrl,
+                fabricante: auto?.manufacturer || "",
+                imagen: auto?.images?.frontQuarter || auto?.image || "",
+                fabricanteLogo: logos[fab] || null,
                 precio: auto?.price || 0,
-                asientos: auto?.seats || 0,
-                velocidad_max: auto?.topSpeed || { mph: 0, kmh: 0 },
                 estadisticas: {
                     velocidad: auto?.speed || 0,
                     aceleracion: auto?.acceleration || 0,
@@ -51,19 +35,9 @@ router.get('/', (req, res) => {
             };
         });
 
-        if (resultados.length === 0) {
-            return res.status(404).json({ msg: "No se encontraron vehículos." });
-        }
+    if (resultados.length === 0) return res.status(404).json({ msg: "No hay nada" });
 
-        res.json(resultados);
-
-    } catch (error) {
-        console.error("Error en /auto:", error);
-        res.status(500).json({ 
-            error: "Error interno", 
-            mensaje: error.message 
-        });
-    }
+    res.json(resultados);
 });
 
 module.exports = router;
