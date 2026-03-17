@@ -1,6 +1,5 @@
 const axios = require('axios');
 const fs = require('fs');
-const logger = require('../logger/logger.js');
 const paths = require('../paths.js');
 
 tunables_data = read_tunables_file();
@@ -25,12 +24,9 @@ async function download_tunables() {
 
                 tunables_data = read_tunables_file();
 
-                logger.info('Tunables downloaded.');
-
                 resolve(paths.TUNABLES_PATH);
             })
             .catch(error => {
-                logger.error('Exception in download_tunables:', error);
                 reject(error);
             });
     });
@@ -46,7 +42,6 @@ function get_tunable(tunable) {
             return tunable_value;
         }
     } else {
-        // logger.warn(`Could not found tunable: ${tunable}`);
         return 'invalid';
     }
 }
