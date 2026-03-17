@@ -65,5 +65,5 @@ function get_gun_van_data() {
 }
 
 module.exports = {
-    create_gun_van_message: get_gun_van_data 
+    get_gun_van_data: get_gun_van_data 
 };
