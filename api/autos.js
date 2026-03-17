@@ -4,26 +4,41 @@ const vehiculosData = require('../data/vehiculos');
 const logos = require('../data/logos');
 
 router.get('/:model', (req, res) => {
-    const modelSearch = req.params.model.toLowerCase().trim();
-    let v = null;
+    // 1. Normalizamos la búsqueda: quitamos espacios y guiones, y todo a minúsculas
+    const searchRaw = req.params.model.toLowerCase();
+    const modelSearch = searchRaw.replace(/[\s-]/g, ''); 
 
+    let v = null;
+    let idOriginal = "";
+
+    // 2. Buscamos en el JSON comparando contra las llaves también normalizadas
     for (const cat in vehiculosData) {
-        if (vehiculosData[cat][modelSearch]) {
-            v = vehiculosData[cat][modelSearch];
+        // Obtenemos todas las llaves de la categoría (ej: "turismo-omaggio")
+        const keys = Object.keys(vehiculosData[cat]);
+        
+        // Buscamos la llave que al quitarle los guiones coincida con la búsqueda
+        const foundKey = keys.find(key => key.replace(/-/g, '') === modelSearch);
+
+        if (foundKey) {
+            v = vehiculosData[cat][foundKey];
+            idOriginal = foundKey;
             break;
         }
     }
 
     if (!v) return res.status(404).json({ error: "No encontrado" });
 
-    const fab = (v.manufacturer || "").toLowerCase().trim();
-    const logoUrl = logos[fab] || null;
+    const nombreFabricante = v.manufacturer || "Desconocido";
+    const fabKey = nombreFabricante.toLowerCase().trim();
+    const logoUrl = logos[fabKey] || null;
 
     res.json({
-        nombre: v.model || modelSearch,
+        nombre: v.model || idOriginal,
+        fabricante: nombreFabricante,
+        asientos: v.seats || "N/A",
         precio: v.price ? v.price.toLocaleString() : "N/A",
         logo: logoUrl,
-        velkmh: v.topSpeed?.kmh || 0,
+        kmh: v.topSpeed?.kmh || 0,
         stats: {
             velocidad: v.speed || 0,
             aceleracion: v.acceleration || 0,
