@@ -1,56 +1,67 @@
 const express = require('express');
 const router = express.Router();
-const armasData = require('../data/armas'); // Asegúrate de que sea .js con module.exports
+const armasData = require('../data/armas'); // Tu archivo con todas las armas por categoría
 
 router.get('/:nombre', (req, res) => {
     const searchRaw = req.params.nombre.toLowerCase().trim();
-    // Quitamos espacios, guiones y puntos (ej. "mk.ii" -> "mkii")
+    // Limpiamos la búsqueda: quitamos espacios, guiones y puntos
     const searchClean = searchRaw.replace(/[\s-.]/g, ''); 
 
     let mejorCoincidencia = null;
+    let categoriaEncontrada = "";
     let maxPuntaje = 0;
 
-    // 1. Buscamos en el objeto de armas
-    for (const id in armasData) {
-        const arma = armasData[id];
-        const idLimpio = id.replace(/[\s-.]/g, '');
-        const nombreLimpio = (arma.nombre || "").toLowerCase().replace(/[\s-.]/g, '');
+    // Recorremos las categorías del objeto
+    for (const categoria in armasData) {
+        for (const id in armasData[categoria]) {
+            const arma = armasData[categoria][id];
+            
+            // Normalizamos el ID (la llave) y el Nombre para comparar
+            const idLimpio = id.replace(/[\s-.]/g, '');
+            const nombreLimpio = (arma.nombre || "").toLowerCase().replace(/[\s-.]/g, '');
 
-        // Coincidencia exacta
-        if (idLimpio === searchClean || nombreLimpio === searchClean) {
-            mejorCoincidencia = { ...arma, idOriginal: id };
-            maxPuntaje = 1;
-            break; 
-        }
-
-        // Coincidencia parcial (el que más se parezca)
-        if (idLimpio.includes(searchClean) || searchClean.includes(idLimpio)) {
-            const puntaje = searchClean.length / idLimpio.length;
-            if (puntaje > maxPuntaje) {
-                maxPuntaje = puntaje;
+            // 1. Coincidencia exacta (Prioridad máxima)
+            if (idLimpio === searchClean || nombreLimpio === searchClean) {
                 mejorCoincidencia = { ...arma, idOriginal: id };
+                categoriaEncontrada = categoria;
+                maxPuntaje = 1;
+                break; 
+            }
+
+            // 2. Coincidencia parcial por aproximación
+            if (idLimpio.includes(searchClean) || searchClean.includes(idLimpio)) {
+                const puntaje = searchClean.length / idLimpio.length;
+                if (puntaje > maxPuntaje) {
+                    maxPuntaje = puntaje;
+                    mejorCoincidencia = { ...arma, idOriginal: id };
+                    categoriaEncontrada = categoria;
+                }
             }
         }
+        if (maxPuntaje === 1) break; // Si ya encontramos el exacto, paramos
     }
 
     if (!mejorCoincidencia) return res.status(404).json({ error: "Arma no encontrada" });
 
     const a = mejorCoincidencia;
 
-    // Respuesta con estructura similar a la de los autos
     res.json({
-        nombre: a.nombre || a.idOriginal,
-        tipo: a.tipo || "Varios",
-        precio: a.precio_online ? `$${a.precio_online.toLocaleString()}` : "N/A",
-        desbloqueo: a.nivel_desbloqueo || 1,
-        imagen: a.imagen || null,
+        nombre: a.nombre,
+        categoria: categoriaEncontrada,
+        precio: a.precioGTAOnline > 0 ? `$${a.precioGTAOnline.toLocaleString()}` : "Gratis / N/A",
+        desbloqueo: a.nivelDesbloqueo || 0,
+        imagen: a.imagen,
         stats: {
+            general: a.estadisticas?.general || 0,
             daño: a.estadisticas?.daño || 0,
             cadencia: a.estadisticas?.cadencia || 0,
             precision: a.estadisticas?.precision || 0,
             alcance: a.estadisticas?.alcance || 0
         },
-        info: maxPuntaje < 1 ? "Resultado aproximado" : "Coincidencia exacta"
+        metadatos: {
+            id: a.idOriginal,
+            busqueda: maxPuntaje < 1 ? "Aproximado" : "Exacto"
+        }
     });
 });
 
