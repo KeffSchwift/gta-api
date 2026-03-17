@@ -13610,7 +13610,7 @@ module.exports = {
   },
   "dlcs": {
   "maxwell-vagrant": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/vagrant.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/vagrant.jpg"},
     "manufacturer": "Maxwell",
     "model": "Vagrant",
     "seats": 2,
@@ -13619,7 +13619,7 @@ module.exports = {
     "speed": 80.29, "acceleration": 83.13, "braking": 20.83, "handling": 71.21
   },
   "retinue-mk-ii": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports-classic/main/retinue-mk-ii.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports-classic/main/retinue-mk-ii.jpg"},
     "manufacturer": "Vapid",
     "model": "Retinue Mk II",
     "seats": 2,
@@ -13628,7 +13628,7 @@ module.exports = {
     "speed": 77.80, "acceleration": 69.38, "braking": 24.00, "handling": 62.12
   },
   "maxwell-asbo": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/compacts/main/asbo.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/compacts/main/asbo.jpg"},
     "manufacturer": "Maxwell",
     "model": "Asbo",
     "seats": 2,
@@ -13637,7 +13637,7 @@ module.exports = {
     "speed": 67.61, "acceleration": 58.5, "braking": 15.67, "handling": 58.18
   },
   "rebla-gts": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/main/rebla-gts.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/main/rebla-gts.jpg"},
     "manufacturer": "Übermacht",
     "model": "Rebla GTS",
     "seats": 4,
@@ -13646,7 +13646,7 @@ module.exports = {
     "speed": 84.51, "acceleration": 83.75, "braking": 28.33, "handling": 66.52
   },
   "komoda": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/komoda.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/komoda.jpg"},
     "manufacturer": "Lampadati",
     "model": "Komoda",
     "seats": 4,
@@ -13655,7 +13655,7 @@ module.exports = {
     "speed": 83.7, "acceleration": 91.75, "braking": 31.67, "handling": 81.52
   },
   "everon": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/everon.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/everon.jpg"},
     "manufacturer": "Karin",
     "model": "Everon",
     "seats": 4,
@@ -13664,7 +13664,7 @@ module.exports = {
     "speed": 72.97, "acceleration": 73.75, "braking": 10.0, "handling": 62.12
   },
   "furia": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/super/main/furia.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/super/main/furia.jpg"},
     "manufacturer": "Grotti",
     "model": "Furia",
     "seats": 2,
@@ -13673,7 +13673,7 @@ module.exports = {
     "speed": 86.49, "acceleration": 91.25, "braking": 33.33, "handling": 81.82
   },
   "invade-and-persuade-rc-tank": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/military/main/invade-persuade-tank.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/military/main/invade-persuade-tank.jpg"},
     "manufacturer": "RC",
     "model": "Invade and Persuade RC Tank",
     "seats": 0,
@@ -13682,7 +13682,7 @@ module.exports = {
     "speed": 20.0, "acceleration": 15.0, "braking": 5.0, "handling": 61.0
   },
   "jb-700w": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports-classic/main/jb-700w.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports-classic/main/jb-700w.jpg"},
     "manufacturer": "Dewbauchee",
     "model": "JB 700W",
     "seats": 2,
@@ -13691,7 +13691,7 @@ module.exports = {
     "speed": 80.48, "acceleration": 65.0, "braking": 20.0, "handling": 65.15
   },
   "zhaba": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/zhaba.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/zhaba.jpg"},
     "manufacturer": "RUNE",
     "model": "Zhaba",
     "seats": 4,
@@ -13700,7 +13700,7 @@ module.exports = {
     "speed": 49.63, "acceleration": 45.0, "braking": 26.67, "handling": 57.58
   },
   "imorgon": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/imorgon.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/imorgon.jpg"},
     "manufacturer": "Overflod",
     "model": "Imorgon",
     "seats": 2,
@@ -13709,7 +13709,7 @@ module.exports = {
     "speed": 79.68, "acceleration": 100.0, "braking": 27.83, "handling": 100.0
   },
   "sultan-classic": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/sultan-classic.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/sultan-classic.jpg"},
     "manufacturer": "Karin",
     "model": "Sultan Classic",
     "seats": 4,
@@ -13718,7 +13718,7 @@ module.exports = {
     "speed": 77.8, "acceleration": 82.5, "braking": 16.67, "handling": 75.61
   },
   "outlaw": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/outlaw.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/outlaw.jpg"},
     "manufacturer": "Nagasaki",
     "model": "Outlaw",
     "seats": 2,
@@ -13727,7 +13727,7 @@ module.exports = {
     "speed": 62.78, "acceleration": 100.0, "braking": 20.0, "handling": 61.36
   },
   "v-str": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/v-str.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/v-str.jpg"},
     "manufacturer": "Albany",
     "model": "V-STR",
     "seats": 4,
@@ -13736,7 +13736,7 @@ module.exports = {
     "speed": 85.45, "acceleration": 94.75, "braking": 20.83, "handling": 78.18
   },
   "drift-yosemite": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/drift-yosemite.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/drift-yosemite.jpg"},
     "manufacturer": "Declasse",
     "model": "Drift Yosemite",
     "seats": 2,
@@ -13745,7 +13745,7 @@ module.exports = {
     "speed": 75.12, "acceleration": 98.75, "braking": 28.33, "handling": 79.55
   },
   "sugoi": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/sugoi.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/sugoi.jpg"},
     "manufacturer": "Dinka",
     "model": "Sugoi",
     "seats": 4,
@@ -13754,7 +13754,7 @@ module.exports = {
     "speed": 83.7, "acceleration": 77.5, "braking": 28.33, "handling": 100.0
   },
   "progen-pr4-f1": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/6701-6800/GTA5_Vehicles_PR4_Formula1_Action-6704-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/6701-6800/GTA5_Vehicles_PR4_Formula1_Action-6704-360.jpg"},
     "manufacturer": "Progen",
     "model": "PR4 (Formula 1 Car)",
     "seats": 1,
@@ -13763,7 +13763,7 @@ module.exports = {
     "speed": 87.19, "acceleration": 100.0, "braking": 41.67, "handling": 100.0
   },
   "blista-kanjo": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/compacts/main/blista-kanjo.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/compacts/main/blista-kanjo.jpg"},
     "manufacturer": "Dinka",
     "model": "Blista Kanjo",
     "seats": 2,
@@ -13772,7 +13772,7 @@ module.exports = {
     "speed": 75.12, "acceleration": 80.0, "braking": 16.67, "handling": 59.7
   },
   "ocelot-r88-f1": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/6701-6800/GTA5_Vehicles_R88_Formula1_Action-6706-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/6701-6800/GTA5_Vehicles_R88_Formula1_Action-6706-360.jpg"},
     "manufacturer": "Ocelot",
     "model": "R88 (Formula 1 Car)",
     "seats": 1,
@@ -13781,7 +13781,7 @@ module.exports = {
     "speed": 87.19, "acceleration": 100.0, "braking": 41.67, "handling": 98.95
   },
   "stryder": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/motorcycles/main/stryder.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/motorcycles/main/stryder.jpg"},
     "manufacturer": "Nagasaki",
     "model": "Stryder",
     "seats": 2,
@@ -13790,7 +13790,7 @@ module.exports = {
     "speed": 69.75, "acceleration": 90.0, "braking": 40.0, "handling": 74.24
   },
   "benefactor-br8-f1": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/open-wheel/main/br8.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/open-wheel/main/br8.jpg"},
     "manufacturer": "Benefactor",
     "model": "BR8 (Formula 1 Car)",
     "seats": 1,
@@ -13799,7 +13799,7 @@ module.exports = {
     "speed": 87.19, "acceleration": 100.0, "braking": 43.33, "handling": 100.0
   },
   "declasse-dr1-f1": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/open-wheel/main/dr1.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/open-wheel/main/dr1.jpg"},
     "manufacturer": "Declasse",
     "model": "DR1 (IndyCar)",
     "seats": 1,
@@ -13808,7 +13808,7 @@ module.exports = {
     "speed": 87.32, "acceleration": 100.0, "braking": 38.33, "handling": 96.73
   },
   "tigon": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/super/main/tigon.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/super/main/tigon.jpg"},
     "manufacturer": "Lampadati",
     "model": "Tigon",
     "seats": 2,
@@ -13817,7 +13817,7 @@ module.exports = {
     "speed": 86.44, "acceleration": 94.88, "braking": 37.33, "handling": 100.0
   },
   "bf-club": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/compacts/main/club.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/compacts/main/club.jpg"},
     "manufacturer": "BF",
     "model": "Club",
     "seats": 2,
@@ -13826,7 +13826,7 @@ module.exports = {
     "speed": 75.12, "acceleration": 59.38, "braking": 24.0, "handling": 62.12
   },
   "penumbra-ff": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/penumbra-ff.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/penumbra-ff.jpg"},
     "manufacturer": "Maibatsu",
     "model": "Penumbra FF",
     "seats": 2,
@@ -13835,7 +13835,7 @@ module.exports = {
     "speed": 76.19, "acceleration": 75.0, "braking": 26.67, "handling": 71.21
   },
   "landstalker-xl": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/main/landstalker-xl.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/main/landstalker-xl.jpg"},
     "manufacturer": "Dundreary",
     "model": "Landstalker XL",
     "seats": 4,
@@ -13844,7 +13844,7 @@ module.exports = {
     "speed": 72.43, "acceleration": 47.5, "braking": 26.67, "handling": 65.15
   },
   "seminole-frontier": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/main/seminole-frontier.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/main/seminole-frontier.jpg"},
     "manufacturer": "Canis",
     "model": "Seminole Frontier",
     "seats": 4,
@@ -13853,7 +13853,7 @@ module.exports = {
     "speed": 69.75, "acceleration": 50.0, "braking": 26.67, "handling": 60.61
   },
   "beater-dukes": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/beater-dukes.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/beater-dukes.jpg"},
     "manufacturer": "Imponte",
     "model": "Beater Dukes",
     "seats": 2,
@@ -13862,7 +13862,7 @@ module.exports = {
     "speed": 77.26, "acceleration": 78.75, "braking": 25.0, "handling": 66.67
   },
   "manana-custom": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/manana-custom.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/manana-custom.jpg"},
     "manufacturer": "Albany",
     "model": "Manana Custom",
     "seats": 2,
@@ -13871,7 +13871,7 @@ module.exports = {
     "speed": 75.92, "acceleration": 60.0, "braking": 9.17, "handling": 60.0
   },
   "peyote-custom": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports-classic/main/peyote-custom.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports-classic/main/peyote-custom.jpg"},
     "manufacturer": "Vapid",
     "model": "Peyote Custom",
     "seats": 2,
@@ -13880,7 +13880,7 @@ module.exports = {
     "speed": 75.12, "acceleration": 51.25, "braking": 9.33, "handling": 60.0
   },
   "glendale-custom": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sedans/main/glendale-custom.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sedans/main/glendale-custom.jpg"},
     "manufacturer": "Benefactor",
     "model": "Glendale Custom",
     "seats": 4,
@@ -13889,7 +13889,7 @@ module.exports = {
     "speed": 79.41, "acceleration": 58.25, "braking": 20.83, "handling": 62.12
   },
   "youga-classic-4x4": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/vans/main/youga-classic-4x4.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/vans/main/youga-classic-4x4.jpg"},
     "manufacturer": "Bravado",
     "model": "Youga Classic 4x4",
     "seats": 4,
@@ -13898,7 +13898,7 @@ module.exports = {
     "speed": 64.39, "acceleration": 42.5, "braking": 10.0, "handling": 59.09
   },
   "yosemite-rancher": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/yosemite-rancher.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/yosemite-rancher.jpg"},
     "manufacturer": "Declasse",
     "model": "Yosemite Rancher",
     "seats": 2,
@@ -13907,7 +13907,7 @@ module.exports = {
     "speed": 74.58, "acceleration": 68.75, "braking": 16.0, "handling": 63.64
   },
   "gauntlet-classic-custom": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/gauntlet-classic-custom.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/gauntlet-classic-custom.jpg"},
     "manufacturer": "Bravado",
     "model": "Gauntlet Classic Custom",
     "seats": 2,
@@ -13916,7 +13916,7 @@ module.exports = {
     "speed": 84.78, "acceleration": 72.5, "braking": 30.0, "handling": 68.18
   },
   "coquette-d10": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/coquette-d10.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/coquette-d10.jpg"},
     "manufacturer": "Invetero",
     "model": "Coquette D10",
     "seats": 2,
@@ -13925,7 +13925,7 @@ module.exports = {
     "speed": 85.85, "acceleration": 80.0, "braking": 20.0, "handling": 100.0
   },
   "winky": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/winky.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/winky.jpg"},
     "manufacturer": "Vapid",
     "model": "Winky",
     "seats": 3,
@@ -13934,7 +13934,7 @@ module.exports = {
     "speed": 48.29, "acceleration": 37.5, "braking": 8.67, "handling": 56.0
   },
   "ro-86-alkonost": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/planes/main/ro-86-alkonost.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/planes/main/ro-86-alkonost.jpg"},
     "manufacturer": "Military",
     "model": "RO-86 Alkonost",
     "seats": 2,
@@ -13943,7 +13943,7 @@ module.exports = {
     "speed": 90.5, "acceleration": 69.0, "braking": 62.45, "handling": 0.59
   },
   "annihilator-stealth": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/helicopters/main/annihilator-stealth.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/helicopters/main/annihilator-stealth.jpg"},
     "manufacturer": "Western Company",
     "model": "Annihilator Stealth",
     "seats": 6,
@@ -13952,7 +13952,7 @@ module.exports = {
     "speed": 91.02, "acceleration": 96.43, "braking": 0, "handling": 76.15
   },
   "longfin": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/boats/main/longfin.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/boats/main/longfin.jpg"},
     "manufacturer": "Shitzu",
     "model": "Longfin",
     "seats": 4,
@@ -13961,7 +13961,7 @@ module.exports = {
     "speed": 100.0, "acceleration": 97.5, "braking": 0, "handling": 100.0
   },
   "kurtz-31-patrol-boat": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/boats/main/patrol-boat.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/boats/main/patrol-boat.jpg"},
     "manufacturer": "Military",
     "model": "Kurtz 31 Patrol Boat",
     "seats": 4,
@@ -13970,7 +13970,7 @@ module.exports = {
     "speed": 74.07, "acceleration": 76.47, "braking": 0, "handling": 80.0
   },
   "avisa": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/7301-7400/GTAOnline_TheCayoPericoHeist_60-7311-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/7301-7400/GTAOnline_TheCayoPericoHeist_60-7311-360.jpg"},
     "manufacturer": "Kraken Submersibles",
     "model": "Avisa",
     "seats": 4,
@@ -13979,7 +13979,7 @@ module.exports = {
     "speed": 46.3, "acceleration": 61.76, "braking": 0, "handling": 0
   },
   "toreador": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/7201-7300/GTAOnline_Vehicles_Toreador_Action-7284-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/7201-7300/GTAOnline_Vehicles_Toreador_Action-7284-360.jpg"},
     "manufacturer": "Pegassi",
     "model": "Toreador",
     "seats": 4,
@@ -13988,7 +13988,7 @@ module.exports = {
     "speed": 80.48, "acceleration": 75.0, "braking": 33.33, "handling": 74.24
   },
   "sparrow": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/properties/kosatka/vehicles/sparrow.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/properties/kosatka/vehicles/sparrow.jpg"},
     "manufacturer": "Kosatka",
     "model": "Sparrow",
     "seats": 2,
@@ -13997,7 +13997,7 @@ module.exports = {
     "speed": 100.0, "acceleration": 100.0, "braking": 0, "handling": 100.0
   },
   "kosatka-submarine-hq": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/boats/main/kosatka.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/boats/main/kosatka.jpg"},
     "manufacturer": "RUNE",
     "model": "Kosatka (Submarine HQ)",
     "seats": 1,
@@ -14006,7 +14006,7 @@ module.exports = {
     "speed": 46.3, "acceleration": 30.88, "braking": 0, "handling": 0
   },
   "veto-classic-go-kart": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/temp/veto-classic.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/temp/veto-classic.jpg"},
     "manufacturer": "Dinka",
     "model": "Veto Classic (Go-Kart)",
     "seats": 1,
@@ -14015,7 +14015,7 @@ module.exports = {
     "speed": 49.0, "acceleration": 100.0, "braking": 10.0, "handling": 87.0
   },
   "veto-modern-go-kart": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/temp/veto-modern.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/temp/veto-modern.jpg"},
     "manufacturer": "Dinka",
     "model": "Veto Modern (Go-Kart)",
     "seats": 1,
@@ -14024,7 +14024,7 @@ module.exports = {
     "speed": 50.0, "acceleration": 100.0, "braking": 13.33, "handling": 90.0
   },
   "itali-rsx": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/itali-rsx.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/itali-rsx.jpg"},
     "manufacturer": "Grotti",
     "model": "Itali RSX",
     "seats": 2,
@@ -14033,7 +14033,7 @@ module.exports = {
     "speed": 87.54, "acceleration": 100.0, "braking": 45.0, "handling": 100.0
   },
   "weevil": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/compacts/main/weevil.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/compacts/main/weevil.jpg"},
     "manufacturer": "BF",
     "model": "Weevil",
     "seats": 2,
@@ -14042,7 +14042,7 @@ module.exports = {
     "speed": 72.43, "acceleration": 47.0, "braking": 8.67, "handling": 53.94
   },
   "brioso-300": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/compacts/main/brioso-300.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/compacts/main/brioso-300.jpg"},
     "manufacturer": "Grotti",
     "model": "Brioso 300",
     "seats": 2,
@@ -14051,7 +14051,7 @@ module.exports = {
     "speed": 62.0, "acceleration": 45.0, "braking": 8.67, "handling": 56.0
   },
   "manchez-scout": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/motorcycles/main/manchez-scout.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/motorcycles/main/manchez-scout.jpg"},
     "manufacturer": "Maibatsu",
     "model": "Manchez Scout",
     "seats": 1,
@@ -14060,7 +14060,7 @@ module.exports = {
     "speed": 69.75, "acceleration": 66.25, "braking": 26.67, "handling": 65.0
   },
   "slamtruck": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/temp/slamtruck.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/temp/slamtruck.jpg"},
     "manufacturer": "Vapid",
     "model": "Slamtruck",
     "seats": 2,
@@ -14069,7 +14069,7 @@ module.exports = {
     "speed": 75.12, "acceleration": 50.0, "braking": 26.67, "handling": 71.21
   },
   "vetir": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/military/main/vetir.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/military/main/vetir.jpg"},
     "manufacturer": "Military",
     "model": "Vetir",
     "seats": 10,
@@ -14078,7 +14078,7 @@ module.exports = {
     "speed": 53.66, "acceleration": 27.5, "braking": 10.0, "handling": 46.06
   },
   "squaddie": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/main/squaddie.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/main/squaddie.jpg"},
     "manufacturer": "Mammoth",
     "model": "Squaddie",
     "seats": 4,
@@ -14087,7 +14087,7 @@ module.exports = {
     "speed": 69.75, "acceleration": 42.5, "braking": 10.0, "handling": 60.61
   },
   "verus": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/verus.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/verus.jpg"},
     "manufacturer": "Dinka",
     "model": "Verus",
     "seats": 2,
@@ -14096,7 +14096,7 @@ module.exports = {
     "speed": 61.7, "acceleration": 33.75, "braking": 8.67, "handling": 63.64
   },
   "weaponized-dinghy": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/boats/main/weaponized-dinghy.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/boats/main/weaponized-dinghy.jpg"},
     "manufacturer": "Nagasaki",
     "model": "Dinghy Armada",
     "seats": 5,
@@ -14105,7 +14105,7 @@ module.exports = {
     "speed": 77.16, "acceleration": 82.35, "braking": 0, "handling": 34.0
   },
   "calico-gtf": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/7401-7500/GTAOnline_Vehicle_CalicoGTF_Action-7483-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/7401-7500/GTAOnline_Vehicle_CalicoGTF_Action-7483-360.jpg"},
     "manufacturer": "Karin",
     "model": "Calico GTF",
     "seats": 2,
@@ -14114,7 +14114,7 @@ module.exports = {
     "speed": 80.35, "acceleration": 84.63, "braking": 27.5, "handling": 73.0
   },
   "futo-gtx": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/futo-gtx.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/futo-gtx.jpg"},
     "manufacturer": "Karin",
     "model": "Futo GTX",
     "seats": 2,
@@ -14123,7 +14123,7 @@ module.exports = {
     "speed": 73.51, "acceleration": 74.13, "braking": 17.5, "handling": 63.48
   },
   "euros": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/euros.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/euros.jpg"},
     "manufacturer": "Annis",
     "model": "Euros",
     "seats": 2,
@@ -14132,7 +14132,7 @@ module.exports = {
     "speed": 80.4, "acceleration": 81.0, "braking": 30.0, "handling": 77.62
   },
   "dominator-gtt": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/dominator-gtt.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/dominator-gtt.jpg"},
     "manufacturer": "Vapid",
     "model": "Dominator GTT",
     "seats": 2,
@@ -14141,7 +14141,7 @@ module.exports = {
     "speed": 77.42, "acceleration": 75.68, "braking": 25.0, "handling": 75.76
   },
   "zr350": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/zr350.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/zr350.jpg"},
     "manufacturer": "Annis",
     "model": "ZR350",
     "seats": 2,
@@ -14150,7 +14150,7 @@ module.exports = {
     "speed": 80.38, "acceleration": 82.5, "braking": 28.33, "handling": 75.3
   },
   "warrener-hkr": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sedans/main/warrener-hkr.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sedans/main/warrener-hkr.jpg"},
     "manufacturer": "Vulcar",
     "model": "Warrener HKR",
     "seats": 2,
@@ -14159,7 +14159,7 @@ module.exports = {
     "speed": 78.34, "acceleration": 66.25, "braking": 31.67, "handling": 65.45
   },
   "tailgater-s": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/tailgater-s.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/tailgater-s.jpg"},
     "manufacturer": "Obey",
     "model": "Tailgater S",
     "seats": 4,
@@ -14168,7 +14168,7 @@ module.exports = {
     "speed": 79.33, "acceleration": 82.0, "braking": 33.0, "handling": 76.0
   },
   "remus": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/remus.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/remus.jpg"},
     "manufacturer": "Annis",
     "model": "Remus",
     "seats": 2,
@@ -14177,7 +14177,7 @@ module.exports = {
     "speed": 78.77, "acceleration": 81.75, "braking": 30.0, "handling": 81.5
   },
   "rt3000": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/rt3000.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/rt3000.jpg"},
     "manufacturer": "Dinka",
     "model": "RT3000",
     "seats": 2,
@@ -14186,7 +14186,7 @@ module.exports = {
     "speed": 79.95, "acceleration": 78.0, "braking": 33.33, "handling": 78.18
   },
   "jester-rr": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/jester-rr.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/jester-rr.jpg"},
     "manufacturer": "Dinka",
     "model": "Jester RR",
     "seats": 2,
@@ -14195,7 +14195,7 @@ module.exports = {
     "speed": 81.82, "acceleration": 82.28, "braking": 28.33, "handling": 78.48
   },
   "comet-s2": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/comet-s2.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/comet-s2.jpg"},
     "manufacturer": "Pfister",
     "model": "Comet S2",
     "seats": 2,
@@ -14204,7 +14204,7 @@ module.exports = {
     "speed": 83.92, "acceleration": 86.5, "braking": 29.33, "handling": 81.0
   },
   "dominator-asp": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/dominator-asp.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/dominator-asp.jpg"},
     "manufacturer": "Vapid",
     "model": "Dominator ASP",
     "seats": 2,
@@ -14213,7 +14213,7 @@ module.exports = {
     "speed": 80.89, "acceleration": 85.5, "braking": 30.67, "handling": 75.5
   },
   "vectre": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/vectre.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/vectre.jpg"},
     "manufacturer": "Emperor",
     "model": "Vectre",
     "seats": 2,
@@ -14222,7 +14222,7 @@ module.exports = {
     "speed": 79.68, "acceleration": 81.0, "braking": 20.0, "handling": 79.85
   },
   "growler": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/growler.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/growler.jpg"},
     "manufacturer": "Pfister",
     "model": "Growler",
     "seats": 2,
@@ -14231,7 +14231,7 @@ module.exports = {
     "speed": 82.55, "acceleration": 83.44, "braking": 28.0, "handling": 79.7
   },
   "sultan-rs-classic": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/sultan-rs-classic.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/sultan-rs-classic.jpg"},
     "manufacturer": "Karin",
     "model": "Sultan RS Classic",
     "seats": 2,
@@ -14240,7 +14240,7 @@ module.exports = {
     "speed": 78.6, "acceleration": 83.0, "braking": 33.0, "handling": 76.0
   },
   "cypher": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/cypher.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/cypher.jpg"},
     "manufacturer": "Übermacht",
     "model": "Cypher",
     "seats": 2,
@@ -14249,7 +14249,7 @@ module.exports = {
     "speed": 79.33, "acceleration": 81.5, "braking": 23.33, "handling": 78.48
   },
   "previon": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/coupes/main/previon.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/coupes/main/previon.jpg"},
     "manufacturer": "Karin",
     "model": "Previon",
     "seats": 2,
@@ -14258,7 +14258,7 @@ module.exports = {
     "speed": 80.19, "acceleration": 79.63, "braking": 28.33, "handling": 75.35
   },
   "jubilee": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/main/jubilee.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/main/jubilee.jpg"},
     "manufacturer": "Enus",
     "model": "Jubilee",
     "seats": 4,
@@ -14267,7 +14267,7 @@ module.exports = {
     "speed": 81.02, "acceleration": 74.38, "braking": 25.0, "handling": 69.24
   },
   "champion": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/super/main/champion.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/super/main/champion.jpg"},
     "manufacturer": "Dewbauchee",
     "model": "Champion",
     "seats": 2,
@@ -14276,7 +14276,7 @@ module.exports = {
     "speed": 86.28, "acceleration": 89.75, "braking": 38.33, "handling": 77.76
   },
   "astron": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/main/astron.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/main/astron.jpg"},
     "manufacturer": "Pfister",
     "model": "Astron",
     "seats": 4,
@@ -14285,7 +14285,7 @@ module.exports = {
     "speed": 79.79, "acceleration": 81.0, "braking": 16.0, "handling": 66.21
   },
   "cinquemila": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sedans/main/cinquemila.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sedans/main/cinquemila.jpg"},
     "manufacturer": "Lampadati",
     "model": "Cinquemila",
     "seats": 4,
@@ -14294,7 +14294,7 @@ module.exports = {
     "speed": 82.63, "acceleration": 88.38, "braking": 32.5, "handling": 79.7
   },
   "deity": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sedans/main/deity.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sedans/main/deity.jpg"},
     "manufacturer": "Enus",
     "model": "Deity",
     "seats": 4,
@@ -14303,7 +14303,7 @@ module.exports = {
     "speed": 80.48, "acceleration": 73.13, "braking": 21.67, "handling": 65.15
   },
   "buffalo-stx": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/buffalo-stx.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/buffalo-stx.jpg"},
     "manufacturer": "Bravado",
     "model": "Buffalo STX",
     "seats": 4,
@@ -14312,7 +14312,7 @@ module.exports = {
     "speed": 85.58, "acceleration": 85.63, "braking": 31.67, "handling": 78.18
   },
   "ignus": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/super/main/ignus.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/super/main/ignus.jpg"},
     "manufacturer": "Pegassi",
     "model": "Ignus",
     "seats": 2,
@@ -14321,7 +14321,7 @@ module.exports = {
     "speed": 85.98, "acceleration": 95.88, "braking": 33.33, "handling": 83.86
   },
   "youga-custom": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/temp/youga-custom.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/temp/youga-custom.jpg"},
     "manufacturer": "Vapid",
     "model": "Youga Custom (LD Organics)",
     "seats": 4,
@@ -14329,7 +14329,7 @@ module.exports = {
     "topSpeed": { "mph": 97.25, "kmh": 156.51 }
   },
   "zeno": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/super/main/zeno.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/super/main/zeno.jpg"},
     "manufacturer": "Overflod",
     "model": "Zeno",
     "seats": 2,
@@ -14338,7 +14338,7 @@ module.exports = {
     "speed": 87.35, "acceleration": 97.0, "braking": 40.0, "handling": 83.33
   },
   "baller-st": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/main/baller-st.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/main/baller-st.jpg"},
     "manufacturer": "Gallivanter",
     "model": "Baller ST",
     "seats": 4,
@@ -14347,7 +14347,7 @@ module.exports = {
     "speed": 74.98, "acceleration": 75.63, "braking": 23.33, "handling": 66.67
   },
   "patriot-mil-spec": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/patriot-mil-spec.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/patriot-mil-spec.jpg"},
     "manufacturer": "Mammoth",
     "model": "Patriot Mil-Spec",
     "seats": 4,
@@ -14356,7 +14356,7 @@ module.exports = {
     "speed": 68.68, "acceleration": 57.5, "braking": 16.17, "handling": 60.15
   },
   "comet-s2-cabrio": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/comet-s2-cabrio.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/comet-s2-cabrio.jpg"},
     "manufacturer": "Pfister",
     "model": "Comet S2 Cabrio",
     "seats": 2,
@@ -14365,7 +14365,7 @@ module.exports = {
     "speed": 83.76, "acceleration": 87.38, "braking": 29.67, "handling": 100.0
   },
   "shinobi": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/motorcycles/main/shinobi.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/motorcycles/main/shinobi.jpg"},
     "manufacturer": "Nagasaki",
     "model": "Shinobi",
     "seats": 1,
@@ -14374,7 +14374,7 @@ module.exports = {
     "speed": 83.92, "acceleration": 90.63, "braking": 41.67, "handling": 69.7
   },
   "i-wagen": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/main/i-wagen.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/main/i-wagen.jpg"},
     "manufacturer": "Obey",
     "model": "I-Wagen",
     "seats": 4,
@@ -14383,7 +14383,7 @@ module.exports = {
     "speed": 68.68, "acceleration": 57.88, "braking": 25.83, "handling": 71.67
   },
   "granger-3600lx": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/main/granger-3600lx.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/main/granger-3600lx.jpg"},
     "manufacturer": "Declasse",
     "model": "Granger 3600LX",
     "seats": 8,
@@ -14392,7 +14392,7 @@ module.exports = {
     "speed": 76.19, "acceleration": 51.87, "braking": 28.0, "handling": 66.06
   },
   "reever": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/motorcycles/main/reever.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/motorcycles/main/reever.jpg"},
     "manufacturer": "Western",
     "model": "Reever",
     "seats": 1,
@@ -14401,7 +14401,7 @@ module.exports = {
     "speed": 81.13, "acceleration": 100.0, "braking": 43.33, "handling": 66.67
   },
   "weaponized-ignus": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/super/main/weaponized-ignus.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/super/main/weaponized-ignus.jpg"},
     "manufacturer": "Pegassi",
     "model": "Weaponized Ignus",
     "seats": 2,
@@ -14410,7 +14410,7 @@ module.exports = {
     "speed": 85.98, "acceleration": 96.5, "braking": 33.33, "handling": 83.86
   },
   "astron-custom": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/main/astron-custom.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/main/astron-custom.jpg"},
     "manufacturer": "Pfister",
     "model": "Astron Custom",
     "seats": 4,
@@ -14419,7 +14419,7 @@ module.exports = {
     "speed": 79.79, "acceleration": 81.0, "braking": 13.17, "handling": 66.21
   },
   "s95": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/s95.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/s95.jpg"},
     "manufacturer": "Karin",
     "model": "S95",
     "seats": 2,
@@ -14428,7 +14428,7 @@ module.exports = {
     "speed": 81.29, "acceleration": 83.5, "braking": 36.67, "handling": 76.06
   },
   "arbiter-gt": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/arbiter-gt.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/arbiter-gt.jpg"},
     "manufacturer": "Imponte",
     "model": "Arbiter GT",
     "seats": 2,
@@ -14437,7 +14437,7 @@ module.exports = {
     "speed": 79.68, "acceleration": 82.5, "braking": 17.33, "handling": 69.18
   },
   "cyclone-ii": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/super/main/cyclone-ii.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/super/main/cyclone-ii.jpg"},
     "manufacturer": "Coil",
     "model": "Cyclone II",
     "seats": 2,
@@ -14446,7 +14446,7 @@ module.exports = {
     "speed": 86.57, "acceleration": 100.0, "braking": 41.67, "handling": 78.18
   },
   "corsita": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/corsita.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/corsita.jpg"},
     "manufacturer": "Lampadati",
     "model": "Corsita",
     "seats": 2,
@@ -14455,7 +14455,7 @@ module.exports = {
     "speed": 87.38, "acceleration": 100.0, "braking": 43.33, "handling": 100.0
   },
   "greenwood": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/8701-8800/gtao-thecriminalenterprises-greenwood-8713-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/8701-8800/gtao-thecriminalenterprises-greenwood-8713-360.jpg"},
     "manufacturer": "Bravado",
     "model": "Greenwood",
     "seats": 4,
@@ -14464,7 +14464,7 @@ module.exports = {
     "speed": 76.73, "acceleration": 70.5, "braking": 23.33, "handling": 69.7
   },
   "omnis-e-gt": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/omnis-e-gt.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/omnis-e-gt.jpg"},
     "manufacturer": "Obey",
     "model": "Omnis e-GT",
     "seats": 4,
@@ -14473,7 +14473,7 @@ module.exports = {
     "speed": 80.35, "acceleration": 100.0, "braking": 33.33, "handling": 100.0
   },
   "torero-xo": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/8601-8700/gtaonline-summer2022-update-1-8643-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/8601-8700/gtaonline-summer2022-update-1-8643-360.jpg"},
     "manufacturer": "Pegassi",
     "model": "Torero XO",
     "seats": 2,
@@ -14482,7 +14482,7 @@ module.exports = {
     "speed": 86.52, "acceleration": 96.25, "braking": 38.33, "handling": 83.92
   },
   "lm87": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/super/main/lm87.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/super/main/lm87.jpg"},
     "manufacturer": "Benefactor",
     "model": "LM87",
     "seats": 1,
@@ -14491,7 +14491,7 @@ module.exports = {
     "speed": 87.38, "acceleration": 94.13, "braking": 45.0, "handling": 100.0
   },
   "conada": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/helicopters/main/conada.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/helicopters/main/conada.jpg"},
     "manufacturer": "Buckingham",
     "model": "Conada",
     "seats": 4,
@@ -14500,7 +14500,7 @@ module.exports = {
     "speed": 100.0, "acceleration": 100.0, "braking": 0, "handling": 100.0
   },
   "sm722": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/sm722.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/sm722.jpg"},
     "manufacturer": "Benefactor",
     "model": "SM722",
     "seats": 2,
@@ -14509,7 +14509,7 @@ module.exports = {
     "speed": 86.32, "acceleration": 89.5, "braking": 28.33, "handling": 76.0
   },
   "draugur": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/draugur.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/draugur.jpg"},
     "manufacturer": "Declasse",
     "model": "Draugur",
     "seats": 4,
@@ -14518,7 +14518,7 @@ module.exports = {
     "speed": 78.98, "acceleration": 85.63, "braking": 16.13, "handling": 75.3
   },
   "ruiner-zz-8": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/ruiner-zz-8.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/ruiner-zz-8.jpg"},
     "manufacturer": "Imponte",
     "model": "Ruiner ZZ-8",
     "seats": 2,
@@ -14527,7 +14527,7 @@ module.exports = {
     "speed": 81.02, "acceleration": 77.12, "braking": 27.33, "handling": 71.52
   },
   "brioso-300-widebody": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/compacts/main/brioso-300-widebody.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/compacts/main/brioso-300-widebody.jpg"},
     "manufacturer": "Grotti",
     "model": "Brioso 300 Widebody",
     "seats": 2,
@@ -14536,7 +14536,7 @@ module.exports = {
     "speed": 61.7, "acceleration": 44.75, "braking": 8.33, "handling": 57.12
   },
   "vigero-zx": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/vigero-zx.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/vigero-zx.jpg"},
     "manufacturer": "Declasse",
     "model": "Vigero ZX",
     "seats": 2,
@@ -14545,7 +14545,7 @@ module.exports = {
     "speed": 84.75, "acceleration": 91.12, "braking": 31.67, "handling": 100.0
   },
   "postlude": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/coupes/main/postlude.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/coupes/main/postlude.jpg"},
     "manufacturer": "Dinka",
     "model": "Postlude",
     "seats": 2,
@@ -14554,7 +14554,7 @@ module.exports = {
     "speed": 70.29, "acceleration": 73.75, "braking": 13.33, "handling": 60.15
   },
   "kanjo-sj": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/coupes/main/kanjo-sj.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/coupes/main/kanjo-sj.jpg"},
     "manufacturer": "Dinka",
     "model": "Kanjo SJ",
     "seats": 2,
@@ -14563,7 +14563,7 @@ module.exports = {
     "speed": 75.65, "acceleration": 78.75, "braking": 15.0, "handling": 60.45
   },
   "10f": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/10f.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/10f.jpg"},
     "manufacturer": "Obey",
     "model": "10F",
     "seats": 2,
@@ -14572,7 +14572,7 @@ module.exports = {
     "speed": 85.5, "acceleration": 88.62, "braking": 36.67, "handling": 100.0
   },
   "rhinehart": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sedans/main/rhinehart.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sedans/main/rhinehart.jpg"},
     "manufacturer": "Übermacht",
     "model": "Rhinehart",
     "seats": 4,
@@ -14581,7 +14581,7 @@ module.exports = {
     "speed": 84.35, "acceleration": 84.75, "braking": 29.5, "handling": 69.24
   },
   "weevil-custom": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/weevil-custom.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/weevil-custom.jpg"},
     "manufacturer": "BF",
     "model": "Weevil Custom",
     "seats": 2,
@@ -14590,7 +14590,7 @@ module.exports = {
     "speed": 85.77, "acceleration": 84.38, "braking": 25.83, "handling": 63.86
   },
   "10f-widebody": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/10f-custom.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/10f-custom.jpg"},
     "manufacturer": "Obey",
     "model": "10F Widebody",
     "seats": 2,
@@ -14599,7 +14599,7 @@ module.exports = {
     "speed": 85.98, "acceleration": 89.0, "braking": 38.33, "handling": 100.0
   },
   "sentinel-classic-widebody": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/sentinel-classic-widebody.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/sentinel-classic-widebody.jpg"},
     "manufacturer": "Übermacht",
     "model": "Sentinel Classic Widebody",
     "seats": 2,
@@ -14608,7 +14608,7 @@ module.exports = {
     "speed": 78.77, "acceleration": 73.75, "braking": 29.33, "handling": 100.0
   },
   "brickade-6x6": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/service/main/brickade-6x6.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/service/main/brickade-6x6.jpg"},
     "manufacturer": "MTL",
     "model": "Brickade 6x6 (Acid Lab)",
     "seats": 6,
@@ -14617,7 +14617,7 @@ module.exports = {
     "speed": 56.34, "acceleration": 50.0, "braking": 13.33, "handling": 60.61
   },
   "surfer-custom": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/8801-8900/gtaonline-lsdrugwars-artwork-surfercustom-8860-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/8801-8900/gtaonline-lsdrugwars-artwork-surfercustom-8860-360.jpg"},
     "manufacturer": "BF",
     "model": "Surfer Custom",
     "seats": 4,
@@ -14626,7 +14626,7 @@ module.exports = {
     "speed": 53.65, "acceleration": 25.0, "braking": 10.0, "handling": 46.96
   },
   "tulip-m-100": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/tulip-m-100.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/tulip-m-100.jpg"},
     "manufacturer": "Declasse",
     "model": "Tulip M-100",
     "seats": 2,
@@ -14635,7 +14635,7 @@ module.exports = {
     "speed": 81.55, "acceleration": 78.82, "braking": 22.66, "handling": 100.0
   },
   "journey-ii": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/8801-8900/gtaonline-journeyii-action-8848-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/8801-8900/gtaonline-journeyii-action-8848-360.jpg"},
     "manufacturer": "Zirconium",
     "model": "Journey II",
     "seats": 6,
@@ -14644,7 +14644,7 @@ module.exports = {
     "speed": 53.65, "acceleration": 32.5, "braking": 8.33, "handling": 42.42
   },
   "300r": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/300r.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/300r.jpg"},
     "manufacturer": "Annis",
     "model": "300R",
     "seats": 2,
@@ -14653,7 +14653,7 @@ module.exports = {
     "speed": 81.36, "acceleration": 82.19, "braking": 26.0, "handling": 75.6
   },
   "manchez-scout-c": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/motorcycles/main/manchez-scout-c.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/motorcycles/main/manchez-scout-c.jpg"},
     "manufacturer": "Maibatsu",
     "model": "Manchez Scout C",
     "seats": 1,
@@ -14662,7 +14662,7 @@ module.exports = {
     "speed": 69.75, "acceleration": 68.0, "braking": 26.67, "handling": 63.94
   },
   "entity-mt": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/super/main/entity-mt.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/super/main/entity-mt.jpg"},
     "manufacturer": "Overflod",
     "model": "Entity MT",
     "seats": 2,
@@ -14671,7 +14671,7 @@ module.exports = {
     "speed": 92.28, "acceleration": 88.62, "braking": 33.33, "handling": 100.0
   },
   "tahoma-coupe": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/tahoma.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/tahoma.jpg"},
     "manufacturer": "Declasse",
     "model": "Tahoma Coupe",
     "seats": 2,
@@ -14680,7 +14680,7 @@ module.exports = {
     "speed": 81.55, "acceleration": 75.4, "braking": 20.83, "handling": 69.93
   },
   "powersurge": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/motorcycles/main/powersurge.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/motorcycles/main/powersurge.jpg"},
     "manufacturer": "Western",
     "model": "Powersurge",
     "seats": 1,
@@ -14689,7 +14689,7 @@ module.exports = {
     "speed": 68.79, "acceleration": 100.0, "braking": 43.33, "handling": 71.67
   },
   "issi-rally": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/main/issi-rally.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/main/issi-rally.jpg"},
     "manufacturer": "Weeny",
     "model": "Issi Rally",
     "seats": 4,
@@ -14698,7 +14698,7 @@ module.exports = {
     "speed": 80.19, "acceleration": 80.38, "braking": 18.27, "handling": 100.0
   },
   "broadway": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/broadway.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/broadway.jpg"},
     "manufacturer": "Classique",
     "model": "Broadway",
     "seats": 2,
@@ -14707,7 +14707,7 @@ module.exports = {
     "speed": 67.61, "acceleration": 48.75, "braking": 10.67, "handling": 60.45
   },
   "panthere": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/panthere.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/panthere.jpg"},
     "manufacturer": "Toundra",
     "model": "Panthere",
     "seats": 2,
@@ -14716,7 +14716,7 @@ module.exports = {
     "speed": 84.69, "acceleration": 86.55, "braking": 28.0, "handling": 100.0
   },
   "hotring-everon": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/hotring-everon.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/hotring-everon.jpg"},
     "manufacturer": "Karin",
     "model": "Hotring Everon",
     "seats": 2,
@@ -14725,7 +14725,7 @@ module.exports = {
     "speed": 86.63, "acceleration": 84.88, "braking": 22.83, "handling": 100.0
   },
   "eudora": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/eudora.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/eudora.jpg"},
     "manufacturer": "Willard",
     "model": "Eudora",
     "seats": 4,
@@ -14734,7 +14734,7 @@ module.exports = {
     "speed": 74.04, "acceleration": 48.75, "braking": 8.83, "handling": 57.27
   },
   "virtue": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/super/main/virtue.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/super/main/virtue.jpg"},
     "manufacturer": "Ocelot",
     "model": "Virtue",
     "seats": 2,
@@ -14743,7 +14743,7 @@ module.exports = {
     "speed": 86.2, "acceleration": 100.0, "braking": 42.67, "handling": 100.0
   },
   "boor": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/boor.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/boor.jpg"},
     "manufacturer": "Karin",
     "model": "Boor",
     "seats": 2,
@@ -14752,7 +14752,7 @@ module.exports = {
     "speed": 79.95, "acceleration": 66.75, "braking": 22.67, "handling": 62.58
   },
   "f-160-raiju": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/planes/main/raiju.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/planes/main/raiju.jpg"},
     "manufacturer": "Mammoth",
     "model": "F-160 Raiju",
     "seats": 1,
@@ -14761,7 +14761,7 @@ module.exports = {
     "speed": 100.0, "acceleration": 100.0, "braking": 100.0, "handling": 4.0
   },
   "clique-wagon": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/clique-wagon.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/clique-wagon.jpg"},
     "manufacturer": "Vapid",
     "model": "Clique Wagon",
     "seats": 2,
@@ -14770,7 +14770,7 @@ module.exports = {
     "speed": 63.31, "acceleration": 49.5, "braking": 11.67, "handling": 63.03
   },
   "monstrociti": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/monstrociti.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/monstrociti.jpg"},
     "manufacturer": "Maibatsu",
     "model": "MonstroCiti",
     "seats": 2,
@@ -14779,7 +14779,7 @@ module.exports = {
     "speed": 76.03, "acceleration": 68.38, "braking": 12.3, "handling": 100.0
   },
   "ratel": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/ratel.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/ratel.jpg"},
     "manufacturer": "Vapid",
     "model": "Ratel",
     "seats": 2,
@@ -14788,7 +14788,7 @@ module.exports = {
     "speed": 76.73, "acceleration": 85.5, "braking": 10.67, "handling": 66.42
   },
   "streamer216": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/planes/main/streamer216.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/planes/main/streamer216.jpg"},
     "manufacturer": "Mammoth",
     "model": "Streamer216",
     "seats": 4,
@@ -14797,7 +14797,7 @@ module.exports = {
     "speed": 84.02, "acceleration": 40.0, "braking": 33.61, "handling": 1.39
   },
   "walton-l35": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/main/walton-l35.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/main/walton-l35.jpg"},
     "manufacturer": "Declasse",
     "model": "Walton L35 (Lifted)",
     "seats": 2,
@@ -14806,7 +14806,7 @@ module.exports = {
     "speed": 70.82, "acceleration": 59.0, "braking": 10.67, "handling": 61.76
   },
   "stinger-tt": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/stinger-tt.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/stinger-tt.jpg"},
     "manufacturer": "Grotti",
     "model": "Stinger TT",
     "seats": 2,
@@ -14815,7 +14815,7 @@ module.exports = {
     "speed": 86.92, "acceleration": 99.5, "braking": 32.67, "handling": 79.29
   },
   "buffalo-evx": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/buffalo-evx.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/buffalo-evx.jpg"},
     "manufacturer": "Bravado",
     "model": "Buffalo EVX",
     "seats": 2,
@@ -14824,7 +14824,7 @@ module.exports = {
     "speed": 84.05, "acceleration": 95.5, "braking": 32.83, "handling": 73.33
   },
   "inductor": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/cycles/main/inductor.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/cycles/main/inductor.jpg"},
     "manufacturer": "Coil",
     "model": "Inductor",
     "seats": 1,
@@ -14833,7 +14833,7 @@ module.exports = {
     "speed": 40.24, "acceleration": 14.0, "braking": 51.67, "handling": 31.06
   },
   "junk-energy-inductor": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/cycles/main/inductor-livery.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/cycles/main/inductor-livery.jpg"},
     "manufacturer": "Coil",
     "model": "Junk Energy Inductor",
     "seats": 1,
@@ -14842,7 +14842,7 @@ module.exports = {
     "speed": 40.24, "acceleration": 14.0, "braking": 51.67, "handling": 31.06
   },
   "la-coureuse": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/la-coureuse.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/la-coureuse.jpg"},
     "manufacturer": "Penaud",
     "model": "La Coureuse",
     "seats": 2,
@@ -14851,7 +14851,7 @@ module.exports = {
     "speed": 75.04, "acceleration": 92.5, "braking": 26.67, "handling": 100.0
   },
   "weaponized-conada": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/helicopters/main/weaponized-conada.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/helicopters/main/weaponized-conada.jpg"},
     "manufacturer": "Buckingham",
     "model": "Weaponized Conada",
     "seats": 2,
@@ -14860,7 +14860,7 @@ module.exports = {
     "speed": 100.0, "acceleration": 100.0, "braking": 0.0, "handling": 100.0
   },
   "hotring-hellfire": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/main/hotring-hellfire.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/main/hotring-hellfire.jpg"},
     "manufacturer": "Bravado",
     "model": "Hotring Hellfire",
     "seats": 2,
@@ -14869,7 +14869,7 @@ module.exports = {
     "speed": 86.3, "acceleration": 91.69, "braking": 31.17, "handling": 100.0
   },
   "brigham": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/main/brigham.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/main/brigham.jpg"},
     "manufacturer": "Albany",
     "model": "Brigham",
     "seats": 4,
@@ -14878,7 +14878,7 @@ module.exports = {
     "speed": 72.97, "acceleration": 52.5, "braking": 12.67, "handling": 57.73
   },
   "asterope-gz": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sedans/asterope-gz.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sedans/asterope-gz.jpg"},
     "manufacturer": "Karin",
     "model": "Asterope GZ",
     "seats": 4,
@@ -14887,7 +14887,7 @@ module.exports = {
     "speed": 77.79, "acceleration": 59.5, "braking": 29.99, "handling": 70.76
   },
   "impaler-lx": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/impaler-lx.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/impaler-lx.jpg"},
     "manufacturer": "Declasse",
     "model": "Impaler LX",
     "seats": 4,
@@ -14896,7 +14896,7 @@ module.exports = {
     "speed": 77.8, "acceleration": 75.0, "braking": 23.33, "handling": 64.7
   },
   "fr36": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/coupes/fr36.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/coupes/fr36.jpg"},
     "manufacturer": "Fathom",
     "model": "FR36",
     "seats": 2,
@@ -14905,7 +14905,7 @@ module.exports = {
     "speed": 82.09, "acceleration": 75.25, "braking": 28.67, "handling": 72.21
   },
   "dominator-gt": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/dominator-gt.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/dominator-gt.jpg"},
     "manufacturer": "Vapid",
     "model": "Dominator GT",
     "seats": 2,
@@ -14914,7 +14914,7 @@ module.exports = {
     "speed": 86.92, "acceleration": 86.2, "braking": 31.0, "handling": 77.12
   },
   "turismo-omaggio": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/super/turismo-omaggio.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/super/turismo-omaggio.jpg"},
     "manufacturer": "Grotti",
     "model": "Turismo Omaggio",
     "seats": 2,
@@ -14923,7 +14923,7 @@ module.exports = {
     "speed": 82.09, "acceleration": 93.5, "braking": 39.5, "handling": 100.0
   },
   "aleutian": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/aleutian.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/aleutian.jpg"},
     "manufacturer": "Vapid",
     "model": "Aleutian",
     "seats": 4,
@@ -14932,7 +14932,7 @@ module.exports = {
     "speed": 63.85, "acceleration": 69.88, "braking": 25.0, "handling": 63.57
   },
   "vivanite": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/vivanite.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/vivanite.jpg"},
     "manufacturer": "Karin",
     "model": "Vivanite",
     "seats": 4,
@@ -14941,7 +14941,7 @@ module.exports = {
     "speed": 83.7, "acceleration": 23.37, "braking": 26.0, "handling": 66.02
   },
   "vigero-zx-convertible": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/muscle/vigero-zx-convertible.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/muscle/vigero-zx-convertible.jpg"},
     "manufacturer": "Declasse",
     "model": "Vigero ZX Convertible",
     "seats": 2,
@@ -14950,7 +14950,7 @@ module.exports = {
     "speed": 84.74, "acceleration": 91.12, "braking": 31.67, "handling": 100.0
   },
   "dorado": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/dorado.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/dorado.jpg"},
     "manufacturer": "Bravado",
     "model": "Dorado",
     "seats": 4,
@@ -14959,7 +14959,7 @@ module.exports = {
     "speed": 76.03, "acceleration": 54.21, "braking": 16.67, "handling": 55.91
   },
   "cavalcade-xl": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/cavalcade-xl.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/cavalcade-xl.jpg"},
     "manufacturer": "Albany",
     "model": "Cavalcade XL",
     "seats": 4,
@@ -14968,7 +14968,7 @@ module.exports = {
     "speed": 65.46, "acceleration": 69.13, "braking": 29.17, "handling": 67.42
   },
   "baller-st-d": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/suvs/baller-st-d.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/suvs/baller-st-d.jpg"},
     "manufacturer": "Gallivanter",
     "model": "Baller ST-D",
     "seats": 4,
@@ -14977,7 +14977,7 @@ module.exports = {
     "speed": 75.12, "acceleration": 73.75, "braking": 30.75, "handling": 69.18
   },
   "impaler-sz": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sedans/impaler-sz.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sedans/impaler-sz.jpg"},
     "manufacturer": "Declasse",
     "model": "Impaler SZ",
     "seats": 4,
@@ -14986,7 +14986,7 @@ module.exports = {
     "speed": 77.26, "acceleration": 63.44, "braking": 28.83, "handling": 69.7
   },
   "terminus": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/terminus.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/terminus.jpg"},
     "manufacturer": "Canis",
     "model": "Terminus",
     "seats": 4,
@@ -14995,7 +14995,7 @@ module.exports = {
     "speed": 79.41, "acceleration": 67.25, "braking": 18.33, "handling": 66.29
   },
   "benson-cluckin-bell": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/commercial/benson-cluckin-bell.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/commercial/benson-cluckin-bell.jpg"},
     "manufacturer": "Vapid",
     "model": "Benson (Cluckin' Bell)",
     "seats": 2,
@@ -15004,7 +15004,7 @@ module.exports = {
     "speed": 69.75, "acceleration": 40.0, "braking": 8.33, "handling": 53.03
   },
   "gauntlet-interceptor": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/temp/dripfeed-chop-shop/police1-2.png"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/temp/dripfeed-chop-shop/police1-2.png"},
     "manufacturer": "Bravado",
     "model": "Gauntlet Interceptor",
     "seats": 2,
@@ -15013,7 +15013,7 @@ module.exports = {
     "speed": 83.17, "acceleration": 90.0, "braking": 30.0, "handling": 71.21
   },
   "niobe": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/niobe.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/niobe.jpg"},
     "manufacturer": "Übermacht",
     "model": "Niobe",
     "seats": 2,
@@ -15022,7 +15022,7 @@ module.exports = {
     "speed": 89.6, "acceleration": 95.12, "braking": 25.33, "handling": 100.0
   },
   "yosemite-1500": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/off-road/yosemite-1500.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/off-road/yosemite-1500.jpg"},
     "manufacturer": "Declasse",
     "model": "Yosemite 1500",
     "seats": 2,
@@ -15031,7 +15031,7 @@ module.exports = {
     "speed": 71.63, "acceleration": 58.38, "braking": 17.67, "handling": 60.61
   },
   "paragon-s": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/paragon-s.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/paragon-s.jpg"},
     "manufacturer": "Enus",
     "model": "Paragon S",
     "seats": 2,
@@ -15040,7 +15040,7 @@ module.exports = {
     "speed": 85.58, "acceleration": 82.5, "braking": 36.67, "handling": 100.0
   },
   "greenwood-cruiser": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/emergency/greenwood-cruiser.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/emergency/greenwood-cruiser.jpg"},
     "manufacturer": "Bravado",
     "model": "Greenwood Cruiser",
     "seats": 4,
@@ -15049,7 +15049,7 @@ module.exports = {
     "speed": 76.73, "acceleration": 70.5, "braking": 23.33, "handling": 69.7
   },
   "impaler-sz-cruiser": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/emergency/impaler-sz-cruiser.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/emergency/impaler-sz-cruiser.jpg"},
     "manufacturer": "Declasse",
     "model": "Impaler SZ Cruiser",
     "seats": 4,
@@ -15058,7 +15058,7 @@ module.exports = {
     "speed": 77.26, "acceleration": 63.44, "braking": 28.83, "handling": 69.7
   },
   "burrito-bail": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/emergency/burrito-bail-enforcement.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/emergency/burrito-bail-enforcement.jpg"},
     "manufacturer": "Declasse",
     "model": "Burrito (Bail Enforcement)",
     "seats": 4,
@@ -15067,7 +15067,7 @@ module.exports = {
     "speed": 77.8, "acceleration": 48.75, "braking": 20.0, "handling": 60.61
   },
   "pipistrello": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/pipistrello-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/pipistrello-360.jpg"},
     "manufacturer": "Overflod",
     "model": "Pipistrello",
     "seats": 2,
@@ -15076,7 +15076,7 @@ module.exports = {
     "speed": 89.07, "acceleration": 56.0, "braking": 30.67, "handling": 100.0
   },
   "envisage": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports/envisage.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports/envisage.jpg"},
     "manufacturer": "Bollokan",
     "model": "Envisage",
     "seats": 2,
@@ -15085,7 +15085,7 @@ module.exports = {
     "speed": 93.9, "acceleration": 43.75, "braking": 27.33, "handling": 100.0
   },
   "dorado-cruiser": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/emergency/dorado-cruiser.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/emergency/dorado-cruiser.jpg"},
     "manufacturer": "Bravado",
     "model": "Dorado Cruiser",
     "seats": 4,
@@ -15094,7 +15094,7 @@ module.exports = {
     "speed": 76.03, "acceleration": 54.21, "braking": 16.67, "handling": 55.91
   },
   "coquette-d1": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/sports-classic/coquette-d1.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/sports-classic/coquette-d1.jpg"},
     "manufacturer": "Invetero",
     "model": "Coquette D1",
     "seats": 2,
@@ -15103,7 +15103,7 @@ module.exports = {
     "speed": 85.85, "acceleration": 69.5, "braking": 20.0, "handling": 70.45
   },
   "euros-x32": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/coupes/euros-x32.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/coupes/euros-x32.jpg"},
     "manufacturer": "Annis",
     "model": "Euros X32",
     "seats": 2,
@@ -15112,7 +15112,7 @@ module.exports = {
     "speed": 81.02, "acceleration": 70.0, "braking": 26.67, "handling": 69.3
   },
   "impaler-lx-cruiser": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/impaler-lx-cruiser-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/impaler-lx-cruiser-360.jpg"},
     "manufacturer": "Declasse",
     "model": "Impaler LX Cruiser",
     "seats": 2,
@@ -15121,7 +15121,7 @@ module.exports = {
     "speed": 77.8, "acceleration": 75.0, "braking": 23.33, "handling": 64.7
   },
   "dominator-fx-interceptor": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/dominator-fx-interceptor-2-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/dominator-fx-interceptor-2-360.jpg"},
     "manufacturer": "Vapid",
     "model": "Dominator FX Interceptor",
     "seats": 2,
@@ -15130,7 +15130,7 @@ module.exports = {
     "speed": 82.09, "acceleration": 75.0, "braking": 23.0, "handling": 72.21
   },
   "castigator": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/castigator-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/castigator-360.jpg"},
     "manufacturer": "Canis",
     "model": "Castigator",
     "seats": 4,
@@ -15139,7 +15139,7 @@ module.exports = {
     "speed": 85.31, "acceleration": 72.62, "braking": 25.33, "handling": 68.61
   },
   "pizza-boy": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/pizza-boy-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/pizza-boy-360.jpg"},
     "manufacturer": "Pegassi",
     "model": "Pizza Boy",
     "seats": 2,
@@ -15148,7 +15148,7 @@ module.exports = {
     "speed": 49.63, "acceleration": 30.0, "braking": 11.0, "handling": 50.3
   },
   "dominator-fx": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/dominator-fx-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/dominator-fx-360.jpg"},
     "manufacturer": "Vapid",
     "model": "Dominator FX",
     "seats": 2,
@@ -15157,7 +15157,7 @@ module.exports = {
     "speed": 82.09, "acceleration": 75.0, "braking": 23.0, "handling": 72.21
   },
   "vorschlaghammer": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/vorschlaghammer-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/vorschlaghammer-360.jpg"},
     "manufacturer": "Benefactor",
     "model": "Vorschlaghammer",
     "seats": 4,
@@ -15166,7 +15166,7 @@ module.exports = {
     "speed": 84.24, "acceleration": 66.25, "braking": 20.83, "handling": 62.58
   },
   "banshee-gts": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/banshee-gts-1080.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/banshee-gts-1080.jpg"},
     "manufacturer": "Bravado",
     "model": "Banshee GTS",
     "seats": 2,
@@ -15175,7 +15175,7 @@ module.exports = {
     "speed": 98.03, "acceleration": 96.95, "braking": 24.0, "handling": 100.0
   },
   "caracara-pursuit": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/caracara-pursuit-1080.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/caracara-pursuit-1080.jpg"},
     "manufacturer": "Vapid",
     "model": "Caracara de Persecución",
     "seats": 4,
@@ -15184,7 +15184,7 @@ module.exports = {
     "speed": 74.04, "acceleration": 67.5, "braking": 10.0, "handling": 62.12
   },
   "terminus-patrol": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/terminus-patrol-1080.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/terminus-patrol-1080.jpg"},
     "manufacturer": "Canis",
     "model": "Terminus Patrulla",
     "seats": 4,
@@ -15193,7 +15193,7 @@ module.exports = {
     "speed": 79.41, "acceleration": 67.25, "braking": 18.33, "handling": 66.29
   },
   "jester-rr-widebody": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/jester-rr-widebody-1080.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/jester-rr-widebody-1080.jpg"},
     "manufacturer": "Dinka",
     "model": "LSCM Jester RR (Ancho)",
     "seats": 2,
@@ -15202,7 +15202,7 @@ module.exports = {
     "speed": 81.82, "acceleration": 82.28, "braking": 28.33, "handling": 100.0
   },
   "chavos-v6": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/chavos-v6-1080.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/chavos-v6-1080.jpg"},
     "manufacturer": "Dinka",
     "model": "Chavos V6",
     "seats": 4,
@@ -15211,7 +15211,7 @@ module.exports = {
     "speed": 78.34, "acceleration": 68.5, "braking": 23.0, "handling": 77.39
   },
   "outreach-faction": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/temp/outreach-faction.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/temp/outreach-faction.jpg"},
     "manufacturer": "Willard",
     "model": "Outreach Faction",
     "seats": 2,
@@ -15220,7 +15220,7 @@ module.exports = {
     "speed": 75.12, "acceleration": 70.0, "braking": 26.67, "handling": 68.18
   },
   "coquette-d10-pursuit": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/articles/gta-online-coquette-d10-pursuit.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/articles/gta-online-coquette-d10-pursuit.jpg"},
     "manufacturer": "Invetero",
     "model": "Coquette D10 de Persecución",
     "seats": 2,
@@ -15229,7 +15229,7 @@ module.exports = {
     "speed": 85.85, "acceleration": 80.0, "braking": 20.0, "handling": 100.0
   },
   "firebolt-asp": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/firebolt-asp-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/firebolt-asp-360.jpg"},
     "manufacturer": "Vapid",
     "model": "Firebolt ASP",
     "seats": 2,
@@ -15238,7 +15238,7 @@ module.exports = {
     "speed": 77.53, "acceleration": 74.05, "braking": 13.0, "handling": 70.91
   },
   "uranus-lozspeed": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/uranus-lozspeed-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/uranus-lozspeed-360.jpg"},
     "manufacturer": "Vapid",
     "model": "Uranus LozSpeed",
     "seats": 2,
@@ -15247,7 +15247,7 @@ module.exports = {
     "speed": 83.17, "acceleration": 81.13, "braking": 16.0, "handling": 76.97
   },
   "dh7-iron": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/dh-7-iron-mule-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/dh-7-iron-mule-360.jpg"},
     "manufacturer": "Buckingham",
     "model": "DH-7 Iron Mule",
     "seats": 16,
@@ -15256,7 +15256,7 @@ module.exports = {
     "speed": 100.0, "acceleration": 100.0, "braking": 0, "handling": 100.0
   },
   "coquette-d5": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/coquette-d5-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/coquette-d5-360.jpg"},
     "manufacturer": "Invetero",
     "model": "Coquette D5",
     "seats": 2,
@@ -15265,7 +15265,7 @@ module.exports = {
     "speed": 89.74, "acceleration": 81.25, "braking": 23.33, "handling": 79.91
   },
   "titan-250d": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/titan-250d-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/titan-250d-360.jpg"},
     "manufacturer": "Eberhard",
     "model": "Titan 250 D",
     "seats": 16,
@@ -15274,7 +15274,7 @@ module.exports = {
     "speed": 87.53, "acceleration": 31.25, "braking": 27.35, "handling": 0.42
   },
   "suzume": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta-online-screens/gtaonline-moneyfronts-3-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta-online-screens/gtaonline-moneyfronts-3-360.jpg"},
     "manufacturer": "Overflod",
     "model": "Suzume",
     "seats": 2,
@@ -15283,7 +15283,7 @@ module.exports = {
     "speed": 91.21, "acceleration": 57.5, "braking": 31.5, "handling": 100.0
   },
   "tampa-gt": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/tampa-gt-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/tampa-gt-360.jpg"},
     "manufacturer": "Declasse",
     "model": "Tampa GT",
     "seats": 2,
@@ -15292,7 +15292,7 @@ module.exports = {
     "speed": 85.85, "acceleration": 92.5, "braking": 10.0, "handling": 55.15
   },
   "hardy": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/hardy-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/hardy-360.jpg"},
     "manufacturer": "Annis",
     "model": "Hardy",
     "seats": 4,
@@ -15301,7 +15301,7 @@ module.exports = {
     "speed": 84.56, "acceleration": 67.8, "braking": 18.87, "handling": 61.36
   },
   "minimus": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/minimus-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/minimus-360.jpg"},
     "manufacturer": "Annis",
     "model": "Minimus",
     "seats": 4,
@@ -15310,7 +15310,7 @@ module.exports = {
     "speed": 79.68, "acceleration": 70.38, "braking": 18.33, "handling": 77.27
   },
   "rapid-gt-x": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/rapid-gt-x-action-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/rapid-gt-x-action-360.jpg"},
     "manufacturer": "Dewbauchee",
     "model": "Rapid GT X",
     "seats": 2,
@@ -15319,7 +15319,7 @@ module.exports = {
     "speed": 89.6, "acceleration": 87.5, "braking": 26.67, "handling": 74.24
   },
   "sentinel-gts": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/sentinel-gts-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/sentinel-gts-360.jpg"},
     "manufacturer": "Übermacht",
     "model": "Sentinel GTS",
     "seats": 4,
@@ -15328,7 +15328,7 @@ module.exports = {
     "speed": 89.44, "acceleration": 82.5, "braking": 23.33, "handling": 75.76
   },
   "everon-rs": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/everon-rs-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/everon-rs-360.jpg"},
     "manufacturer": "Karin",
     "model": "Everon RS",
     "seats": 2,
@@ -15337,7 +15337,7 @@ module.exports = {
     "speed": 82.9, "acceleration": 84.38, "braking": 15.0, "handling": 66.67
   },
   "woodlander": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/woodlander-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/woodlander-360.jpg"},
     "manufacturer": "Karin",
     "model": "Woodlander",
     "seats": 4,
@@ -15346,7 +15346,7 @@ module.exports = {
     "speed": 86.12, "acceleration": 65.0, "braking": 16.17, "handling": 66.71
   },
   "sentinel-xs4": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/sentinel-xs4-1-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/sentinel-xs4-1-360.jpg"},
     "manufacturer": "Übermacht",
     "model": "Sentinel XS4",
     "seats": 4,
@@ -15355,7 +15355,7 @@ module.exports = {
     "speed": 85.85, "acceleration": 73.75, "braking": 21.67, "handling": 62.12
   },
   "gt750": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/gt750-1-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/gt750-1-360.jpg"},
     "manufacturer": "Grotti",
     "model": "GT750",
     "seats": 2,
@@ -15364,7 +15364,7 @@ module.exports = {
     "speed": 86.38, "acceleration": 83.0, "braking": 15.67, "handling": 72.12
   },
   "x-treme": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/xtreme-1-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/xtreme-1-360.jpg"},
     "manufacturer": "Pfister",
     "model": "X-Treme",
     "seats": 2,
@@ -15373,7 +15373,7 @@ module.exports = {
     "speed": 93.36, "acceleration": 58.13, "braking": 30.0, "handling": 100.0
   },
   "fmj-mk-v": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/fmj-mkv-1-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/fmj-mkv-1-360.jpg"},
     "manufacturer": "Vapid",
     "model": "FMJ MK V",
     "seats": 2,
@@ -15382,7 +15382,7 @@ module.exports = {
     "speed": 94.7, "acceleration": 96.87, "braking": 29.0, "handling": 100.0
   },
   "luiva": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/luiva-360.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/luiva-360.jpg"},
     "manufacturer": "Progen",
     "model": "Luiva",
     "seats": 2,
@@ -15391,7 +15391,7 @@ module.exports = {
     "speed": 96.58, "acceleration": 95.0, "braking": 25.0, "handling": 100.0
   },
   "astrale": {
-    "images": { "frontQuarter": "https://www.gtabase.comimages/gta-5/vehicles/temp/astrale.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/images/gta-5/vehicles/temp/astrale.jpg"},
     "manufacturer": "Pfister",
     "model": "Astrale",
     "seats": 2,
@@ -15399,7 +15399,7 @@ module.exports = {
     "topSpeed": { "mph": 126, "kmh": 202.78 }
   },
   "itali-classic": {
-    "images": { "frontQuarter": "https://www.gtabase.comigallery/gta5-database/itali-classic-320x180.jpg"},
+    "images": { "frontQuarter": "https://www.gtabase.com/igallery/gta5-database/itali-classic-320x180.jpg"},
     "manufacturer": "Grotti",
     "model": "Itali Classic",
     "seats": 2,
