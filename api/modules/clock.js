@@ -1,4 +1,4 @@
-const tunables = require('../util/tunables.js');
+const tunables = require('../api/util/tunables.js');
 
 const WEATHERS = {
     0: '⛅ Parcialmente nublado',
