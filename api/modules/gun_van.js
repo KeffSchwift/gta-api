@@ -1,7 +1,7 @@
-const seed_random_number_generator = require('../util/rng.js');
-const misc = require('../util/misc.js');
-const tunables = require('../util/tunables.js');
-const zones = require('../data/zones.json');
+const seed_random_number_generator = require('../api/util/rng.js');
+const misc = require('../api/util/misc.js');
+const tunables = require('../api/util/tunables.js');
+const zones = require('../api/data/zones.json');
 
 const DISABLED_LOCATION = 4;
 
