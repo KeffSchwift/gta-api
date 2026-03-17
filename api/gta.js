@@ -2,8 +2,8 @@ const express = require('express');
 const router = express.Router();
 
 // Importamos tus módulos de lógica
-const gun_van = require('../modules/gun_van');
-const clock = require('../modules/clock');
+const gun_van = require('../api/modules/gun_van');
+const clock = require('../api/modules/clock');
 
 // Endpoint para la Gun Van
 router.get('/gunvan', (req, res) => {
