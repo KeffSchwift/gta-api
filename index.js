@@ -3,7 +3,7 @@ const app = express();
 app.use(express.json());
 
 app.use('/auto', require('./api/autos'));
-//app.use('/arma', require('./api/armas')); 
+app.use('/arma', require('./api/armas')); 
 
 
 app.listen(3000, () => {
