@@ -4,6 +4,7 @@ app.use(express.json());
 
 app.use('/auto', require('./api/autos'));
 app.use('/arma', require('./api/armas')); 
+app.use('/gta', require('./api/gta')); 
 
 
 app.listen(3000, () => {
