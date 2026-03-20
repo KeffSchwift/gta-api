@@ -1,4 +1,4 @@
-vvmodule.exports = {
+module.exports = {
   "albany": "https://i.ibb.co/Rk0DqSY3/albany.png",
   "annis": "https://i.ibb.co/gM6vMR6t/annis.png",
   "benefactor": "https://i.ibb.co/SDvG8L55/benefactor.png",
