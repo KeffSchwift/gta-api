@@ -4584,7 +4584,7 @@ module.exports = {
     "sentinel_gts": {
       "nombre": "Übermacht Sentinel GTS",
       "url": "/vehicles/grand-theft-auto-v/sentinel-gts",
-      "imagen": "/igallery/gta5-database/resized/sentinel-gts-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/sentinel-gts-360.jpg",
       "metadatos": {
         "agregado": "1.71 Money Fronts",
         "asientos": 4,
@@ -4607,7 +4607,7 @@ module.exports = {
     "rapid_gt_x": {
       "nombre": "Dewbauchee Rapid GT X",
       "url": "/vehicles/grand-theft-auto-v/rapid-gt-x",
-      "imagen": "/igallery/gta5-database/resized/rapid-gt-x-action-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/rapid-gt-x-action-360.jpg",
       "metadatos": {
         "agregado": "1.71 Money Fronts",
         "asientos": 2,
@@ -4630,7 +4630,7 @@ module.exports = {
     "coquette_d5": {
       "nombre": "Invetero Coquette D5",
       "url": "/vehicles/grand-theft-auto-v/coquette-d5",
-      "imagen": "/igallery/gta5-database/resized/coquette-d5-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/coquette-d5-360.jpg",
       "metadatos": {
         "agregado": "1.70 Agents of Sabotage",
         "asientos": 2,
@@ -4653,7 +4653,7 @@ module.exports = {
     "jester_rr_widebody": {
       "nombre": "Dinka LSCM Jester RR (Widebody)",
       "url": "/vehicles/grand-theft-auto-v/jester-rr-widebody",
-      "imagen": "/igallery/gta5-database/resized/jester-rr-widebody-1080_320x180.jpg",
+      "imagen": "/igallery/gta5-database/jester-rr-widebody-1080.jpg",
       "metadatos": {
         "agregado": "1.70 Agents of Sabotage",
         "asientos": 2,
@@ -4678,7 +4678,7 @@ module.exports = {
     "banshee_gts": {
       "nombre": "Bravado Banshee GTS",
       "url": "/vehicles/grand-theft-auto-v/banshee-gts",
-      "imagen": "/igallery/gta5-database/resized/banshee-gts-1080_320x180.jpg",
+      "imagen": "/igallery/gta5-database/banshee-gts-1080.jpg",
       "metadatos": {
         "agregado": "1.70 Agents of Sabotage",
         "asientos": 2,
@@ -4703,7 +4703,7 @@ module.exports = {
     "envisage": {
       "nombre": "Bollokan Envisage",
       "url": "/grand-theft-auto-v/vehicles/envisage",
-      "imagen": "/images/gta-5/vehicles/sports/resized/envisage_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/envisage.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 2,
@@ -4728,7 +4728,7 @@ module.exports = {
     "paragon_s": {
       "nombre": "Enus Paragon S",
       "url": "/grand-theft-auto-v/vehicles/paragon-s",
-      "imagen": "/images/gta-5/vehicles/sports/resized/paragon-s_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/paragon-s.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 2,
@@ -4753,7 +4753,7 @@ module.exports = {
     "niobe": {
       "nombre": "Übermacht Niobe",
       "url": "/grand-theft-auto-v/vehicles/niobe",
-      "imagen": "/images/gta-5/vehicles/sports/resized/niobe_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/niobe.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 2,
@@ -4778,7 +4778,7 @@ module.exports = {
     "hotring_hellfire": {
       "nombre": "Bravado Hotring Hellfire",
       "url": "/grand-theft-auto-v/vehicles/hotring_hellfire",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/hotring-hellfire_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/hotring-hellfire.jpg",
       "metadatos": {
         "agregado": "1.67 Mercenaries",
         "asientos": 2,
@@ -4801,7 +4801,7 @@ module.exports = {
     "la_coureuse": {
       "nombre": "Penaud La Coureuse",
       "url": "/grand-theft-auto-v/vehicles/la-coureuse",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/la-coureuse_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/la-coureuse.jpg",
       "metadatos": {
         "agregado": "1.67 Mercenaries",
         "asientos": 2,
@@ -4826,7 +4826,7 @@ module.exports = {
     "stinger_tt": {
       "nombre": "Grotti Stinger TT",
       "url": "/grand-theft-auto-v/vehicles/itali-gto-stinger-tt",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/stinger-tt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/stinger-tt.jpg",
       "metadatos": {
         "agregado": "1.67 Mercenaries",
         "asientos": 2,
@@ -4851,7 +4851,7 @@ module.exports = {
     "hotring_everon": {
       "nombre": "Karin Hotring Everon",
       "url": "/grand-theft-auto-v/vehicles/hotring-everon",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/hotring-everon_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/hotring-everon.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 2,
@@ -4874,7 +4874,7 @@ module.exports = {
     "panthere": {
       "nombre": "Toundra Panthere",
       "url": "/grand-theft-auto-v/vehicles/panthere",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/panthere_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/panthere.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 2,
@@ -4897,7 +4897,7 @@ module.exports = {
     "300r": {
       "nombre": "Annis 300R",
       "url": "/grand-theft-auto-v/vehicles/300r",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/300r_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/300r.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 2,
@@ -4922,7 +4922,7 @@ module.exports = {
     "sentinel_classic_widebody": {
       "nombre": "Übermacht Sentinel Classic Widebody",
       "url": "/grand-theft-auto-v/vehicles/sentinel-classic-widebody",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/sentinel-classic-widebody_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/sentinel-classic-widebody.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 2,
@@ -4947,7 +4947,7 @@ module.exports = {
     "10f_widebody": {
       "nombre": "Obey 10F Widebody",
       "url": "/grand-theft-auto-v/vehicles/10f-widebody",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/10f-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/10f-custom.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 2,
@@ -4972,7 +4972,7 @@ module.exports = {
     "10f": {
       "nombre": "Obey 10F",
       "url": "/grand-theft-auto-v/vehicles/10f",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/10f_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/10f.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 2,
@@ -4995,7 +4995,7 @@ module.exports = {
     "sm722": {
       "nombre": "Benefactor SM722",
       "url": "/grand-theft-auto-v/vehicles/sm722",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/sm722_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/sm722.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 2,
@@ -5018,7 +5018,7 @@ module.exports = {
     "omnis_e_gt": {
       "nombre": "Obey Omnis e-GT",
       "url": "/grand-theft-auto-v/vehicles/omnis-e-gt",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/omnis-e-gt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/omnis-e-gt.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 4,
@@ -5043,7 +5043,7 @@ module.exports = {
     "corsita": {
       "nombre": "Lampadati Corsita",
       "url": "/grand-theft-auto-v/vehicles/corsita",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/corsita_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/corsita.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 2,
@@ -5066,7 +5066,7 @@ module.exports = {
     "s95": {
       "nombre": "Karin S95",
       "url": "/grand-theft-auto-v/vehicles/s95",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/s95_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/s95.jpg",
       "metadatos": {
         "agregado": "1.59 PS5 & Xbox Series X|S Release",
         "asientos": 2,
@@ -5091,7 +5091,7 @@ module.exports = {
     "comet_s2_cabrio": {
       "nombre": "Pfister Comet S2 Cabrio",
       "url": "/grand-theft-auto-v/vehicles/comet-s2-cabrio",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/comet-s2-cabrio_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/comet-s2-cabrio.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 2,
@@ -5114,7 +5114,7 @@ module.exports = {
     "cypher": {
       "nombre": "Übermacht Cypher",
       "url": "/grand-theft-auto-v/vehicles/cypher",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/cypher_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/cypher.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -5139,7 +5139,7 @@ module.exports = {
     "sultan_rs_classic": {
       "nombre": "Karin Sultan RS Classic",
       "url": "/grand-theft-auto-v/vehicles/sultan-rs-classic",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/sultan-rs-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/sultan-rs-classic.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -5164,7 +5164,7 @@ module.exports = {
     "growler": {
       "nombre": "Pfister Growler",
       "url": "/grand-theft-auto-v/vehicles/growler",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/growler_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/growler.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -5189,7 +5189,7 @@ module.exports = {
     "vectre": {
       "nombre": "Emperor Vectre",
       "url": "/grand-theft-auto-v/vehicles/vectre",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/vectre_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/vectre.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -5214,7 +5214,7 @@ module.exports = {
     "comet_s2": {
       "nombre": "Pfister Comet S2",
       "url": "/grand-theft-auto-v/vehicles/comet-s2",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/comet-s2_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/comet-s2.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -5239,7 +5239,7 @@ module.exports = {
     "jester_rr": {
       "nombre": "Dinka Jester RR",
       "url": "/grand-theft-auto-v/vehicles/jester-rr",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/jester-rr_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/jester-rr.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -5264,7 +5264,7 @@ module.exports = {
     "rt3000": {
       "nombre": "Dinka RT3000",
       "url": "/grand-theft-auto-v/vehicles/rt3000",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/rt3000_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/rt3000.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -5289,7 +5289,7 @@ module.exports = {
     "remus": {
       "nombre": "Annis Remus",
       "url": "/grand-theft-auto-v/vehicles/remus",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/remus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/remus.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -5314,7 +5314,7 @@ module.exports = {
     "zr350": {
       "nombre": "Annis ZR350",
       "url": "/grand-theft-auto-v/vehicles/zr350",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/zr350_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/zr350.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -5339,7 +5339,7 @@ module.exports = {
     "euros": {
       "nombre": "Annis Euros",
       "url": "/grand-theft-auto-v/vehicles/euros",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/euros_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/euros.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -5364,7 +5364,7 @@ module.exports = {
     "futo_gtx": {
       "nombre": "Karin Futo GTX",
       "url": "/grand-theft-auto-v/vehicles/futo-gtx",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/futo-gtx_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/futo-gtx.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -5389,7 +5389,7 @@ module.exports = {
     "calico_gtf": {
       "nombre": "Karin Calico GTF",
       "url": "/grand-theft-auto-v/vehicles/calico-gtf",
-      "imagen": "/igallery/7401-7500/resized/GTAOnline_Vehicle_CalicoGTF_Action-7483-360_320x180.jpg",
+      "imagen": "/igallery/7401-7500/GTAOnline_Vehicle_CalicoGTF_Action-7483-360.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -5414,7 +5414,7 @@ module.exports = {
     "itali_rsx": {
       "nombre": "Grotti Itali RSX",
       "url": "/grand-theft-auto-v/vehicles/itali-rsx",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/itali-rsx_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/itali-rsx.jpg",
       "metadatos": {
         "agregado": "1.52 Golpe a Cayo Perico",
         "asientos": 2,
@@ -5437,7 +5437,7 @@ module.exports = {
     "veto_modern": {
       "nombre": "Dinka Veto Modern (Go-Kart)",
       "url": "/grand-theft-auto-v/vehicles/veto-modern-go-kart",
-      "imagen": "/images/gta-5/vehicles/temp/resized/veto-modern_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/veto-modern.jpg",
       "metadatos": {
         "agregado": "1.52 Golpe a Cayo Perico",
         "asientos": 1,
@@ -5462,7 +5462,7 @@ module.exports = {
     "veto_classic": {
       "nombre": "Dinka Veto Classic (Go-Kart)",
       "url": "/grand-theft-auto-v/vehicles/veto-classic-go-kart",
-      "imagen": "/images/gta-5/vehicles/temp/resized/veto-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/veto-classic.jpg",
       "metadatos": {
         "agregado": "1.52 Golpe a Cayo Perico",
         "asientos": 1,
@@ -5487,7 +5487,7 @@ module.exports = {
     "coquette_d10": {
       "nombre": "Invetero Coquette D10",
       "url": "/grand-theft-auto-v/vehicles/coquette-d10",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/coquette-d10_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/coquette-d10.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 2,
@@ -5510,7 +5510,7 @@ module.exports = {
     "penumbra_ff": {
       "nombre": "Maibatsu Penumbra FF",
       "url": "/grand-theft-auto-v/vehicles/penumbra-ff",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/penumbra-ff_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/penumbra-ff.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 2,
@@ -5533,7 +5533,7 @@ module.exports = {
     "sugoi": {
       "nombre": "Dinka Sugoi",
       "url": "/grand-theft-auto-v/vehicles/sugoi",
-      "imagen": "/images/gta-5/vehicles/sports/resized/sugoi_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/sugoi.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 4,
@@ -5556,7 +5556,7 @@ module.exports = {
     "v_str": {
       "nombre": "Albany V-STR",
       "url": "/grand-theft-auto-v/vehicles/v-str",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/v-str_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/v-str.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 4,
@@ -5579,7 +5579,7 @@ module.exports = {
     "sultan_classic": {
       "nombre": "Karin Sultan Classic",
       "url": "/grand-theft-auto-v/vehicles/sultan-classic",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/sultan-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/sultan-classic.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 4,
@@ -5602,7 +5602,7 @@ module.exports = {
     "imorgon": {
       "nombre": "Overflod Imorgon",
       "url": "/grand-theft-auto-v/vehicles/imorgon",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/imorgon_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/imorgon.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 2,
@@ -5625,7 +5625,7 @@ module.exports = {
     "komoda": {
       "nombre": "Lampadati Komoda",
       "url": "/grand-theft-auto-v/vehicles/komoda",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/komoda_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/komoda.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 4,
@@ -5648,7 +5648,7 @@ module.exports = {
     "jugular": {
       "nombre": "Ocelot Jugular",
       "url": "/grand-theft-auto-v/vehicles/jugular",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/jugular_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/jugular.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 4,
@@ -5671,7 +5671,7 @@ module.exports = {
     "locust": {
       "nombre": "Ocelot Locust",
       "url": "/grand-theft-auto-v/vehicles/locust",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/locust_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/locust.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -5694,7 +5694,7 @@ module.exports = {
     "neo": {
       "nombre": "Vysser Neo",
       "url": "/grand-theft-auto-v/vehicles/vysser-neo",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/neo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/neo.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -5717,7 +5717,7 @@ module.exports = {
     "issi_sport": {
       "nombre": "Weeny Issi Sport",
       "url": "/grand-theft-auto-v/vehicles/issi-sport",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/issi-sport_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/issi-sport.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -5740,7 +5740,7 @@ module.exports = {
     "drafter_8f": {
       "nombre": "Obey 8F Drafter",
       "url": "/grand-theft-auto-v/vehicles/drafter-8f",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/drafter-8f_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/drafter-8f.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -5763,7 +5763,7 @@ module.exports = {
     "paragon_r_armored": {
       "nombre": "Enus Paragon R (Armored)",
       "url": "/grand-theft-auto-v/vehicles/paragon-r-armored",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/paragon-r-armored_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/paragon-r-armored.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -5786,7 +5786,7 @@ module.exports = {
     "paragon_r": {
       "nombre": "Enus Paragon R",
       "url": "/grand-theft-auto-v/vehicles/paragon-r",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/paragon-r_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/paragon-r.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -5809,7 +5809,7 @@ module.exports = {
     "schlagen_gt": {
       "nombre": "Benefactor Schlagen GT",
       "url": "/grand-theft-auto-v/vehicles/schlagen-gt",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/schlagen-gt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/schlagen-gt.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -5832,7 +5832,7 @@ module.exports = {
     "itali_gto": {
       "nombre": "Grotti Itali GTO",
       "url": "/grand-theft-auto-v/vehicles/itali-gto",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/itali-gto_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/itali-gto.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -5855,7 +5855,7 @@ module.exports = {
     "zr380_arena": {
       "nombre": "Annis ZR380 (Arena)",
       "url": "/grand-theft-auto-v/vehicles/zr380-arena",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/zr-380_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/zr-380.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -5880,7 +5880,7 @@ module.exports = {
     "jester_classic": {
       "nombre": "Dinka Jester Classic",
       "url": "/grand-theft-auto-v/vehicles/dinka-jester-classic",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/jester-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/jester-classic.jpg",
       "metadatos": {
         "agregado": "1.44 After Hours",
         "asientos": 2,
@@ -5905,7 +5905,7 @@ module.exports = {
     "flash_gt": {
       "nombre": "Vapid Flash GT",
       "url": "/grand-theft-auto-v/vehicles/vapid-flash-gt",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/flash-gt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/flash-gt.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 2,
@@ -5928,7 +5928,7 @@ module.exports = {
     "gb200": {
       "nombre": "Vapid GB200",
       "url": "/grand-theft-auto-v/vehicles/vapid-gb200",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/gb200_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/gb200.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 2,
@@ -5951,7 +5951,7 @@ module.exports = {
     "hotring_sabre": {
       "nombre": "Declasse Hotring Sabre",
       "url": "/grand-theft-auto-v/vehicles/declasse-hotring-sabre",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/hotring-sabre_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/hotring-sabre.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 2,
@@ -5974,7 +5974,7 @@ module.exports = {
     "comet_sr": {
       "nombre": "Pfister Comet SR",
       "url": "/grand-theft-auto-v/vehicles/pfister-comet-sr",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/comet-sr_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/comet-sr.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -5997,7 +5997,7 @@ module.exports = {
     "neon": {
       "nombre": "Pfister Neon",
       "url": "/grand-theft-auto-v/vehicles/pfister-neon",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/neon_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/neon.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 4,
@@ -6020,7 +6020,7 @@ module.exports = {
     "revolter": {
       "nombre": "Übermacht Revolter",
       "url": "/grand-theft-auto-v/vehicles/ubermacht-revolter",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/revolter_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/revolter.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 4,
@@ -6043,7 +6043,7 @@ module.exports = {
     "streiter": {
       "nombre": "Benefactor Streiter",
       "url": "/grand-theft-auto-v/vehicles/benefactor-streiter",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/streiter_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/streiter.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 4,
@@ -6066,7 +6066,7 @@ module.exports = {
     "sentinel_classic": {
       "nombre": "Übermacht Sentinel Classic",
       "url": "/grand-theft-auto-v/vehicles/ubermacht-sentinel-classic",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/sentinel-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/sentinel-classic.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -6089,7 +6089,7 @@ module.exports = {
     "pariah": {
       "nombre": "Ocelot Pariah",
       "url": "/grand-theft-auto-v/vehicles/ocelot-pariah",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/pariah_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/pariah.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -6112,7 +6112,7 @@ module.exports = {
     "raiden": {
       "nombre": "Coil Raiden",
       "url": "/grand-theft-auto-v/vehicles/coil-raiden",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/raiden_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/raiden.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 4,
@@ -6135,7 +6135,7 @@ module.exports = {
     "comet_safari": {
       "nombre": "Pfister Comet Safari",
       "url": "/grand-theft-auto-v/vehicles/pfister-comet-safari",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/comet-safari_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/comet-safari.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -6158,7 +6158,7 @@ module.exports = {
     "ruston": {
       "nombre": "Hijak Ruston",
       "url": "/grand-theft-auto-v/vehicles/hijak-ruston",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/ruston_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/ruston.jpg",
       "metadatos": {
         "agregado": "1.38 Special Vehicle Circuit",
         "asientos": 2,
@@ -6181,7 +6181,7 @@ module.exports = {
     "specter_custom": {
       "nombre": "Dewbauchee Specter Custom",
       "url": "/grand-theft-auto-v/vehicles/dewbauchee-specter-custom",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/specter-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/specter-custom.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -6206,7 +6206,7 @@ module.exports = {
     "specter": {
       "nombre": "Dewbauchee Specter",
       "url": "/grand-theft-auto-v/vehicles/dewbauchee-specter",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/specter_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/specter.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -6229,7 +6229,7 @@ module.exports = {
     "comet_retro_custom": {
       "nombre": "Pfister Comet Retro Custom",
       "url": "/grand-theft-auto-v/vehicles/pfister-comet-retro-custom",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/comet-retro-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/comet-retro-custom.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -6254,7 +6254,7 @@ module.exports = {
     "elegy_retro_custom": {
       "nombre": "Annis Elegy Retro Custom",
       "url": "/grand-theft-auto-v/vehicles/annis-elegy-retro-custom",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/elegy-retro-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/elegy-retro-custom.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -6279,7 +6279,7 @@ module.exports = {
     "raptor": {
       "nombre": "BF Raptor",
       "url": "/grand-theft-auto-v/vehicles/bf-raptor",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/raptor_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/raptor.jpg",
       "metadatos": {
         "agregado": "1.36 Bikers",
         "asientos": 2,
@@ -6302,7 +6302,7 @@ module.exports = {
     "drift_tampa": {
       "nombre": "Declasse Drift Tampa",
       "url": "/grand-theft-auto-v/vehicles/declasse-tampa-drift",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/tampa-drift_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/tampa-drift.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -6327,7 +6327,7 @@ module.exports = {
     "lynx": {
       "nombre": "Ocelot Lynx",
       "url": "/grand-theft-auto-v/vehicles/ocelot-lynx",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/lynx_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/lynx.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -6350,7 +6350,7 @@ module.exports = {
     "tropos_rallye": {
       "nombre": "Lampadati Tropos Rallye",
       "url": "/grand-theft-auto-v/vehicles/lampadati-tropos-rallye",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/tropos-rallye_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/tropos-rallye.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -6373,7 +6373,7 @@ module.exports = {
     "omnis": {
       "nombre": "Obey Omnis",
       "url": "/grand-theft-auto-v/vehicles/obey-omnis",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/omnis_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/omnis.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -6396,7 +6396,7 @@ module.exports = {
     "seven_70": {
       "nombre": "Dewbauchee Seven-70",
       "url": "/grand-theft-auto-v/vehicles/dewbauchee-seven-70",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/seven-70_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/seven-70.jpg",
       "metadatos": {
         "agregado": "1.34 Further Adventures in Finance and Felony",
         "asientos": 2,
@@ -6419,7 +6419,7 @@ module.exports = {
     "bestia_gts": {
       "nombre": "Grotti Bestia GTS",
       "url": "/grand-theft-auto-v/vehicles/grotti-bestia-gts",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/bestia-gts_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/bestia-gts.jpg",
       "metadatos": {
         "agregado": "1.34 Further Adventures in Finance and Felony",
         "asientos": 2,
@@ -6442,7 +6442,7 @@ module.exports = {
     "schafter_v12": {
       "nombre": "Benefactor Schafter V12",
       "url": "/grand-theft-auto-v/vehicles/benefactor-schafter-v12",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/schafter-v12_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/schafter-v12.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -6465,7 +6465,7 @@ module.exports = {
     "verlierer": {
       "nombre": "Bravado Verlierer",
       "url": "/grand-theft-auto-v/vehicles/bravado-verlierer",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/verlierer_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/verlierer.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 2,
@@ -6488,7 +6488,7 @@ module.exports = {
     "schafter_lwb": {
       "nombre": "Benefactor Schafter LWB",
       "url": "/grand-theft-auto-v/vehicles/benefactor-schafter-lwb",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/schafter-lwb_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/schafter-lwb.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -6511,7 +6511,7 @@ module.exports = {
     "stirling_gt": {
       "nombre": "Benefactor Stirling GT",
       "url": "/grand-theft-auto-v/vehicles/benefactor-stirling-gt",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/stirling-gt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/stirling-gt.jpg",
       "metadatos": {
         "agregado": "1.27 Ill-Gotten Gains Part 1",
         "asientos": 2,
@@ -6536,7 +6536,7 @@ module.exports = {
     "kuruma_armored": {
       "nombre": "Karin Kuruma (Armored)",
       "url": "/grand-theft-auto-v/vehicles/karin-kuruma-armored",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/kuruma-armored_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/kuruma-armored.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 4,
@@ -6559,7 +6559,7 @@ module.exports = {
     "kuruma": {
       "nombre": "Karin Kuruma",
       "url": "/grand-theft-auto-v/vehicles/karin-kuruma",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/kuruma_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/kuruma.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 4,
@@ -6582,7 +6582,7 @@ module.exports = {
     "jester_racecar": {
       "nombre": "Dinka Jester (Racecar)",
       "url": "/grand-theft-auto-v/vehicles/dinka-jester-racecar",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/jester-racecar_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/jester-racecar.jpg",
       "metadatos": {
         "agregado": "1.19 Festive Surprise 2014",
         "asientos": 2,
@@ -6605,7 +6605,7 @@ module.exports = {
     "massacro_racecar": {
       "nombre": "Dewbauchee Massacro (Racecar)",
       "url": "/grand-theft-auto-v/vehicles/dewbauchee-massacro-racecar",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/massacro-racecar_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/massacro-racecar.jpg",
       "metadatos": {
         "agregado": "1.19 Festive Surprise 2014",
         "asientos": 2,
@@ -6628,7 +6628,7 @@ module.exports = {
     "sprunk_buffalo": {
       "nombre": "Bravado Sprunk Buffalo",
       "url": "/grand-theft-auto-v/vehicles/bravado-buffalo-sprunk",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/buffalo-sprunk_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/buffalo-sprunk.jpg",
       "metadatos": {
         "agregado": "1.18 PS4 & Xbox One Release",
         "asientos": 4,
@@ -6651,7 +6651,7 @@ module.exports = {
     "go_go_monkey_blista": {
       "nombre": "Dinka Go Go Monkey Blista",
       "url": "/grand-theft-auto-v/vehicles/dinka-blista-go-go-monkey",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/blista-go-go-monkey_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/blista-go-go-monkey.jpg",
       "metadatos": {
         "agregado": "1.18 PS4 & Xbox One Release",
         "asientos": 2,
@@ -6674,7 +6674,7 @@ module.exports = {
     "blista_compact": {
       "nombre": "Dinka Blista Compact",
       "url": "/grand-theft-auto-v/vehicles/dinka-blista-compact",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/blista-compact_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/blista-compact.jpg",
       "metadatos": {
         "agregado": "1.18 PS4 & Xbox One Release",
         "asientos": 2,
@@ -6697,7 +6697,7 @@ module.exports = {
     "furore_gt": {
       "nombre": "Lampadati Furore GT",
       "url": "/grand-theft-auto-v/vehicles/lampadati-furore-gt",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/furore-gt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/furore-gt.jpg",
       "metadatos": {
         "agregado": "1.17 Last Team Standing",
         "asientos": 2,
@@ -6720,7 +6720,7 @@ module.exports = {
     "massacro": {
       "nombre": "Dewbauchee Massacro",
       "url": "/grand-theft-auto-v/vehicles/dewbauchee-massacro",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/massacro_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/massacro.jpg",
       "metadatos": {
         "agregado": "1.13 High Life",
         "asientos": 2,
@@ -6743,7 +6743,7 @@ module.exports = {
     "jester": {
       "nombre": "Dinka Jester",
       "url": "/grand-theft-auto-v/vehicles/dinka-jester",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/jester_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/jester.jpg",
       "metadatos": {
         "agregado": "1.11 Business",
         "asientos": 2,
@@ -6766,7 +6766,7 @@ module.exports = {
     "alpha": {
       "nombre": "Albany Alpha",
       "url": "/grand-theft-auto-v/vehicles/albany-alpha",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/alpha_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/alpha.jpg",
       "metadatos": {
         "agregado": "1.11 Business",
         "asientos": 2,
@@ -6789,7 +6789,7 @@ module.exports = {
     "khamelion": {
       "nombre": "Hijak Khamelion",
       "url": "/grand-theft-auto-v/vehicles/hijak-khamelion",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/khamelion_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/khamelion.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -6812,7 +6812,7 @@ module.exports = {
     "coquette": {
       "nombre": "Invetero Coquette",
       "url": "/grand-theft-auto-v/vehicles/invetero-coquette",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/coquette-topless_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/coquette-topless.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -6835,7 +6835,7 @@ module.exports = {
     "rapid_gt": {
       "nombre": "Dewbauchee Rapid GT",
       "url": "/grand-theft-auto-v/vehicles/dewbauchee-rapid-gt",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/rapid-gt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/rapid-gt.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -6858,7 +6858,7 @@ module.exports = {
     "banshee": {
       "nombre": "Bravado Banshee",
       "url": "/grand-theft-auto-v/vehicles/bravado-banshee",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/banshee_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/banshee.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -6883,7 +6883,7 @@ module.exports = {
     "futo": {
       "nombre": "Karin Futo",
       "url": "/grand-theft-auto-v/vehicles/karin-futo",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/futo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/futo.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -6908,7 +6908,7 @@ module.exports = {
     "elegy_rh8": {
       "nombre": "Annis Elegy RH8",
       "url": "/grand-theft-auto-v/vehicles/annis-elegy-rh8",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/elegy-rh8_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/elegy-rh8.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -6931,7 +6931,7 @@ module.exports = {
     "surano": {
       "nombre": "Benefactor Surano",
       "url": "/grand-theft-auto-v/vehicles/benefactor-surano",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/surano_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/surano.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -6954,7 +6954,7 @@ module.exports = {
     "sultan": {
       "nombre": "Karin Sultan",
       "url": "/grand-theft-auto-v/vehicles/karin-sultan",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/sultan_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/sultan.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -6977,7 +6977,7 @@ module.exports = {
     "schwartzer": {
       "nombre": "Benefactor Schwartzer",
       "url": "/grand-theft-auto-v/vehicles/benefactor-schwartzer",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/schwartzer_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/schwartzer.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -7000,7 +7000,7 @@ module.exports = {
     "rapid_gt_cabrio": {
       "nombre": "Dewbauchee Rapid GT Cabrio",
       "url": "/grand-theft-auto-v/vehicles/dewbauchee-rapid-gt-sports",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/rapid-gt-sports_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/rapid-gt-sports.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -7023,7 +7023,7 @@ module.exports = {
     "penumbra": {
       "nombre": "Maibatsu Penumbra",
       "url": "/grand-theft-auto-v/vehicles/maibatsu-penumbra",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/penumbra_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/penumbra.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -7046,7 +7046,7 @@ module.exports = {
     "fusilade": {
       "nombre": "Schyster Fusilade",
       "url": "/grand-theft-auto-v/vehicles/schyster-fusilade",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/fusilade_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/fusilade.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -7069,7 +7069,7 @@ module.exports = {
     "feltzer": {
       "nombre": "Benefactor Feltzer",
       "url": "/grand-theft-auto-v/vehicles/benefactor-feltzer",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/feltzer_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/feltzer.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -7092,7 +7092,7 @@ module.exports = {
     "comet": {
       "nombre": "Pfister Comet",
       "url": "/grand-theft-auto-v/vehicles/pfister-comet",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/comet_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/comet.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -7115,7 +7115,7 @@ module.exports = {
     "carbonizzare": {
       "nombre": "Grotti Carbonizzare",
       "url": "/grand-theft-auto-v/vehicles/grotti-carbonizzare",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/carbonizzare_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/carbonizzare.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -7138,7 +7138,7 @@ module.exports = {
     "buffalo_s": {
       "nombre": "Bravado Buffalo S",
       "url": "/grand-theft-auto-v/vehicles/bravado-buffalo-s",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/buffalo-s_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/buffalo-s.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -7161,7 +7161,7 @@ module.exports = {
     "buffalo": {
       "nombre": "Bravado Buffalo",
       "url": "/grand-theft-auto-v/vehicles/bravado-buffalo",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/buffalo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/buffalo.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -7184,7 +7184,7 @@ module.exports = {
     "9f_cabrio": {
       "nombre": "Obey 9F Cabrio",
       "url": "/grand-theft-auto-v/vehicles/obey-9f-cabrio",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/9f-cabrio_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/9f-cabrio.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -7207,7 +7207,7 @@ module.exports = {
     "9f": {
       "nombre": "Obey 9F",
       "url": "/grand-theft-auto-v/vehicles/obey-9f",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/9f_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/9f.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -7232,7 +7232,7 @@ module.exports = {
     "811": {
       "nombre": "Pfister 811",
       "url": "/grand-theft-auto-v/vehicles/pfister-811",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/811_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/811.jpg",
       "metadatos": {
         "agregado": "1.34 Further Adventures in Finance and Felony",
         "asientos": 2,
@@ -7255,7 +7255,7 @@ module.exports = {
     "luiva": {
       "nombre": "Progen Luiva",
       "url": "/vehicles/grand-theft-auto-v/luiva",
-      "imagen": "/igallery/gta5-database/resized/luiva-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/luiva-360.jpg",
       "metadatos": {
         "agregado": "1.72 Un Refugio en las Colinas",
         "asientos": 2,
@@ -7278,7 +7278,7 @@ module.exports = {
     "fmj_mk_v": {
       "nombre": "Vapid FMJ MK V",
       "url": "/vehicles/grand-theft-auto-v/fmj-mk-v",
-      "imagen": "/igallery/gta5-database/resized/fmj-mkv-1-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/fmj-mkv-1-360.jpg",
       "metadatos": {
         "agregado": "1.72 Un Refugio en las Colinas",
         "asientos": 2,
@@ -7303,7 +7303,7 @@ module.exports = {
     "x_treme": {
       "nombre": "Pfister X-Treme",
       "url": "/vehicles/grand-theft-auto-v/x-treme",
-      "imagen": "/igallery/gta5-database/resized/xtreme-1-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/xtreme-1-360.jpg",
       "metadatos": {
         "agregado": "1.72 Un Refugio en las Colinas",
         "asientos": 2,
@@ -7326,7 +7326,7 @@ module.exports = {
     "suzume": {
       "nombre": "Overflod Suzume",
       "url": "/vehicles/grand-theft-auto-v/suzume",
-      "imagen": "/igallery/gta-online-screens/resized/gtaonline-moneyfronts-3-360_320x180.jpg",
+      "imagen": "/igallery/gta-online-screens/gtaonline-moneyfronts-3-360.jpg",
       "metadatos": {
         "agregado": "1.71 Money Fronts",
         "asientos": 2,
@@ -7349,7 +7349,7 @@ module.exports = {
     "pipistrello": {
       "nombre": "Overflod Pipistrello",
       "url": "/grand-theft-auto-v/vehicles/pipistrello",
-      "imagen": "/igallery/gta5-database/resized/pipistrello-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/pipistrello-360.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 2,
@@ -7372,7 +7372,7 @@ module.exports = {
     "turismo_omaggio": {
       "nombre": "Grotti Turismo Omaggio",
       "url": "/grand-theft-auto-v/vehicles/turismo-omaggio",
-      "imagen": "/images/gta-5/vehicles/super/resized/turismo-omaggio_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/turismo-omaggio.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 2,
@@ -7397,7 +7397,7 @@ module.exports = {
     "virtue": {
       "nombre": "Ocelot Virtue",
       "url": "/grand-theft-auto-v/vehicles/virtue",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/virtue_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/virtue.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 2,
@@ -7422,7 +7422,7 @@ module.exports = {
     "entity_mt": {
       "nombre": "Overflod Entity MT",
       "url": "/grand-theft-auto-v/vehicles/entity-mt",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/entity-mt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/entity-mt.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 2,
@@ -7447,7 +7447,7 @@ module.exports = {
     "lm87": {
       "nombre": "Benefactor LM87",
       "url": "/grand-theft-auto-v/vehicles/lm87",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/lm87_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/lm87.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 1,
@@ -7470,7 +7470,7 @@ module.exports = {
     "torero_xo": {
       "nombre": "Pegassi Torero XO",
       "url": "/grand-theft-auto-v/vehicles/torero-xo",
-      "imagen": "/igallery/8601-8700/resized/gtaonline-summer2022-update-1-8643-360_320x180.jpg",
+      "imagen": "/igallery/8601-8700/gtaonline-summer2022-update-1-8643-360.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 2,
@@ -7493,7 +7493,7 @@ module.exports = {
     "cyclone_ii": {
       "nombre": "Coil Cyclone II",
       "url": "/grand-theft-auto-v/vehicles/cyclone-ii",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/cyclone-ii_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/cyclone-ii.jpg",
       "metadatos": {
         "agregado": "1.59 PS5 & Xbox Series X|S Release",
         "asientos": 2,
@@ -7518,7 +7518,7 @@ module.exports = {
     "weaponized_ignus": {
       "nombre": "Pegassi Ignus (Armado)",
       "url": "/grand-theft-auto-v/vehicles/weaponized-ignus",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/weaponized-ignus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/weaponized-ignus.jpg",
       "metadatos": {
         "agregado": "1.59 PS5 & Xbox Series X|S Release",
         "asientos": 2,
@@ -7543,7 +7543,7 @@ module.exports = {
     "zeno": {
       "nombre": "Overflod Zeno",
       "url": "/grand-theft-auto-v/vehicles/zeno",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/zeno_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/zeno.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 2,
@@ -7566,7 +7566,7 @@ module.exports = {
     "ignus": {
       "nombre": "Pegassi Ignus",
       "url": "/grand-theft-auto-v/vehicles/ignus",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/ignus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/ignus.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 2,
@@ -7589,7 +7589,7 @@ module.exports = {
     "champion": {
       "nombre": "Dewbauchee Champion",
       "url": "/grand-theft-auto-v/vehicles/champion",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/champion_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/champion.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 2,
@@ -7614,7 +7614,7 @@ module.exports = {
     "tigon": {
       "nombre": "Lampadati Tigon",
       "url": "/grand-theft-auto-v/vehicles/tigon",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/tigon_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/tigon.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 2,
@@ -7637,7 +7637,7 @@ module.exports = {
     "furia": {
       "nombre": "Grotti Furia",
       "url": "/grand-theft-auto-v/vehicles/furia",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/furia_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/furia.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 2,
@@ -7660,7 +7660,7 @@ module.exports = {
     "zorrusso": {
       "nombre": "Pegassi Zorrusso",
       "url": "/grand-theft-auto-v/vehicles/zorrusso",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/zorrusso_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/zorrusso.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -7683,7 +7683,7 @@ module.exports = {
     "krieger": {
       "nombre": "Benefactor Krieger",
       "url": "/grand-theft-auto-v/vehicles/krieger",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/krieger_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/krieger.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -7706,7 +7706,7 @@ module.exports = {
     "emerus": {
       "nombre": "Progen Emerus",
       "url": "/grand-theft-auto-v/vehicles/emerus",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/emerus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/emerus.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -7729,7 +7729,7 @@ module.exports = {
     "s80rr": {
       "nombre": "Annis S80RR",
       "url": "/grand-theft-auto-v/vehicles/annis-s80rr",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/s80rr_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/s80rr.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 1,
@@ -7752,7 +7752,7 @@ module.exports = {
     "thrax": {
       "nombre": "Truffade Thrax",
       "url": "/grand-theft-auto-v/vehicles/truffade-thrax",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/thrax_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/thrax.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -7775,7 +7775,7 @@ module.exports = {
     "deveste_eight": {
       "nombre": "Principe Deveste Eight",
       "url": "/grand-theft-auto-v/vehicles/deveste-eight",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/deveste-eight_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/deveste-eight.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -7800,7 +7800,7 @@ module.exports = {
     "scramjet": {
       "nombre": "Declasse Scramjet",
       "url": "/grand-theft-auto-v/vehicles/scramjet",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/scramjet_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/scramjet.jpg",
       "metadatos": {
         "agregado": "1.44 After Hours",
         "asientos": 2,
@@ -7825,7 +7825,7 @@ module.exports = {
     "tyrant": {
       "nombre": "Overflod Tyrant",
       "url": "/grand-theft-auto-v/vehicles/overflow-tyrant",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/tyrant_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/tyrant.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 2,
@@ -7848,7 +7848,7 @@ module.exports = {
     "tezeract": {
       "nombre": "Pegassi Tezeract",
       "url": "/grand-theft-auto-v/vehicles/pegassi-tezeract",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/tezeract_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/tezeract.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 2,
@@ -7871,7 +7871,7 @@ module.exports = {
     "taipan": {
       "nombre": "Cheval Taipan",
       "url": "/grand-theft-auto-v/vehicles/cheval-taipan",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/taipan_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/taipan.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 2,
@@ -7894,7 +7894,7 @@ module.exports = {
     "entity_xxr": {
       "nombre": "Overflod Entity XXR",
       "url": "/grand-theft-auto-v/vehicles/overflod-entity-xxr",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/entity-xxr_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/entity-xxr.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 2,
@@ -7917,7 +7917,7 @@ module.exports = {
     "autarch": {
       "nombre": "Overflod Autarch",
       "url": "/grand-theft-auto-v/vehicles/overflod-autarch",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/autarch_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/autarch.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -7940,7 +7940,7 @@ module.exports = {
     "sc1": {
       "nombre": "Übermacht SC1",
       "url": "/grand-theft-auto-v/vehicles/ubermacht-sc1",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/sc1_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/sc1.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -7963,7 +7963,7 @@ module.exports = {
     "cyclone": {
       "nombre": "Coil Cyclone",
       "url": "/grand-theft-auto-v/vehicles/coil-cyclone",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/cyclone_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/cyclone.jpg",
       "metadatos": {
         "agregado": "1.41 Contrabando",
         "asientos": 2,
@@ -7986,7 +7986,7 @@ module.exports = {
     "vigilante": {
       "nombre": "Grotti Vigilante",
       "url": "/grand-theft-auto-v/vehicles/grotti-vigilante",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/vigilante_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/vigilante.jpg",
       "metadatos": {
         "agregado": "1.41 Contrabando",
         "asientos": 2,
@@ -8009,7 +8009,7 @@ module.exports = {
     "visione": {
       "nombre": "Grotti Visione",
       "url": "/grand-theft-auto-v/vehicles/grotti-visione",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/visione_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/visione.jpg",
       "metadatos": {
         "agregado": "1.41 Contrabando",
         "asientos": 2,
@@ -8032,7 +8032,7 @@ module.exports = {
     "xa_21": {
       "nombre": "Ocelot XA-21",
       "url": "/grand-theft-auto-v/vehicles/ocelot-xa-21",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/xa-21_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/xa-21.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 2,
@@ -8055,7 +8055,7 @@ module.exports = {
     "vagner": {
       "nombre": "Dewbauchee Vagner",
       "url": "/grand-theft-auto-v/vehicles/vagner",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/vagner_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/vagner.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 2,
@@ -8078,7 +8078,7 @@ module.exports = {
     "gp1": {
       "nombre": "Progen GP1",
       "url": "/grand-theft-auto-v/vehicles/progen-gp1",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/gp1_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/gp1.jpg",
       "metadatos": {
         "agregado": "1.38 Special Vehicle Circuit",
         "asientos": 2,
@@ -8101,7 +8101,7 @@ module.exports = {
     "itali_gtb_custom": {
       "nombre": "Progen Itali GTB Custom",
       "url": "/grand-theft-auto-v/vehicles/progen-itali-gtb-custom",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/itali-gtb-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/itali-gtb-custom.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -8126,7 +8126,7 @@ module.exports = {
     "itali_gtb": {
       "nombre": "Progen Itali GTB",
       "url": "/grand-theft-auto-v/vehicles/progen-itali-gtb",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/itali-gtb_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/itali-gtb.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -8149,7 +8149,7 @@ module.exports = {
     "nero_custom": {
       "nombre": "Truffade Nero Custom",
       "url": "/grand-theft-auto-v/vehicles/truffade-nero-custom",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/nero-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/nero-custom.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -8174,7 +8174,7 @@ module.exports = {
     "nero": {
       "nombre": "Truffade Nero",
       "url": "/grand-theft-auto-v/vehicles/truffade-nero",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/nero_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/nero.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -8197,7 +8197,7 @@ module.exports = {
     "tempesta": {
       "nombre": "Pegassi Tempesta",
       "url": "/grand-theft-auto-v/vehicles/pegassi-tempesta",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/tempesta_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/tempesta.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -8220,7 +8220,7 @@ module.exports = {
     "rocket_voltic": {
       "nombre": "Coil Rocket Voltic",
       "url": "/grand-theft-auto-v/vehicles/coil-rocket-voltic",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/rocket-voltic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/rocket-voltic.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -8245,7 +8245,7 @@ module.exports = {
     "penetrator": {
       "nombre": "Ocelot Penetrator",
       "url": "/grand-theft-auto-v/vehicles/ocelot-penetrator",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/penetrator_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/penetrator.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -8268,7 +8268,7 @@ module.exports = {
     "tyrus": {
       "nombre": "Progen Tyrus",
       "url": "/grand-theft-auto-v/vehicles/progen-tyrus",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/tyrus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/tyrus.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -8291,7 +8291,7 @@ module.exports = {
     "re_7b": {
       "nombre": "Annis RE-7B",
       "url": "/grand-theft-auto-v/vehicles/annis-re-7b",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/re-7b_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/re-7b.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -8314,7 +8314,7 @@ module.exports = {
     "etr1": {
       "nombre": "Emperor ETR1",
       "url": "/grand-theft-auto-v/vehicles/emperor-etr1",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/etr1_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/etr1.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -8337,7 +8337,7 @@ module.exports = {
     "x80_proto": {
       "nombre": "Grotti X80 Proto",
       "url": "/grand-theft-auto-v/vehicles/grotti-x80-proto",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/x80-proto_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/x80-proto.jpg",
       "metadatos": {
         "agregado": "1.34 Further Adventures in Finance and Felony",
         "asientos": 2,
@@ -8360,7 +8360,7 @@ module.exports = {
     "fmj": {
       "nombre": "Vapid FMJ",
       "url": "/grand-theft-auto-v/vehicles/vapid-fmj",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/fmj_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/fmj.jpg",
       "metadatos": {
         "agregado": "1.34 Further Adventures in Finance and Felony",
         "asientos": 2,
@@ -8383,7 +8383,7 @@ module.exports = {
     "reaper": {
       "nombre": "Pegassi Reaper",
       "url": "/grand-theft-auto-v/vehicles/pegassi-reaper",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/reaper_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/reaper.jpg",
       "metadatos": {
         "agregado": "1.34 Further Adventures in Finance and Felony",
         "asientos": 2,
@@ -8406,7 +8406,7 @@ module.exports = {
     "banshee_900r": {
       "nombre": "Bravado Banshee 900R",
       "url": "/grand-theft-auto-v/vehicles/bravado-banshee-900r",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/banshee-900r_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/banshee-900r.jpg",
       "metadatos": {
         "agregado": "1.32 January 2016",
         "asientos": 2,
@@ -8431,7 +8431,7 @@ module.exports = {
     "sultan_rs": {
       "nombre": "Karin Sultan RS",
       "url": "/grand-theft-auto-v/vehicles/karin-sultan-rs",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/sultan-rs_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/sultan-rs.jpg",
       "metadatos": {
         "agregado": "1.32 January 2016",
         "asientos": 2,
@@ -8456,7 +8456,7 @@ module.exports = {
     "t20": {
       "nombre": "Progen T20",
       "url": "/grand-theft-auto-v/vehicles/progen-t20",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/t20_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/t20.jpg",
       "metadatos": {
         "agregado": "1.28 Ill-Gotten Gains Part 2",
         "asientos": 2,
@@ -8479,7 +8479,7 @@ module.exports = {
     "osiris": {
       "nombre": "Pegassi Osiris",
       "url": "/grand-theft-auto-v/vehicles/pegassi-osiris",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/osiris_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/osiris.jpg",
       "metadatos": {
         "agregado": "1.27 Ill-Gotten Gains Part 1",
         "asientos": 2,
@@ -8502,7 +8502,7 @@ module.exports = {
     "zentorno": {
       "nombre": "Pegassi Zentorno",
       "url": "/grand-theft-auto-v/vehicles/pegassi-zentorno",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/zentorno_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/zentorno.jpg",
       "metadatos": {
         "agregado": "1.13 High Life",
         "asientos": 2,
@@ -8525,7 +8525,7 @@ module.exports = {
     "turismo_r": {
       "nombre": "Grotti Turismo R",
       "url": "/grand-theft-auto-v/vehicles/grotti-turismo-r",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/turismo-r_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/turismo-r.jpg",
       "metadatos": {
         "agregado": "1.11 Business",
         "asientos": 2,
@@ -8548,7 +8548,7 @@ module.exports = {
     "bullet": {
       "nombre": "Vapid Bullet",
       "url": "/grand-theft-auto-v/vehicles/vapid-bullet",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/bullet_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/bullet.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -8571,7 +8571,7 @@ module.exports = {
     "voltic": {
       "nombre": "Coil Voltic",
       "url": "/grand-theft-auto-v/vehicles/coil-voltic",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/voltic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/voltic.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -8594,7 +8594,7 @@ module.exports = {
     "vacca": {
       "nombre": "Pegassi Vacca",
       "url": "/grand-theft-auto-v/vehicles/pegassi-vacca",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/vacca_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/vacca.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -8617,7 +8617,7 @@ module.exports = {
     "infernus": {
       "nombre": "Pegassi Infernus",
       "url": "/grand-theft-auto-v/vehicles/pegassi-infernus",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/infernus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/infernus.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -8640,7 +8640,7 @@ module.exports = {
     "entity_xf": {
       "nombre": "Overflod Entity XF",
       "url": "/grand-theft-auto-v/vehicles/overflod-entity-xf",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/entity-xf_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/entity-xf.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -8663,7 +8663,7 @@ module.exports = {
     "cheetah": {
       "nombre": "Grotti Cheetah",
       "url": "/grand-theft-auto-v/vehicles/grotti-cheetah",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/cheetah_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/cheetah.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -8686,7 +8686,7 @@ module.exports = {
     "adder": {
       "nombre": "Truffade Adder",
       "url": "/grand-theft-auto-v/vehicles/truffade-adder",
-      "imagen": "/images/gta-5/vehicles/super/main/resized/adder_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/super/main/adder.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -8711,7 +8711,7 @@ module.exports = {
     "tampa_gt": {
       "nombre": "Declasse Tampa GT",
       "url": "/vehicles/grand-theft-auto-v/tampa-gt",
-      "imagen": "/igallery/gta5-database/resized/tampa-gt-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/tampa-gt-360.jpg",
       "metadatos": {
         "agregado": "1.71 Money Fronts",
         "asientos": 2,
@@ -8736,7 +8736,7 @@ module.exports = {
     "dominator_fx": {
       "nombre": "Vapid Dominator FX",
       "url": "/grand-theft-auto-v/vehicles/dominator-fx",
-      "imagen": "/igallery/gta5-database/resized/dominator-fx-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/dominator-fx-360.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 2,
@@ -8761,7 +8761,7 @@ module.exports = {
     "impaler_sz": {
       "nombre": "Declasse Impaler SZ",
       "url": "/grand-theft-auto-v/vehicles/impaler-sz",
-      "imagen": "/images/gta-5/vehicles/sedans/resized/impaler-sz_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/impaler-sz.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 4,
@@ -8784,7 +8784,7 @@ module.exports = {
     "vigero_zx_convertible": {
       "nombre": "Declasse Vigero ZX Convertible",
       "url": "/grand-theft-auto-v/vehicles/vigero-zx-convertible",
-      "imagen": "/images/gta-5/vehicles/muscle/resized/vigero-zx-convertible_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/vigero-zx-convertible.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 2,
@@ -8809,7 +8809,7 @@ module.exports = {
     "dominator_gt": {
       "nombre": "Vapid Dominator GT",
       "url": "/grand-theft-auto-v/vehicles/dominator-gt",
-      "imagen": "/images/gta-5/vehicles/muscle/resized/dominator-gt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/dominator-gt.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 2,
@@ -8834,7 +8834,7 @@ module.exports = {
     "impaler_lx": {
       "nombre": "Declasse Impaler LX",
       "url": "/grand-theft-auto-v/vehicles/impaler-lx",
-      "imagen": "/images/gta-5/vehicles/muscle/resized/impaler-lx_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/impaler-lx.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 4,
@@ -8857,7 +8857,7 @@ module.exports = {
     "brigham": {
       "nombre": "Albany Brigham",
       "url": "/grand-theft-auto-v/vehicles/brigham",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/brigham_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/brigham.jpg",
       "metadatos": {
         "agregado": "1.67 Mercenaries",
         "asientos": 4,
@@ -8880,7 +8880,7 @@ module.exports = {
     "buffalo_evx": {
       "nombre": "Bravado Buffalo EVX",
       "url": "/grand-theft-auto-v/vehicles/buffalo-evx",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/buffalo-evx_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/buffalo-evx.jpg",
       "metadatos": {
         "agregado": "1.67 Mercenaries",
         "asientos": 2,
@@ -8905,7 +8905,7 @@ module.exports = {
     "clique_wagon": {
       "nombre": "Vapid Clique Wagon",
       "url": "/grand-theft-auto-v/vehicles/clique-wagon",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/clique-wagon_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/clique-wagon.jpg",
       "metadatos": {
         "agregado": "1.67 Mercenaries",
         "asientos": 2,
@@ -8928,7 +8928,7 @@ module.exports = {
     "eudora": {
       "nombre": "Willard Eudora",
       "url": "/grand-theft-auto-v/vehicles/eudora",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/eudora_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/eudora.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 4,
@@ -8951,7 +8951,7 @@ module.exports = {
     "broadway": {
       "nombre": "Classique Broadway",
       "url": "/grand-theft-auto-v/vehicles/broadway",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/broadway_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/broadway.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 2,
@@ -8974,7 +8974,7 @@ module.exports = {
     "tahoma_coupe": {
       "nombre": "Declasse Tahoma Coupe",
       "url": "/grand-theft-auto-v/vehicles/tahoma-coupe",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/tahoma_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/tahoma.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 2,
@@ -8997,7 +8997,7 @@ module.exports = {
     "tulip_m_100": {
       "nombre": "Declasse Tulip M-100",
       "url": "/grand-theft-auto-v/vehicles/tulip-m-100",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/tulip-m-100_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/tulip-m-100.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 2,
@@ -9020,7 +9020,7 @@ module.exports = {
     "weevil_custom": {
       "nombre": "BF Weevil Custom",
       "url": "/grand-theft-auto-v/vehicles/weevil-custom",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/weevil-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/weevil-custom.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 2,
@@ -9045,7 +9045,7 @@ module.exports = {
     "vigero_zx": {
       "nombre": "Declasse Vigero ZX",
       "url": "/grand-theft-auto-v/vehicles/vigero-zx",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/vigero_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/vigero.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 2,
@@ -9070,7 +9070,7 @@ module.exports = {
     "ruiner_zz_8": {
       "nombre": "Imponte Ruiner ZZ-8",
       "url": "/grand-theft-auto-v/vehicles/ruiner-zz-8",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/ruiner-zz-8_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/ruiner-zz-8.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 2,
@@ -9093,7 +9093,7 @@ module.exports = {
     "greenwood": {
       "nombre": "Bravado Greenwood",
       "url": "/grand-theft-auto-v/vehicles/greenwood",
-      "imagen": "/igallery/8701-8800/resized/gtao-thecriminalenterprises-greenwood-8713-360_320x180.jpg",
+      "imagen": "/igallery/8701-8800/gtao-thecriminalenterprises-greenwood-8713-360.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 4,
@@ -9118,7 +9118,7 @@ module.exports = {
     "arbiter_gt": {
       "nombre": "Imponte Arbiter GT",
       "url": "/grand-theft-auto-v/vehicles/arbiter-gt",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/arbiter-gt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/arbiter-gt.jpg",
       "metadatos": {
         "agregado": "1.59 PS5 & Xbox Series X|S Release",
         "asientos": 2,
@@ -9143,7 +9143,7 @@ module.exports = {
     "buffalo_stx": {
       "nombre": "Bravado Buffalo STX",
       "url": "/grand-theft-auto-v/vehicles/buffalo-stx",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/buffalo-stx_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/buffalo-stx.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 4,
@@ -9168,7 +9168,7 @@ module.exports = {
     "dominator_asp": {
       "nombre": "Vapid Dominator ASP",
       "url": "/grand-theft-auto-v/vehicles/dominator-asp",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/dominator-asp_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/dominator-asp.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -9193,7 +9193,7 @@ module.exports = {
     "dominator_gtt": {
       "nombre": "Vapid Dominator GTT",
       "url": "/grand-theft-auto-v/vehicles/dominator-gtt",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/dominator-gtt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/dominator-gtt.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -9218,7 +9218,7 @@ module.exports = {
     "gauntlet_classic_custom": {
       "nombre": "Bravado Gauntlet Classic Custom",
       "url": "/grand-theft-auto-v/vehicles/gauntlet-classic-custom",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/gauntlet-classic-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/gauntlet-classic-custom.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 2,
@@ -9243,7 +9243,7 @@ module.exports = {
     "manana_custom": {
       "nombre": "Albany Manana Custom",
       "url": "/grand-theft-auto-v/vehicles/manana-custom",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/manana-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/manana-custom.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 2,
@@ -9268,7 +9268,7 @@ module.exports = {
     "beater_dukes": {
       "nombre": "Imponte Beater Dukes",
       "url": "/grand-theft-auto-v/vehicles/beater-dukes",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/beater-dukes_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/beater-dukes.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 2,
@@ -9291,7 +9291,7 @@ module.exports = {
     "drift_yosemite": {
       "nombre": "Declasse Drift Yosemite",
       "url": "/grand-theft-auto-v/vehicles/drift-yosemite",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/drift-yosemite_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/drift-yosemite.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 2,
@@ -9316,7 +9316,7 @@ module.exports = {
     "peyote_gasser": {
       "nombre": "Vapid Peyote Gasser",
       "url": "/grand-theft-auto-v/vehicles/peyote-gasser",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/peyote-gasser_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/peyote-gasser.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -9339,7 +9339,7 @@ module.exports = {
     "gauntlet_hellfire": {
       "nombre": "Bravado Gauntlet Hellfire",
       "url": "/grand-theft-auto-v/vehicles/gauntlet-hellfire",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/gauntlet-hellfire_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/gauntlet-hellfire.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -9364,7 +9364,7 @@ module.exports = {
     "gauntlet_classic": {
       "nombre": "Bravado Gauntlet Classic",
       "url": "/grand-theft-auto-v/vehicles/gauntlet-classic",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/gauntlet-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/gauntlet-classic.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -9387,7 +9387,7 @@ module.exports = {
     "vamos": {
       "nombre": "Declasse Vamos",
       "url": "/grand-theft-auto-v/vehicles/vamos",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/vamos_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/vamos.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -9410,7 +9410,7 @@ module.exports = {
     "deviant": {
       "nombre": "Schyster Deviant",
       "url": "/grand-theft-auto-v/vehicles/deviant",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/deviant_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/deviant.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -9433,7 +9433,7 @@ module.exports = {
     "tulip": {
       "nombre": "Declasse Tulip",
       "url": "/grand-theft-auto-v/vehicles/tulip",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/tulip_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/tulip.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 4,
@@ -9456,7 +9456,7 @@ module.exports = {
     "clique": {
       "nombre": "Vapid Clique",
       "url": "/grand-theft-auto-v/vehicles/clique",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/clique_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/clique.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -9479,7 +9479,7 @@ module.exports = {
     "imperator_arena": {
       "nombre": "Vapid Imperator (Arena)",
       "url": "/grand-theft-auto-v/vehicles/imperator-arena",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/imperator_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/imperator.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -9504,7 +9504,7 @@ module.exports = {
     "slamvan_arena": {
       "nombre": "Vapid Slamvan (Arena)",
       "url": "/grand-theft-auto-v/vehicles/slamvan-arena",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/slamvan-arena_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/slamvan-arena.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -9529,7 +9529,7 @@ module.exports = {
     "dominator_arena": {
       "nombre": "Vapid Dominator (Arena)",
       "url": "/grand-theft-auto-v/vehicles/dominator-arena",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/dominator-arena_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/dominator-arena.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -9554,7 +9554,7 @@ module.exports = {
     "impaler_arena": {
       "nombre": "Declasse Impaler (Arena)",
       "url": "/grand-theft-auto-v/vehicles/impaler-arena",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/impaler-arena_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/impaler-arena.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -9579,7 +9579,7 @@ module.exports = {
     "impaler": {
       "nombre": "Declasse Impaler",
       "url": "/grand-theft-auto-v/vehicles/impaler",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/impaler_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/impaler.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -9602,7 +9602,7 @@ module.exports = {
     "dominator_gtx": {
       "nombre": "Vapid Dominator GTX",
       "url": "/grand-theft-auto-v/vehicles/vapid-dominator-gtx",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/dominator-gtx_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/dominator-gtx.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 2,
@@ -9625,7 +9625,7 @@ module.exports = {
     "ellie": {
       "nombre": "Vapid Ellie",
       "url": "/grand-theft-auto-v/vehicles/vapid-ellie",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/ellie_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/ellie.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 2,
@@ -9648,7 +9648,7 @@ module.exports = {
     "hustler": {
       "nombre": "Vapid Hustler",
       "url": "/grand-theft-auto-v/vehicles/vapid-hustler",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/hustler_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/hustler.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -9671,7 +9671,7 @@ module.exports = {
     "hermes": {
       "nombre": "Albany Hermes",
       "url": "/grand-theft-auto-v/vehicles/albany-hermes",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/hermes_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/hermes.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -9694,7 +9694,7 @@ module.exports = {
     "yosemite": {
       "nombre": "Declasse Yosemite",
       "url": "/grand-theft-auto-v/vehicles/declasse-yosemite",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/yosemite_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/yosemite.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -9717,7 +9717,7 @@ module.exports = {
     "weaponized_tampa": {
       "nombre": "Declasse Tampa (Armado)",
       "url": "/grand-theft-auto-v/vehicles/declasse-tampa-weaponized",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/tampa-weaponized_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/tampa-weaponized.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 2,
@@ -9742,7 +9742,7 @@ module.exports = {
     "ruiner_2000": {
       "nombre": "Imponte Ruiner 2000",
       "url": "/grand-theft-auto-v/vehicles/imponte-ruiner-2000",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/ruiner-2000_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/ruiner-2000.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -9767,7 +9767,7 @@ module.exports = {
     "sabre_turbo_custom": {
       "nombre": "Declasse Sabre Turbo Custom",
       "url": "/grand-theft-auto-v/vehicles/declasse-sabre-turbo-custom",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/sabre-turbo-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/sabre-turbo-custom.jpg",
       "metadatos": {
         "agregado": "1.33 Lowriders: Custom Classics",
         "asientos": 2,
@@ -9792,7 +9792,7 @@ module.exports = {
     "virgo_classic_custom": {
       "nombre": "Dundreary Virgo Classic Custom",
       "url": "/grand-theft-auto-v/vehicles/dundreary-virgo-classic-custom",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/virgo-classic-custom-main_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/virgo-classic-custom-main.jpg",
       "metadatos": {
         "agregado": "1.33 Lowriders: Custom Classics",
         "asientos": 2,
@@ -9817,7 +9817,7 @@ module.exports = {
     "virgo_classic": {
       "nombre": "Dundreary Virgo Classic",
       "url": "/grand-theft-auto-v/vehicles/dundreary-virgo-classic",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/virgo-classic-main_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/virgo-classic-main.jpg",
       "metadatos": {
         "agregado": "1.33 Lowriders: Custom Classics",
         "asientos": 2,
@@ -9840,7 +9840,7 @@ module.exports = {
     "slamvan_custom": {
       "nombre": "Vapid Slamvan Custom",
       "url": "/grand-theft-auto-v/vehicles/vapid-slamvan-custom",
-      "imagen": "/images/gta-5/vehicles/muscle/resized/slamvan-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/slamvan-custom.jpg",
       "metadatos": {
         "agregado": "1.33 Lowriders: Custom Classics",
         "asientos": 2,
@@ -9865,7 +9865,7 @@ module.exports = {
     "faction_custom_donk": {
       "nombre": "Willard Faction Custom Donk",
       "url": "/grand-theft-auto-v/vehicles/willard-faction-custom-donk",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/faction-custom-donk_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/faction-custom-donk.jpg",
       "metadatos": {
         "agregado": "1.33 Lowriders: Custom Classics",
         "asientos": 2,
@@ -9890,7 +9890,7 @@ module.exports = {
     "tampa": {
       "nombre": "Declasse Tampa",
       "url": "/grand-theft-auto-v/vehicles/declasse-tampa",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/tampa_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/tampa.jpg",
       "metadatos": {
         "agregado": "1.31 Festive Surprise 2015",
         "asientos": 2,
@@ -9913,7 +9913,7 @@ module.exports = {
     "nightshade": {
       "nombre": "Imponte Nightshade",
       "url": "/grand-theft-auto-v/vehicles/imponte-nightshade",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/nightshade_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/nightshade.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 2,
@@ -9936,7 +9936,7 @@ module.exports = {
     "lurcher": {
       "nombre": "Albany Lurcher",
       "url": "/grand-theft-auto-v/vehicles/albany-lurcher",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/lurcher_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/lurcher.jpg",
       "metadatos": {
         "agregado": "1.30 Halloween Surprise",
         "asientos": 2,
@@ -9959,7 +9959,7 @@ module.exports = {
     "faction_custom": {
       "nombre": "Willard Faction Custom",
       "url": "/grand-theft-auto-v/vehicles/willard-faction-custom",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/faction-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/faction-custom.jpg",
       "metadatos": {
         "agregado": "1.30 Lowriders",
         "asientos": 2,
@@ -9984,7 +9984,7 @@ module.exports = {
     "voodoo_custom": {
       "nombre": "Declasse Voodoo Custom",
       "url": "/grand-theft-auto-v/vehicles/declasse-voodoo-custom",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/voodoo-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/voodoo-custom.jpg",
       "metadatos": {
         "agregado": "1.30 Lowriders",
         "asientos": 2,
@@ -10009,7 +10009,7 @@ module.exports = {
     "moonbeam_custom": {
       "nombre": "Declasse Moonbeam Custom",
       "url": "/grand-theft-auto-v/vehicles/declasse-moonbeam-custom",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/moonbeam-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/moonbeam-custom.jpg",
       "metadatos": {
         "agregado": "1.30 Lowriders",
         "asientos": 4,
@@ -10034,7 +10034,7 @@ module.exports = {
     "moonbeam": {
       "nombre": "Declasse Moonbeam",
       "url": "/grand-theft-auto-v/vehicles/declasse-moonbeam",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/moonbeam_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/moonbeam.jpg",
       "metadatos": {
         "agregado": "1.30 Lowriders",
         "asientos": 4,
@@ -10057,7 +10057,7 @@ module.exports = {
     "faction": {
       "nombre": "Willard Faction",
       "url": "/grand-theft-auto-v/vehicles/willard-faction",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/faction_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/faction.jpg",
       "metadatos": {
         "agregado": "1.30 Lowriders",
         "asientos": 2,
@@ -10080,7 +10080,7 @@ module.exports = {
     "chino_custom": {
       "nombre": "Vapid Chino Custom",
       "url": "/grand-theft-auto-v/vehicles/vapid-chino-custom",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/chino-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/chino-custom.jpg",
       "metadatos": {
         "agregado": "1.30 Lowriders",
         "asientos": 2,
@@ -10105,7 +10105,7 @@ module.exports = {
     "buccaneer_custom": {
       "nombre": "Albany Buccaneer Custom",
       "url": "/grand-theft-auto-v/vehicles/albany-buccaneer-custom",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/buccaneer-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/buccaneer-custom.jpg",
       "metadatos": {
         "agregado": "1.30 Lowriders",
         "asientos": 2,
@@ -10130,7 +10130,7 @@ module.exports = {
     "coquette_blackfin": {
       "nombre": "Invetero Coquette BlackFin",
       "url": "/grand-theft-auto-v/vehicles/invetero-coquette-blackfin",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/coquette-blackfin_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/coquette-blackfin.jpg",
       "metadatos": {
         "agregado": "1.28 Ill-Gotten Gains Part 2",
         "asientos": 2,
@@ -10153,7 +10153,7 @@ module.exports = {
     "chino": {
       "nombre": "Vapid Chino",
       "url": "/grand-theft-auto-v/vehicles/vapid-chino",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/chino_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/chino.jpg",
       "metadatos": {
         "agregado": "1.28 Ill-Gotten Gains Part 2",
         "asientos": 2,
@@ -10176,7 +10176,7 @@ module.exports = {
     "virgo": {
       "nombre": "Albany Virgo",
       "url": "/grand-theft-auto-v/vehicles/albany-virgo",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/virgo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/virgo.jpg",
       "metadatos": {
         "agregado": "1.27 Ill-Gotten Gains Part 1",
         "asientos": 2,
@@ -10199,7 +10199,7 @@ module.exports = {
     "lost_slamvan": {
       "nombre": "Vapid Lost Slamvan",
       "url": "/grand-theft-auto-v/vehicles/lost-slamvan",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/slamvan-lost-2_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/slamvan-lost-2.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 4,
@@ -10222,7 +10222,7 @@ module.exports = {
     "slamvan": {
       "nombre": "Vapid Slamvan",
       "url": "/grand-theft-auto-v/vehicles/vapid-slamvan",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/slamvan_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/slamvan.jpg",
       "metadatos": {
         "agregado": "1.19 Festive Surprise 2014",
         "asientos": 2,
@@ -10245,7 +10245,7 @@ module.exports = {
     "rat_truck": {
       "nombre": "Bravado Rat-Truck",
       "url": "/grand-theft-auto-v/vehicles/bravado-rat-truck",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/rat-truck_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/rat-truck.jpg",
       "metadatos": {
         "agregado": "1.19 Festive Surprise 2014",
         "asientos": 2,
@@ -10268,7 +10268,7 @@ module.exports = {
     "burger_shot_stallion": {
       "nombre": "Declasse Burger Shot Stallion",
       "url": "/grand-theft-auto-v/vehicles/declasse-stallion-burger-shot",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/stallion-burger-shot_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/stallion-burger-shot.jpg",
       "metadatos": {
         "agregado": "1.18 PS4 & Xbox One Release",
         "asientos": 2,
@@ -10291,7 +10291,7 @@ module.exports = {
     "stallion": {
       "nombre": "Declasse Stallion",
       "url": "/grand-theft-auto-v/vehicles/declasse-stallion",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/stallion_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/stallion.jpg",
       "metadatos": {
         "agregado": "1.18 PS4 & Xbox One Release",
         "asientos": 2,
@@ -10314,7 +10314,7 @@ module.exports = {
     "redwood_gauntlet": {
       "nombre": "Bravado Redwood Gauntlet",
       "url": "/grand-theft-auto-v/vehicles/bravado-gauntlet-redwood",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/gauntlet-redwood_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/gauntlet-redwood.jpg",
       "metadatos": {
         "agregado": "1.18 PS4 & Xbox One Release",
         "asientos": 2,
@@ -10337,7 +10337,7 @@ module.exports = {
     "dukes": {
       "nombre": "Imponte Dukes",
       "url": "/grand-theft-auto-v/vehicles/imponte-dukes",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/dukes_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/dukes.jpg",
       "metadatos": {
         "agregado": "1.18 PS4 & Xbox One Release",
         "asientos": 2,
@@ -10360,7 +10360,7 @@ module.exports = {
     "duke_o_death": {
       "nombre": "Imponte Duke O'Death",
       "url": "/grand-theft-auto-v/vehicles/imponte-duke-o-death",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/duke-o-death_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/duke-o-death.jpg",
       "metadatos": {
         "agregado": "1.18 PS4 & Xbox One Release",
         "asientos": 2,
@@ -10383,7 +10383,7 @@ module.exports = {
     "pisswasser_dominator": {
       "nombre": "Vapid Pißwasser Dominator",
       "url": "/grand-theft-auto-v/vehicles/vapid-dominator-pisswasser",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/dominator-pisswasser_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/dominator-pisswasser.jpg",
       "metadatos": {
         "agregado": "1.18 PS4 & Xbox One Release",
         "asientos": 2,
@@ -10406,7 +10406,7 @@ module.exports = {
     "blade": {
       "nombre": "Vapid Blade",
       "url": "/grand-theft-auto-v/vehicles/vapid-blade",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/blade_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/blade.jpg",
       "metadatos": {
         "agregado": "1.14 I'm Not a Hipster",
         "asientos": 2,
@@ -10429,7 +10429,7 @@ module.exports = {
     "voodoo": {
       "nombre": "Declasse Voodoo",
       "url": "/grand-theft-auto-v/vehicles/declasse-voodoo",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/voodoo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/voodoo.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10452,7 +10452,7 @@ module.exports = {
     "vigero": {
       "nombre": "Declasse Vigero",
       "url": "/grand-theft-auto-v/vehicles/declasse-vigero",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/vigero_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/vigero.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10475,7 +10475,7 @@ module.exports = {
     "sabre_turbo": {
       "nombre": "Declasse Sabre Turbo",
       "url": "/grand-theft-auto-v/vehicles/declasse-sabre-turbo",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/sabre-turbo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/sabre-turbo.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10498,7 +10498,7 @@ module.exports = {
     "ruiner": {
       "nombre": "Imponte Ruiner",
       "url": "/grand-theft-auto-v/vehicles/imponte-ruiner",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/ruiner_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/ruiner.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10521,7 +10521,7 @@ module.exports = {
     "rat_loader": {
       "nombre": "Bravado Rat-Loader",
       "url": "/grand-theft-auto-v/vehicles/bravado-rat-loader",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/rat-loader_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/rat-loader.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10544,7 +10544,7 @@ module.exports = {
     "picador": {
       "nombre": "Cheval Picador",
       "url": "/grand-theft-auto-v/vehicles/cheval-picador",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/picador_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/picador.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10567,7 +10567,7 @@ module.exports = {
     "phoenix": {
       "nombre": "Imponte Phoenix",
       "url": "/grand-theft-auto-v/vehicles/imponte-phoenix",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/phoenix_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/phoenix.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10590,7 +10590,7 @@ module.exports = {
     "hotknife": {
       "nombre": "Vapid Hotknife",
       "url": "/grand-theft-auto-v/vehicles/vapid-hotknife",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/hotknife_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/hotknife.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10613,7 +10613,7 @@ module.exports = {
     "gauntlet": {
       "nombre": "Bravado Gauntlet",
       "url": "/grand-theft-auto-v/vehicles/bravado-gauntlet",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/gauntlet_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/gauntlet.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10636,7 +10636,7 @@ module.exports = {
     "dominator": {
       "nombre": "Vapid Dominator",
       "url": "/grand-theft-auto-v/vehicles/vapid-dominator",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/dominator_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/dominator.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10659,7 +10659,7 @@ module.exports = {
     "buccaneer": {
       "nombre": "Albany Buccaneer",
       "url": "/grand-theft-auto-v/vehicles/albany-buccaneer",
-      "imagen": "/images/gta-5/vehicles/muscle/main/resized/buccaneer_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/muscle/main/buccaneer.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10684,7 +10684,7 @@ module.exports = {
     "sandking_xl": {
       "nombre": "Vapid Sandking XL",
       "url": "/grand-theft-auto-v/vehicles/vapid-sandking-xl",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/sandking-xl_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/sandking-xl.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -10707,7 +10707,7 @@ module.exports = {
     "sandking_swb": {
       "nombre": "Vapid Sandking SWB",
       "url": "/grand-theft-auto-v/vehicles/vapid-sandking-swb",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/sandking-swb_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/sandking-swb.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10730,7 +10730,7 @@ module.exports = {
     "rebel_rusty": {
       "nombre": "Karin Rusty Rebel",
       "url": "/grand-theft-auto-v/vehicles/karin-rebel-rusty",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/rebel-rusty_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/rebel-rusty.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10753,7 +10753,7 @@ module.exports = {
     "rebel": {
       "nombre": "Karin Rebel",
       "url": "/grand-theft-auto-v/vehicles/karin-rebel",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/rebel_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/rebel.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10776,7 +10776,7 @@ module.exports = {
     "rancher_xl": {
       "nombre": "Declasse Rancher XL",
       "url": "/grand-theft-auto-v/vehicles/declasse-rancher-xl",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/rancher-xl_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/rancher-xl.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -10799,7 +10799,7 @@ module.exports = {
     "injection": {
       "nombre": "BF Injection",
       "url": "/grand-theft-auto-v/vehicles/bf-injection",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/injection_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/injection.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10822,7 +10822,7 @@ module.exports = {
     "hot_rod_blazer": {
       "nombre": "Nagasaki Hot Rod Blazer",
       "url": "/grand-theft-auto-v/vehicles/nagasaki-hot-rod-blazer",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/hot-rod-blazer_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/hot-rod-blazer.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -10845,7 +10845,7 @@ module.exports = {
     "duneloader": {
       "nombre": "Bravado Duneloader",
       "url": "/grand-theft-auto-v/vehicles/bravado-duneloader",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/duneloader_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/duneloader.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10868,7 +10868,7 @@ module.exports = {
     "dune_buggy": {
       "nombre": "BF Dune Buggy",
       "url": "/grand-theft-auto-v/vehicles/bf-dune-buggy",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/dune-buggy_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/dune-buggy.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10891,7 +10891,7 @@ module.exports = {
     "bodhi": {
       "nombre": "Canis Bodhi",
       "url": "/grand-theft-auto-v/vehicles/canis-bodhi",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/bodhi_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/bodhi.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -10914,7 +10914,7 @@ module.exports = {
     "blazer_lifeguard": {
       "nombre": "Nagasaki Blazer Lifeguard",
       "url": "/grand-theft-auto-v/vehicles/nagasaki-blazer-lifeguard",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/blazer-lifeguard_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/blazer-lifeguard.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -10937,7 +10937,7 @@ module.exports = {
     "blazer": {
       "nombre": "Nagasaki Blazer",
       "url": "/grand-theft-auto-v/vehicles/nagasaki-blazer",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/blazer_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/blazer.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -10960,7 +10960,7 @@ module.exports = {
     "sanchez_livery": {
       "nombre": "Maibatsu Sanchez (Livery)",
       "url": "/grand-theft-auto-v/vehicles/maibatsu-sanchez-livery",
-      "imagen": "/images/gta-5/vehicles/motorcycles/main/resized/sanchez_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/motorcycles/main/sanchez.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -10983,7 +10983,7 @@ module.exports = {
     "drift_walton_l35": {
       "nombre": "Declasse Drift Walton L35",
       "url": "/vehicles/grand-theft-auto-v/drift-walton-l35",
-      "imagen": "/images/gta-5/vehicles/temp/resized/walton-l35-drift_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/walton-l35-drift.jpg",
       "metadatos": {
         "agregado": "1.71 Money Fronts",
         "asientos": 2,
@@ -11002,7 +11002,7 @@ module.exports = {
     "walton_l35_stock": {
       "nombre": "Declasse Walton L35 (Stock)",
       "url": "/vehicles/grand-theft-auto-v/walton-l35-stock",
-      "imagen": "/igallery/gta5-database/resized/walton-stock-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/walton-stock-360.jpg",
       "metadatos": {
         "agregado": "1.71 Money Fronts",
         "asientos": 2,
@@ -11025,7 +11025,7 @@ module.exports = {
     "firebolt_asp": {
       "nombre": "Vapid Firebolt ASP",
       "url": "/vehicles/grand-theft-auto-v/firebolt-asp",
-      "imagen": "/igallery/gta5-database/resized/firebolt-asp-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/firebolt-asp-360.jpg",
       "metadatos": {
         "agregado": "1.70 Agents of Sabotage",
         "asientos": 2,
@@ -11050,7 +11050,7 @@ module.exports = {
     "yosemite_1500": {
       "nombre": "Declasse Yosemite 1500",
       "url": "/grand-theft-auto-v/vehicles/yosemite-1500",
-      "imagen": "/images/gta-5/vehicles/off-road/resized/yosemite-1500_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/yosemite-1500.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 2,
@@ -11073,7 +11073,7 @@ module.exports = {
     "terminus": {
       "nombre": "Canis Terminus",
       "url": "/grand-theft-auto-v/vehicles/terminus",
-      "imagen": "/images/gta-5/vehicles/off-road/resized/terminus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/terminus.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 4,
@@ -11098,7 +11098,7 @@ module.exports = {
     "walton_l35_lifted": {
       "nombre": "Declasse Walton L35 (Lifted)",
       "url": "/grand-theft-auto-v/vehicles/walton-l35",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/walton-l35_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/walton-l35.jpg",
       "metadatos": {
         "agregado": "1.67 Mercenaries",
         "asientos": 2,
@@ -11121,7 +11121,7 @@ module.exports = {
     "ratel": {
       "nombre": "Vapid Ratel",
       "url": "/grand-theft-auto-v/vehicles/ratel",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/ratel_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/ratel.jpg",
       "metadatos": {
         "agregado": "1.67 Mercenaries",
         "asientos": 2,
@@ -11144,7 +11144,7 @@ module.exports = {
     "monstrociti": {
       "nombre": "Maibatsu MonstroCiti",
       "url": "/grand-theft-auto-v/vehicles/monstrociti",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/monstrociti_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/monstrociti.jpg",
       "metadatos": {
         "agregado": "1.67 Mercenaries",
         "asientos": 2,
@@ -11169,7 +11169,7 @@ module.exports = {
     "boor": {
       "nombre": "Karin Boor",
       "url": "/grand-theft-auto-v/vehicles/boor",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/boor_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/boor.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 2,
@@ -11192,7 +11192,7 @@ module.exports = {
     "manchez_scout_c": {
       "nombre": "Maibatsu Manchez Scout C (Delivery Bike)",
       "url": "/grand-theft-auto-v/vehicles/manchez-scout-c",
-      "imagen": "/images/gta-5/vehicles/motorcycles/main/resized/manchez-scout-c_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/motorcycles/main/manchez-scout-c.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 1,
@@ -11215,7 +11215,7 @@ module.exports = {
     "draugur": {
       "nombre": "Declasse Draugur",
       "url": "/grand-theft-auto-v/vehicles/draugur",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/draugur_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/draugur.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 4,
@@ -11238,7 +11238,7 @@ module.exports = {
     "patriot_mil_spec": {
       "nombre": "Mammoth Patriot Mil-Spec",
       "url": "/grand-theft-auto-v/vehicles/patriot-mil-spec",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/patriot-mil-spec_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/patriot-mil-spec.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 4,
@@ -11263,7 +11263,7 @@ module.exports = {
     "verus": {
       "nombre": "Dinka Verus",
       "url": "/grand-theft-auto-v/vehicles/verus",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/verus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/verus.jpg",
       "metadatos": {
         "agregado": "1.52 Golpe a Cayo Perico",
         "asientos": 2,
@@ -11286,7 +11286,7 @@ module.exports = {
     "manchez_scout": {
       "nombre": "Maibatsu Manchez Scout",
       "url": "/grand-theft-auto-v/vehicles/manchez-scout",
-      "imagen": "/images/gta-5/vehicles/motorcycles/main/resized/manchez-scout_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/motorcycles/main/manchez-scout.jpg",
       "metadatos": {
         "agregado": "1.52 Golpe a Cayo Perico",
         "asientos": 1,
@@ -11309,7 +11309,7 @@ module.exports = {
     "winky": {
       "nombre": "Vapid Winky",
       "url": "/grand-theft-auto-v/vehicles/winky",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/winky_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/winky.jpg",
       "metadatos": {
         "agregado": "1.52 Golpe a Cayo Perico",
         "asientos": 3,
@@ -11332,7 +11332,7 @@ module.exports = {
     "yosemite_rancher": {
       "nombre": "Declasse Yosemite Rancher",
       "url": "/grand-theft-auto-v/vehicles/yosemite-rancher",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/yosemite-rancher_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/yosemite-rancher.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 2,
@@ -11357,7 +11357,7 @@ module.exports = {
     "outlaw": {
       "nombre": "Nagasaki Outlaw",
       "url": "/grand-theft-auto-v/vehicles/outlaw",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/outlaw_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/outlaw.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 2,
@@ -11380,7 +11380,7 @@ module.exports = {
     "zhaba": {
       "nombre": "RUNE Zhaba",
       "url": "/grand-theft-auto-v/vehicles/zhaba",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/zhaba_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/zhaba.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 4,
@@ -11403,7 +11403,7 @@ module.exports = {
     "everon": {
       "nombre": "Karin Everon",
       "url": "/grand-theft-auto-v/vehicles/everon",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/everon_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/everon.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 4,
@@ -11426,7 +11426,7 @@ module.exports = {
     "vagrant": {
       "nombre": "Maxwell Vagrant",
       "url": "/grand-theft-auto-v/vehicles/maxwell-vagrant",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/vagrant_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/vagrant.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 2,
@@ -11449,7 +11449,7 @@ module.exports = {
     "hellion": {
       "nombre": "Annis Hellion",
       "url": "/grand-theft-auto-v/vehicles/hellion",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/hellion_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/hellion.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -11472,7 +11472,7 @@ module.exports = {
     "caracara_4x4": {
       "nombre": "Vapid Caracara 4x4",
       "url": "/grand-theft-auto-v/vehicles/caracara-4x4",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/caracara-4x4_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/caracara-4x4.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 4,
@@ -11495,7 +11495,7 @@ module.exports = {
     "rc_bandito": {
       "nombre": "RC Bandito",
       "url": "/grand-theft-auto-v/vehicles/rc-bandito",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/rc-bandito_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/rc-bandito.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 0,
@@ -11520,7 +11520,7 @@ module.exports = {
     "brutus_arena": {
       "nombre": "Declasse Brutus (Arena)",
       "url": "/grand-theft-auto-v/vehicles/brutus-arena",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/brutus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/brutus.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -11545,7 +11545,7 @@ module.exports = {
     "sasquatch_arena": {
       "nombre": "Bravado Sasquatch (Arena)",
       "url": "/grand-theft-auto-v/vehicles/sasquatch-arena",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/sasquatch_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/sasquatch.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -11570,7 +11570,7 @@ module.exports = {
     "bruiser_arena": {
       "nombre": "Benefactor Bruiser (Arena)",
       "url": "/grand-theft-auto-v/vehicles/bruiser-arena",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/bruiser_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/bruiser.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 4,
@@ -11595,7 +11595,7 @@ module.exports = {
     "freecrawler": {
       "nombre": "Canis Freecrawler",
       "url": "/grand-theft-auto-v/vehicles/freecrawler",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/freecrawler_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/freecrawler.jpg",
       "metadatos": {
         "agregado": "1.44 After Hours",
         "asientos": 4,
@@ -11618,7 +11618,7 @@ module.exports = {
     "menacer": {
       "nombre": "HVY Menacer",
       "url": "/grand-theft-auto-v/vehicles/menacer",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/menacer_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/menacer.jpg",
       "metadatos": {
         "agregado": "1.44 After Hours",
         "asientos": 5,
@@ -11643,7 +11643,7 @@ module.exports = {
     "caracara": {
       "nombre": "Vapid Caracara",
       "url": "/grand-theft-auto-v/vehicles/vapid-caracara",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/caracara_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/caracara.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 5,
@@ -11668,7 +11668,7 @@ module.exports = {
     "kamacho": {
       "nombre": "Canis Kamacho",
       "url": "/grand-theft-auto-v/vehicles/canis-kamacho",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/kamacho_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/kamacho.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 4,
@@ -11691,7 +11691,7 @@ module.exports = {
     "riata": {
       "nombre": "Vapid Riata",
       "url": "/grand-theft-auto-v/vehicles/vapid-riata",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/riata_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/riata.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -11714,7 +11714,7 @@ module.exports = {
     "nightshark": {
       "nombre": "HVY Nightshark",
       "url": "/grand-theft-auto-v/vehicles/hvy-nightshark",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/nightshark_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/nightshark.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 4,
@@ -11737,7 +11737,7 @@ module.exports = {
     "insurgent_pickup_custom": {
       "nombre": "HVY Insurgent Pick-up Custom",
       "url": "/grand-theft-auto-v/vehicles/hvy-insurgent-pick-up-custom",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/insurgent-pick-up-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/insurgent-pick-up-custom.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 9,
@@ -11762,7 +11762,7 @@ module.exports = {
     "technical_custom": {
       "nombre": "Karin Technical Custom",
       "url": "/grand-theft-auto-v/vehicles/karin-technical-custom",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/technical-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/technical-custom.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 3,
@@ -11787,7 +11787,7 @@ module.exports = {
     "dune_fav": {
       "nombre": "BF Dune FAV",
       "url": "/grand-theft-auto-v/vehicles/bf-dune-fav",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/dune-fav_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/dune-fav.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 2,
@@ -11812,7 +11812,7 @@ module.exports = {
     "technical_aqua": {
       "nombre": "Karin Technical Aqua",
       "url": "/grand-theft-auto-v/vehicles/karin-technical-aqua",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/technical-aqua_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/technical-aqua.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 3,
@@ -11837,7 +11837,7 @@ module.exports = {
     "ramp_buggy": {
       "nombre": "BF Ramp Buggy",
       "url": "/grand-theft-auto-v/vehicles/bf-ramp-buggy",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/ramp-buggy_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/ramp-buggy.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 2,
@@ -11862,7 +11862,7 @@ module.exports = {
     "blazer_aqua": {
       "nombre": "Nagasaki Blazer Aqua",
       "url": "/grand-theft-auto-v/vehicles/nagasaki-blazer-aqua",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/blazer-aqua_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/blazer-aqua.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 1,
@@ -11887,7 +11887,7 @@ module.exports = {
     "street_blazer": {
       "nombre": "Nagasaki Street Blazer",
       "url": "/grand-theft-auto-v/vehicles/nagasaki-street-blazer",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/street-blazer_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/street-blazer.jpg",
       "metadatos": {
         "agregado": "1.36 Bikers",
         "asientos": 1,
@@ -11910,7 +11910,7 @@ module.exports = {
     "dune_truck": {
       "nombre": "MTL Dune",
       "url": "/grand-theft-auto-v/vehicles/mtl-dune",
-      "imagen": "/igallery/4201-4300/resized/GTA5_MTLDune_GlobeOil-4232-360_320x180.jpg",
+      "imagen": "/igallery/4201-4300/GTA5_MTLDune_GlobeOil-4232-360.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -11933,7 +11933,7 @@ module.exports = {
     "bf400": {
       "nombre": "Nagasaki BF400",
       "url": "/grand-theft-auto-v/vehicles/nagasaki-bf400",
-      "imagen": "/images/gta-5/vehicles/motorcycles/main/resized/bf400_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/motorcycles/main/bf400.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -11956,7 +11956,7 @@ module.exports = {
     "trophy_truck": {
       "nombre": "Vapid Trophy Truck",
       "url": "/grand-theft-auto-v/vehicles/vapid-trophy-truck",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/trophy-truck_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/trophy-truck.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -11979,7 +11979,7 @@ module.exports = {
     "desert_raid": {
       "nombre": "Vapid Desert Raid",
       "url": "/grand-theft-auto-v/vehicles/vapid-desert-raid",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/desert-raid_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/desert-raid.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -12002,7 +12002,7 @@ module.exports = {
     "brawler": {
       "nombre": "Coil Brawler",
       "url": "/grand-theft-auto-v/vehicles/coil-brawler",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/brawler_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/brawler.jpg",
       "metadatos": {
         "agregado": "1.28 Ill-Gotten Gains Part 2",
         "asientos": 2,
@@ -12025,7 +12025,7 @@ module.exports = {
     "technical": {
       "nombre": "Karin Technical",
       "url": "/grand-theft-auto-v/vehicles/karin-technical",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/technical_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/technical.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 3,
@@ -12048,7 +12048,7 @@ module.exports = {
     "insurgent_pickup": {
       "nombre": "HVY Insurgent Pick-up",
       "url": "/grand-theft-auto-v/vehicles/hvy-insurgent-pick-up",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/insurgent-pick-up_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/insurgent-pick-up.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 9,
@@ -12073,7 +12073,7 @@ module.exports = {
     "insurgent": {
       "nombre": "HVY Insurgent",
       "url": "/grand-theft-auto-v/vehicles/hvy-insurgent",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/insurgent_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/insurgent.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 6,
@@ -12098,7 +12098,7 @@ module.exports = {
     "guardian": {
       "nombre": "Vapid Guardian",
       "url": "/grand-theft-auto-v/vehicles/vapid-guardian",
-      "imagen": "/images/gta-5/vehicles/industrial/main/resized/guardian_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/industrial/main/guardian.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 6,
@@ -12121,7 +12121,7 @@ module.exports = {
     "marshall": {
       "nombre": "Cheval Marshall",
       "url": "/grand-theft-auto-v/vehicles/cheval-marshall",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/marshall_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/marshall.jpg",
       "metadatos": {
         "agregado": "1.18 PS4 & Xbox One Release",
         "asientos": 2,
@@ -12144,7 +12144,7 @@ module.exports = {
     "liberator": {
       "nombre": "Vapid Liberator",
       "url": "/grand-theft-auto-v/vehicles/vapid-the-liberator",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/the-liberator_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/the-liberator.jpg",
       "metadatos": {
         "agregado": "1.15 Independence Day",
         "asientos": 2,
@@ -12167,7 +12167,7 @@ module.exports = {
     "dubsta_6x6": {
       "nombre": "Benefactor Dubsta 6x6",
       "url": "/grand-theft-auto-v/vehicles/benefactor-dubsta-6x6",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/dubsta-6x6_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/dubsta-6x6.jpg",
       "metadatos": {
         "agregado": "1.14 I'm Not a Hipster",
         "asientos": 6,
@@ -12190,7 +12190,7 @@ module.exports = {
     "paradise": {
       "nombre": "Bravado Paradise",
       "url": "/grand-theft-auto-v/vehicles/bravado-paradise",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/paradise_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/paradise.jpg",
       "metadatos": {
         "agregado": "1.06 Beach Bum",
         "asientos": 4,
@@ -12213,7 +12213,7 @@ module.exports = {
     "kalahari": {
       "nombre": "Canis Kalahari",
       "url": "/grand-theft-auto-v/vehicles/canis-kalahari",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/kalahari_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/kalahari.jpg",
       "metadatos": {
         "agregado": "1.06 Beach Bum",
         "asientos": 2,
@@ -12236,7 +12236,7 @@ module.exports = {
     "bifta": {
       "nombre": "BF Bifta",
       "url": "/grand-theft-auto-v/vehicles/bf-bifta",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/bifta_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/bifta.jpg",
       "metadatos": {
         "agregado": "1.06 Beach Bum",
         "asientos": 2,
@@ -12259,7 +12259,7 @@ module.exports = {
     "sanchez": {
       "nombre": "Maibatsu Sanchez",
       "url": "/grand-theft-auto-v/vehicles/maibatsu-sanchez",
-      "imagen": "/images/gta-5/vehicles/motorcycles/main/resized/sanchez-2_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/motorcycles/main/sanchez-2.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -12282,7 +12282,7 @@ module.exports = {
     "mesa_merryweather": {
       "nombre": "Canis Mesa (Merryweather)",
       "url": "/grand-theft-auto-v/vehicles/canis-mesa-merryweather",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/mesa-merryweather_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/mesa-merryweather.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -12305,7 +12305,7 @@ module.exports = {
     "tornado_mariachi": {
       "nombre": "Declasse Tornado Mariachi",
       "url": "/grand-theft-auto-v/vehicles/tornado-mariachi",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/tornado-mariachi_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/tornado-mariachi.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -12328,7 +12328,7 @@ module.exports = {
     "space_docker": {
       "nombre": "BF Space Docker",
       "url": "/grand-theft-auto-v/vehicles/space-docker",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/space-docker_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/space-docker.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -12351,7 +12351,7 @@ module.exports = {
     "patriot": {
       "nombre": "Mammoth Patriot",
       "url": "/grand-theft-auto-v/vehicles/mammoth-patriot",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/patriot_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/patriot.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -12374,7 +12374,7 @@ module.exports = {
     "baller": {
       "nombre": "Gallivanter Baller",
       "url": "/grand-theft-auto-v/vehicles/gallivanter-baller",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/baller_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/baller.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -12399,7 +12399,7 @@ module.exports = {
     "bobcat_security_stockade": {
       "nombre": "Brute Bobcat Security Stockade",
       "url": "/vehicles/grand-theft-auto-v/stockade-bobcat-security",
-      "imagen": "/igallery/gta5-database/resized/bobcat-security-stockade-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/bobcat-security-stockade-360.jpg",
       "metadatos": {
         "agregado": "1.71 Money Fronts",
         "asientos": 4,
@@ -12422,7 +12422,7 @@ module.exports = {
     "benson_cluckin_bell": {
       "nombre": "Vapid Benson (Cluckin' Bell)",
       "url": "/grand-theft-auto-v/vehicles/benson-cluckin-bell",
-      "imagen": "/images/gta-5/vehicles/commercial/resized/benson-cluckin-bell_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/benson-cluckin-bell.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 2,
@@ -12445,7 +12445,7 @@ module.exports = {
     "cerberus_arena": {
       "nombre": "MTL Cerberus (Arena)",
       "url": "/grand-theft-auto-v/vehicles/cerberus-arena",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/cerberus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/cerberus.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -12470,7 +12470,7 @@ module.exports = {
     "terrorbyte": {
       "nombre": "Benefactor Terrorbyte",
       "url": "/grand-theft-auto-v/vehicles/terrorbyte",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/terrorbyte_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/terrorbyte.jpg",
       "metadatos": {
         "agregado": "1.44 After Hours",
         "asientos": 4,
@@ -12495,7 +12495,7 @@ module.exports = {
     "pounder_custom": {
       "nombre": "MTL Pounder Custom",
       "url": "/grand-theft-auto-v/vehicles/pounder-custom",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/pounder-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/pounder-custom.jpg",
       "metadatos": {
         "agregado": "1.44 After Hours",
         "asientos": 8,
@@ -12520,7 +12520,7 @@ module.exports = {
     "mule_custom": {
       "nombre": "Maibatsu Mule Custom",
       "url": "/grand-theft-auto-v/vehicles/mule-custom",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/mule-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/mule-custom.jpg",
       "metadatos": {
         "agregado": "1.44 After Hours",
         "asientos": 4,
@@ -12545,7 +12545,7 @@ module.exports = {
     "phantom_custom": {
       "nombre": "JoBuilt Phantom Custom",
       "url": "/grand-theft-auto-v/vehicles/jobuilt-phantom-custom",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/phantom-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/phantom-custom.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 5,
@@ -12568,7 +12568,7 @@ module.exports = {
     "hauler_custom": {
       "nombre": "JoBuilt Hauler Custom",
       "url": "/grand-theft-auto-v/vehicles/hauler-custom",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/hauler-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/hauler-custom.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 2,
@@ -12591,7 +12591,7 @@ module.exports = {
     "phantom_wedge": {
       "nombre": "JoBuilt Phantom Wedge",
       "url": "/grand-theft-auto-v/vehicles/jobuilt-phantom-wedge",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/phantom-wedge_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/phantom-wedge.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 5,
@@ -12616,7 +12616,7 @@ module.exports = {
     "mule_heist": {
       "nombre": "Maibatsu Mule (Heist)",
       "url": "/grand-theft-auto-v/vehicles/maibatsu-mule-armored",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/mule-armored_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/mule-armored.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 2,
@@ -12639,7 +12639,7 @@ module.exports = {
     "stockade": {
       "nombre": "Brute Stockade",
       "url": "/grand-theft-auto-v/vehicles/brute-stockade",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/stockade_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/stockade.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -12662,7 +12662,7 @@ module.exports = {
     "phantom": {
       "nombre": "JoBuilt Phantom",
       "url": "/grand-theft-auto-v/vehicles/jobuilt-phantom",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/phantom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/phantom.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -12685,7 +12685,7 @@ module.exports = {
     "pounder": {
       "nombre": "MTL Pounder",
       "url": "/grand-theft-auto-v/vehicles/mtl-pounder",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/pounder_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/pounder.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -12708,7 +12708,7 @@ module.exports = {
     "packer": {
       "nombre": "MTL Packer",
       "url": "/grand-theft-auto-v/vehicles/mtl-packer",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/packer_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/packer.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -12731,7 +12731,7 @@ module.exports = {
     "mule": {
       "nombre": "Maibatsu Mule",
       "url": "/grand-theft-auto-v/vehicles/maibatsu-mule",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/mule_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/mule.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 6,
@@ -12754,7 +12754,7 @@ module.exports = {
     "hauler": {
       "nombre": "JoBuilt Hauler",
       "url": "/grand-theft-auto-v/vehicles/jobuilt-hauler",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/hauler_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/hauler.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -12777,7 +12777,7 @@ module.exports = {
     "biff": {
       "nombre": "HVY Biff",
       "url": "/grand-theft-auto-v/vehicles/hvy-biff",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/biff_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/biff.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -12800,7 +12800,7 @@ module.exports = {
     "benson": {
       "nombre": "Vapid Benson",
       "url": "/grand-theft-auto-v/vehicles/vapid-benson",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/benson_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/benson.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -12825,7 +12825,7 @@ module.exports = {
     "brioso_300_widebody": {
       "nombre": "Grotti Brioso 300 Widebody",
       "url": "/grand-theft-auto-v/vehicles/brioso-300-widebody",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/brioso-300-widebody_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/brioso-300-widebody.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 2,
@@ -12850,7 +12850,7 @@ module.exports = {
     "brioso_300": {
       "nombre": "Grotti Brioso 300",
       "url": "/grand-theft-auto-v/vehicles/brioso-300",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/brioso-300_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/brioso-300.jpg",
       "metadatos": {
         "agregado": "1.52 Golpe a Cayo Perico",
         "asientos": 2,
@@ -12873,7 +12873,7 @@ module.exports = {
     "weevil": {
       "nombre": "BF Weevil",
       "url": "/grand-theft-auto-v/vehicles/weevil",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/weevil_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/weevil.jpg",
       "metadatos": {
         "agregado": "1.52 Golpe a Cayo Perico",
         "asientos": 2,
@@ -12896,7 +12896,7 @@ module.exports = {
     "club": {
       "nombre": "BF Club",
       "url": "/grand-theft-auto-v/vehicles/bf-club",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/club_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/club.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 2,
@@ -12919,7 +12919,7 @@ module.exports = {
     "blista_kanjo": {
       "nombre": "Dinka Blista Kanjo",
       "url": "/grand-theft-auto-v/vehicles/blista-kanjo",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/blista-kanjo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/blista-kanjo.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 2,
@@ -12942,7 +12942,7 @@ module.exports = {
     "asbo": {
       "nombre": "Maxwell Asbo",
       "url": "/grand-theft-auto-v/vehicles/maxwell-asbo",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/asbo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/asbo.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 2,
@@ -12965,7 +12965,7 @@ module.exports = {
     "issi_arena": {
       "nombre": "Weeny Issi (Arena)",
       "url": "/grand-theft-auto-v/vehicles/issi-arena",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/issi-arena_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/issi-arena.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 2,
@@ -12990,7 +12990,7 @@ module.exports = {
     "issi_classic": {
       "nombre": "Weeny Issi Classic",
       "url": "/grand-theft-auto-v/vehicles/weeny-issi-classic",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/issi-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/issi-classic.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 2,
@@ -13013,7 +13013,7 @@ module.exports = {
     "brioso_ra": {
       "nombre": "Grotti Brioso R/A",
       "url": "/grand-theft-auto-v/vehicles/grotti-brioso-r-a",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/brioso_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/brioso.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -13038,7 +13038,7 @@ module.exports = {
     "rhapsody": {
       "nombre": "Declasse Rhapsody",
       "url": "/grand-theft-auto-v/vehicles/declasse-rhapsody",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/rhapsody_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/rhapsody.jpg",
       "metadatos": {
         "agregado": "1.14 I'm Not a Hipster",
         "asientos": 2,
@@ -13061,7 +13061,7 @@ module.exports = {
     "panto": {
       "nombre": "Benefactor Panto",
       "url": "/grand-theft-auto-v/vehicles/benefactor-panto",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/panto_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/panto.jpg",
       "metadatos": {
         "agregado": "1.14 I'm Not a Hipster",
         "asientos": 2,
@@ -13084,7 +13084,7 @@ module.exports = {
     "issi": {
       "nombre": "Weeny Issi",
       "url": "/grand-theft-auto-v/vehicles/weeny-issi",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/issi_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/issi.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -13107,7 +13107,7 @@ module.exports = {
     "dilettante_patrol": {
       "nombre": "Karin Dilettante (Patrol)",
       "url": "/grand-theft-auto-v/vehicles/dilettante-patrol",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/dilettante-patrol_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/dilettante-patrol.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13130,7 +13130,7 @@ module.exports = {
     "prairie": {
       "nombre": "Bollokan Prairie",
       "url": "/grand-theft-auto-v/vehicles/bollokan-prairie",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/prairie_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/prairie.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -13153,7 +13153,7 @@ module.exports = {
     "dilettante": {
       "nombre": "Karin Dilettante",
       "url": "/grand-theft-auto-v/vehicles/karin-dilettante",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/dilettante_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/dilettante.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13176,7 +13176,7 @@ module.exports = {
     "blista": {
       "nombre": "Dinka Blista",
       "url": "/grand-theft-auto-v/vehicles/dinka-blista",
-      "imagen": "/images/gta-5/vehicles/compacts/main/resized/blista_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/compacts/main/blista.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -13224,7 +13224,7 @@ module.exports = {
     "outreach_faction": {
       "nombre": "Willard Outreach Faction",
       "url": "/vehicles/grand-theft-auto-v/outreach-faction",
-      "imagen": "/images/gta-5/vehicles/temp/resized/outreach-faction_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/outreach-faction.jpg",
       "metadatos": {
         "agregado": "1.70 Agents of Sabotage",
         "asientos": 2,
@@ -13247,7 +13247,7 @@ module.exports = {
     "terminus_patrol": {
       "nombre": "Canis Terminus Patrol",
       "url": "/vehicles/grand-theft-auto-v/terminus-patrol",
-      "imagen": "/igallery/gta5-database/resized/terminus-patrol-1080_320x180.jpg",
+      "imagen": "/igallery/gta5-database/terminus-patrol-1080.jpg",
       "metadatos": {
         "agregado": "1.70 Agents of Sabotage",
         "asientos": 4,
@@ -13270,7 +13270,7 @@ module.exports = {
     "caracara_pursuit": {
       "nombre": "Vapid Caracara (Policial)",
       "url": "/vehicles/grand-theft-auto-v/caracara-pursuit",
-      "imagen": "/igallery/gta5-database/resized/caracara-pursuit-1080_320x180.jpg",
+      "imagen": "/igallery/gta5-database/caracara-pursuit-1080.jpg",
       "metadatos": {
         "agregado": "1.70 Agents of Sabotage",
         "asientos": 4,
@@ -13293,7 +13293,7 @@ module.exports = {
     "dominator_fx_interceptor": {
       "nombre": "Vapid Dominator FX Interceptor",
       "url": "/grand-theft-auto-v/vehicles/dominator-fx-cruiser",
-      "imagen": "/igallery/gta5-database/resized/dominator-fx-interceptor-2-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/dominator-fx-interceptor-2-360.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 2,
@@ -13316,7 +13316,7 @@ module.exports = {
     "impaler_lx_cruiser": {
       "nombre": "Declasse Impaler LX Cruiser",
       "url": "/grand-theft-auto-v/vehicles/impaler-lx-cruiser",
-      "imagen": "/igallery/gta5-database/resized/impaler-lx-cruiser-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/impaler-lx-cruiser-360.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 2,
@@ -13339,7 +13339,7 @@ module.exports = {
     "dorado_cruiser": {
       "nombre": "Bravado Dorado Cruiser",
       "url": "/grand-theft-auto-v/vehicles/dorado-cruiser",
-      "imagen": "/images/gta-5/vehicles/emergency/resized/dorado-cruiser_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/dorado-cruiser.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 4,
@@ -13362,7 +13362,7 @@ module.exports = {
     "burrito_bail_enforcement": {
       "nombre": "Declasse Burrito (Bail Enforcement)",
       "url": "/grand-theft-auto-v/vehicles/burrito-bail-enforcement",
-      "imagen": "/images/gta-5/vehicles/emergency/resized/burrito-bail-enforcement_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/burrito-bail-enforcement.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 4,
@@ -13385,7 +13385,7 @@ module.exports = {
     "impaler_sz_cruiser": {
       "nombre": "Declasse Impaler SZ Cruiser",
       "url": "/grand-theft-auto-v/vehicles/impaler-sz-cruiser",
-      "imagen": "/images/gta-5/vehicles/emergency/resized/impaler-sz-cruiser_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/impaler-sz-cruiser.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 4,
@@ -13408,7 +13408,7 @@ module.exports = {
     "greenwood_cruiser": {
       "nombre": "Bravado Greenwood Cruiser",
       "url": "/grand-theft-auto-v/vehicles/greenwood-cruiser",
-      "imagen": "/images/gta-5/vehicles/emergency/resized/greenwood-cruiser_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/greenwood-cruiser.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 4,
@@ -13431,7 +13431,7 @@ module.exports = {
     "gauntlet_interceptor": {
       "nombre": "Bravado Gauntlet Interceptor",
       "url": "/grand-theft-auto-v/vehicles/police-gauntlet-hellfier",
-      "imagen": "/images/gta-5/vehicles/temp/dripfeed-chop-shop/resized/police1-2_320x180.png",
+      "imagen": "/images/gta-5/vehicles/temp/dripfeed-chop-shop/police1-2.png",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 2,
@@ -13454,7 +13454,7 @@ module.exports = {
     "rcv": {
       "nombre": "RCV",
       "url": "/grand-theft-auto-v/vehicles/rcv",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/rcv_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/rcv.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 6,
@@ -13479,7 +13479,7 @@ module.exports = {
     "police_predator": {
       "nombre": "Police Predator",
       "url": "/grand-theft-auto-v/vehicles/police-predator",
-      "imagen": "/images/gta-5/vehicles/boats/resized/police-predator_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/boats/police-predator.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13502,7 +13502,7 @@ module.exports = {
     "police_bike": {
       "nombre": "Western Police Bike",
       "url": "/grand-theft-auto-v/vehicles/western-police-bike",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/police-bike_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/police-bike.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -13525,7 +13525,7 @@ module.exports = {
     "police_riot": {
       "nombre": "Brute Police Riot",
       "url": "/grand-theft-auto-v/vehicles/brute-police-riot",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/police-riot_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/police-riot.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 8,
@@ -13548,7 +13548,7 @@ module.exports = {
     "police_maverick": {
       "nombre": "Buckingham Police Maverick",
       "url": "/grand-theft-auto-v/vehicles/buckingham-police-maverick",
-      "imagen": "/images/gta-5/vehicles/helicopters/main/resized/police-maverick_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/helicopters/main/police-maverick.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13571,7 +13571,7 @@ module.exports = {
     "police_cruiser_stanier": {
       "nombre": "Vapid Police Cruiser (Stanier LE)",
       "url": "/grand-theft-auto-v/vehicles/vapid-police-cruiser",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/police-cruiser_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/police-cruiser.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13594,7 +13594,7 @@ module.exports = {
     "police_cruiser_buffalo": {
       "nombre": "Bravado Police Cruiser (Buffalo)",
       "url": "/grand-theft-auto-v/vehicles/bravado-police-cruiser-buffalo",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/police-cruiser-buffalo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/police-cruiser-buffalo.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13617,7 +13617,7 @@ module.exports = {
     "police_cruiser_interceptor": {
       "nombre": "Vapid Police Cruiser (Interceptor)",
       "url": "/grand-theft-auto-v/vehicles/vapid-police-cruiser-interceptor",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/police-cruiser-interceptor_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/police-cruiser-interceptor.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13640,7 +13640,7 @@ module.exports = {
     "park_ranger": {
       "nombre": "Declasse Park Ranger",
       "url": "/grand-theft-auto-v/vehicles/declasse-park-ranger",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/park-ranger_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/park-ranger.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 8,
@@ -13663,7 +13663,7 @@ module.exports = {
     "police_transporter": {
       "nombre": "Declasse Police Transporter",
       "url": "/grand-theft-auto-v/vehicles/declasse-police-transporter",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/police-transporter_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/police-transporter.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13686,7 +13686,7 @@ module.exports = {
     "lifeguard_suv": {
       "nombre": "Declasse Lifeguard (SUV)",
       "url": "/grand-theft-auto-v/vehicles/declasse-lifeguard",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/lifeguard_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/lifeguard.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13709,7 +13709,7 @@ module.exports = {
     "unmarked_cruiser": {
       "nombre": "Vapid Unmarked Cruiser",
       "url": "/grand-theft-auto-v/vehicles/vapid-unmarked-cruiser",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/unmarked-cruiser_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/unmarked-cruiser.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13732,7 +13732,7 @@ module.exports = {
     "seashark_lifeguard": {
       "nombre": "Speedophile Seashark Lifeguard",
       "url": "/grand-theft-auto-v/vehicles/seashark-lifeguard",
-      "imagen": "/images/gta-5/vehicles/boats/resized/seashark-lifeguard_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/boats/seashark-lifeguard.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -13755,7 +13755,7 @@ module.exports = {
     "police_roadcruiser": {
       "nombre": "Albany Police Roadcruiser",
       "url": "/grand-theft-auto-v/vehicles/police-roadcruiser",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/police-roadcruiser_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/police-roadcruiser.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13778,7 +13778,7 @@ module.exports = {
     "police_rancher": {
       "nombre": "Declasse Police Rancher",
       "url": "/grand-theft-auto-v/vehicles/police-rancher",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/police-rancher_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/police-rancher.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13801,7 +13801,7 @@ module.exports = {
     "blazer_lifeguard": {
       "nombre": "Nagasaki Blazer Lifeguard",
       "url": "/grand-theft-auto-v/vehicles/nagasaki-blazer-lifeguard",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/blazer-lifeguard_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/blazer-lifeguard.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -13824,7 +13824,7 @@ module.exports = {
     "sheriff_suv": {
       "nombre": "Declasse Sheriff SUV",
       "url": "/grand-theft-auto-v/vehicles/declasse-sheriff-suv",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/sheriff-suv_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/sheriff-suv.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 8,
@@ -13847,7 +13847,7 @@ module.exports = {
     "sheriff_cruiser": {
       "nombre": "Vapid Sheriff Cruiser",
       "url": "/grand-theft-auto-v/vehicles/vapid-sheriff-cruiser",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/sheriff-cruiser_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/sheriff-cruiser.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13870,7 +13870,7 @@ module.exports = {
     "police_prison_bus": {
       "nombre": "Vapid Police Prison Bus",
       "url": "/grand-theft-auto-v/vehicles/vapid-police-prison-bus",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/police-prison-bus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/police-prison-bus.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 11,
@@ -13893,7 +13893,7 @@ module.exports = {
     "fire_truck": {
       "nombre": "MTL Fire Truck",
       "url": "/grand-theft-auto-v/vehicles/mtl-fire-truck",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/fire-truck_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/fire-truck.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 8,
@@ -13916,7 +13916,7 @@ module.exports = {
     "fib_buffalo": {
       "nombre": "Bravado FIB (Buffalo)",
       "url": "/grand-theft-auto-v/vehicles/bravado-fib-buffalo",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/fib-buffalo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/fib-buffalo.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13939,7 +13939,7 @@ module.exports = {
     "fib_granger": {
       "nombre": "Declasse FIB (Granger)",
       "url": "/grand-theft-auto-v/vehicles/declasse-fib",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/fib_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/fib.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 8,
@@ -13962,7 +13962,7 @@ module.exports = {
     "ambulance": {
       "nombre": "Brute Ambulance",
       "url": "/grand-theft-auto-v/vehicles/brute-ambulance",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/ambulance_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/ambulance.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -13985,7 +13985,7 @@ module.exports = {
     "buffalo_stx_pursuit": {
       "nombre": "Bravado Buffalo STX (Policial)",
       "url": "/vehicles/grand-theft-auto-v/buffalo-stx-pursuit",
-      "imagen": "/images/gta-5/vehicles/temp/resized/buffalo-stx-pursuit_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/buffalo-stx-pursuit.jpg",
       "metadatos": {
         "agregado": "1.72 Un Refugio en las Colinas",
         "asientos": 4,
@@ -14002,7 +14002,7 @@ module.exports = {
     "buffalo_s_cruiser": {
       "nombre": "Bravado Buffalo S Cruiser",
       "url": "/vehicles/grand-theft-auto-v/buffalo-s-cruiser",
-      "imagen": "/images/gta-5/vehicles/temp/resized/buffalo-cruiser_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/buffalo-cruiser.jpg",
       "metadatos": {
         "agregado": "1.72 Un Refugio en las Colinas",
         "asientos": 4,
@@ -14021,7 +14021,7 @@ module.exports = {
     "guardian": {
       "nombre": "Vapid Guardian",
       "url": "/grand-theft-auto-v/vehicles/vapid-guardian",
-      "imagen": "/images/gta-5/vehicles/industrial/main/resized/guardian_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/industrial/main/guardian.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 6,
@@ -14044,7 +14044,7 @@ module.exports = {
     "flatbed": {
       "nombre": "MTL Flatbed",
       "url": "/grand-theft-auto-v/vehicles/mtl-flatbed",
-      "imagen": "/images/gta-5/vehicles/industrial/main/resized/flatbed_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/industrial/main/flatbed.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -14067,7 +14067,7 @@ module.exports = {
     "mixer_ii": {
       "nombre": "HVY Mixer II",
       "url": "/grand-theft-auto-v/vehicles/hvy-mixer-2",
-      "imagen": "/images/gta-5/vehicles/industrial/main/resized/mixer-2_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/industrial/main/mixer-2.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -14090,7 +14090,7 @@ module.exports = {
     "tipper_ii": {
       "nombre": "Brute Tipper II (6 wheels)",
       "url": "/grand-theft-auto-v/vehicles/brute-tipper-2",
-      "imagen": "/images/gta-5/vehicles/industrial/main/resized/tipper-2_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/industrial/main/tipper-2.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -14113,7 +14113,7 @@ module.exports = {
     "tipper": {
       "nombre": "Brute Tipper (4 wheels)",
       "url": "/grand-theft-auto-v/vehicles/brute-tipper",
-      "imagen": "/images/gta-5/vehicles/industrial/main/resized/tipper_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/industrial/main/tipper.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -14136,7 +14136,7 @@ module.exports = {
     "rubble": {
       "nombre": "JoBuilt Rubble",
       "url": "/grand-theft-auto-v/vehicles/jobuilt-rubble",
-      "imagen": "/images/gta-5/vehicles/industrial/main/resized/rubble_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/industrial/main/rubble.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -14159,7 +14159,7 @@ module.exports = {
     "mixer": {
       "nombre": "HVY Mixer",
       "url": "/grand-theft-auto-v/vehicles/hvy-mixer",
-      "imagen": "/images/gta-5/vehicles/industrial/main/resized/mixer_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/industrial/main/mixer.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -14182,7 +14182,7 @@ module.exports = {
     "dump": {
       "nombre": "HVY Dump",
       "url": "/grand-theft-auto-v/vehicles/hvy-dump",
-      "imagen": "/images/gta-5/vehicles/industrial/main/resized/dump_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/industrial/main/dump.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -14205,7 +14205,7 @@ module.exports = {
     "dozer": {
       "nombre": "HVY Dozer",
       "url": "/grand-theft-auto-v/vehicles/hvy-dozer",
-      "imagen": "/images/gta-5/vehicles/industrial/main/resized/dozer_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/industrial/main/dozer.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -14228,7 +14228,7 @@ module.exports = {
     "dock_handler": {
       "nombre": "HVY Dock Handler",
       "url": "/grand-theft-auto-v/vehicles/hvy-dock-handler",
-      "imagen": "/images/gta-5/vehicles/industrial/main/resized/dock-handler_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/industrial/main/dock-handler.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -14251,7 +14251,7 @@ module.exports = {
     "cutter": {
       "nombre": "HVY Cutter",
       "url": "/grand-theft-auto-v/vehicles/hvy-cutter",
-      "imagen": "/images/gta-5/vehicles/industrial/main/resized/cutter_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/industrial/main/cutter.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -14276,7 +14276,7 @@ module.exports = {
     "sentinel_xs4": {
       "nombre": "Übermacht Sentinel XS4",
       "url": "/vehicles/grand-theft-auto-v/sentinel-xs4",
-      "imagen": "/igallery/gta5-database/resized/sentinel-xs4-1-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/sentinel-xs4-1-360.jpg",
       "metadatos": {
         "agregado": "1.72 Un Refugio en las Colinas",
         "asientos": 4,
@@ -14299,7 +14299,7 @@ module.exports = {
     "minimus": {
       "nombre": "Annis Minimus",
       "url": "/vehicles/grand-theft-auto-v/minimus",
-      "imagen": "/igallery/gta5-database/resized/minimus-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/minimus-360.jpg",
       "metadatos": {
         "agregado": "1.71 Money Fronts",
         "asientos": 4,
@@ -14322,7 +14322,7 @@ module.exports = {
     "hardy": {
       "nombre": "Annis Hardy",
       "url": "/vehicles/grand-theft-auto-v/hardy",
-      "imagen": "/igallery/gta5-database/resized/hardy-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/hardy-360.jpg",
       "metadatos": {
         "agregado": "1.71 Money Fronts",
         "asientos": 4,
@@ -14347,7 +14347,7 @@ module.exports = {
     "chavos_v6": {
       "nombre": "Dinka Chavos V6",
       "url": "/vehicles/grand-theft-auto-v/chavos-v6",
-      "imagen": "/igallery/gta5-database/resized/chavos-v6-1080_320x180.jpg",
+      "imagen": "/igallery/gta5-database/chavos-v6-1080.jpg",
       "metadatos": {
         "agregado": "1.70 Agents of Sabotage",
         "asientos": 4,
@@ -14372,7 +14372,7 @@ module.exports = {
     "vorschlaghammer": {
       "nombre": "Benefactor Vorschlaghammer",
       "url": "/grand-theft-auto-v/vehicles/vorschlaghammer",
-      "imagen": "/igallery/gta5-database/resized/vorschlaghammer-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/vorschlaghammer-360.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 4,
@@ -14397,7 +14397,7 @@ module.exports = {
     "asterope_gz": {
       "nombre": "Karin Asterope GZ",
       "url": "/grand-theft-auto-v/vehicles/asterope-gz",
-      "imagen": "/images/gta-5/vehicles/sedans/resized/asterope-gz_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/asterope-gz.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 4,
@@ -14420,7 +14420,7 @@ module.exports = {
     "rhinehart": {
       "nombre": "Übermacht Rhinehart",
       "url": "/grand-theft-auto-v/vehicles/rhinehart",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/rhinehart_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/rhinehart.jpg",
       "metadatos": {
         "agregado": "1.61 Criminal Enterprises",
         "asientos": 4,
@@ -14443,7 +14443,7 @@ module.exports = {
     "deity": {
       "nombre": "Enus Deity",
       "url": "/grand-theft-auto-v/vehicles/deity",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/deity_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/deity.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 4,
@@ -14468,7 +14468,7 @@ module.exports = {
     "cinquemila": {
       "nombre": "Lampadati Cinquemila",
       "url": "/grand-theft-auto-v/vehicles/cinquemila",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/cinquemila_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/cinquemila.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 4,
@@ -14491,7 +14491,7 @@ module.exports = {
     "tailgater_s": {
       "nombre": "Obey Tailgater S",
       "url": "/grand-theft-auto-v/vehicles/tailgater-s",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/tailgater-s_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/tailgater-s.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 4,
@@ -14516,7 +14516,7 @@ module.exports = {
     "warrener_hkr": {
       "nombre": "Vulcar Warrener HKR",
       "url": "/grand-theft-auto-v/vehicles/warrener-hkr",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/warrener-hkr_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/warrener-hkr.jpg",
       "metadatos": {
         "agregado": "1.57 Los Santos Tuners",
         "asientos": 2,
@@ -14541,7 +14541,7 @@ module.exports = {
     "glendale_custom": {
       "nombre": "Benefactor Glendale Custom",
       "url": "/grand-theft-auto-v/vehicles/glendale-custom",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/glendale-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/glendale-custom.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 4,
@@ -14566,7 +14566,7 @@ module.exports = {
     "stafford": {
       "nombre": "Enus Stafford",
       "url": "/grand-theft-auto-v/vehicles/stafford",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/stafford_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/stafford.jpg",
       "metadatos": {
         "agregado": "1.44 After Hours",
         "asientos": 4,
@@ -14589,7 +14589,7 @@ module.exports = {
     "schafter_v12_armored": {
       "nombre": "Benefactor Schafter V12 (Armored)",
       "url": "/grand-theft-auto-v/vehicles/benefactor-schafter-v12-armored",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/schafter-v12-armored_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/schafter-v12-armored.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -14612,7 +14612,7 @@ module.exports = {
     "schafter_v12": {
       "nombre": "Benefactor Schafter V12",
       "url": "/grand-theft-auto-v/vehicles/benefactor-schafter-v12",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/schafter-v12_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/schafter-v12.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -14635,7 +14635,7 @@ module.exports = {
     "schafter_lwb": {
       "nombre": "Benefactor Schafter LWB",
       "url": "/grand-theft-auto-v/vehicles/benefactor-schafter-lwb",
-      "imagen": "/images/gta-5/vehicles/sports/main/resized/schafter-lwb_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports/main/schafter-lwb.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -14658,7 +14658,7 @@ module.exports = {
     "turretted_limo": {
       "nombre": "Benefactor Turreted Limo",
       "url": "/grand-theft-auto-v/vehicles/benefactor-turretted-limo",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/turretted-limo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/turretted-limo.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 5,
@@ -14681,7 +14681,7 @@ module.exports = {
     "schafter_lwb_armored": {
       "nombre": "Benefactor Schafter LWB (Armored)",
       "url": "/grand-theft-auto-v/vehicles/benefactor-schafter-lwb-armored",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/schafter-lwb-armored_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/schafter-lwb-armored.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -14704,7 +14704,7 @@ module.exports = {
     "cognoscenti_55_armored": {
       "nombre": "Enus Cognoscenti 55 (Armored)",
       "url": "/grand-theft-auto-v/vehicles/enus-cognoscenti-55-armored",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/cognoscenti-55-armored_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/cognoscenti-55-armored.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -14727,7 +14727,7 @@ module.exports = {
     "cognoscenti_55": {
       "nombre": "Enus Cognoscenti 55",
       "url": "/grand-theft-auto-v/vehicles/enus-cognoscenti-55",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/cognoscenti-55_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/cognoscenti-55.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -14750,7 +14750,7 @@ module.exports = {
     "cognoscenti_armored": {
       "nombre": "Enus Cognoscenti (Armored)",
       "url": "/grand-theft-auto-v/vehicles/enus-cognoscenti-armored",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/cognoscenti-armored_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/cognoscenti-armored.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -14773,7 +14773,7 @@ module.exports = {
     "cognoscenti": {
       "nombre": "Enus Cognoscenti",
       "url": "/grand-theft-auto-v/vehicles/enus-cognoscenti",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/cognoscenti_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/cognoscenti.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -14796,7 +14796,7 @@ module.exports = {
     "primo_custom": {
       "nombre": "Albany Primo Custom",
       "url": "/grand-theft-auto-v/vehicles/albany-primo-custom",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/primo-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/primo-custom.jpg",
       "metadatos": {
         "agregado": "1.30 Lowriders",
         "asientos": 4,
@@ -14821,7 +14821,7 @@ module.exports = {
     "warrener": {
       "nombre": "Vulcar Warrener",
       "url": "/grand-theft-auto-v/vehicles/vulcar-warrener",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/warrener_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/warrener.jpg",
       "metadatos": {
         "agregado": "1.14 I'm Not a Hipster",
         "asientos": 4,
@@ -14844,7 +14844,7 @@ module.exports = {
     "glendale": {
       "nombre": "Benefactor Glendale",
       "url": "/grand-theft-auto-v/vehicles/benefactor-glendale",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/glendale_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/glendale.jpg",
       "metadatos": {
         "agregado": "1.14 I'm Not a Hipster",
         "asientos": 4,
@@ -14867,7 +14867,7 @@ module.exports = {
     "stanier": {
       "nombre": "Vapid Stanier",
       "url": "/grand-theft-auto-v/vehicles/vapid-stanier",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/stanier_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/stanier.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -14890,7 +14890,7 @@ module.exports = {
     "washington": {
       "nombre": "Albany Washington",
       "url": "/grand-theft-auto-v/vehicles/albany-washington",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/washington_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/washington.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -14913,7 +14913,7 @@ module.exports = {
     "tailgater": {
       "nombre": "Obey Tailgater",
       "url": "/grand-theft-auto-v/vehicles/obey-tailgater",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/tailgater_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/tailgater.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -14936,7 +14936,7 @@ module.exports = {
     "surge": {
       "nombre": "Cheval Surge",
       "url": "/grand-theft-auto-v/vehicles/cheval-surge",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/surge_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/surge.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -14959,7 +14959,7 @@ module.exports = {
     "super_diamond": {
       "nombre": "Enus Super Diamond",
       "url": "/grand-theft-auto-v/vehicles/enus-super-diamond",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/super-diamond_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/super-diamond.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -14982,7 +14982,7 @@ module.exports = {
     "stretch": {
       "nombre": "Dundreary Stretch",
       "url": "/grand-theft-auto-v/vehicles/dundreary-stretch",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/stretch_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/stretch.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 6,
@@ -15005,7 +15005,7 @@ module.exports = {
     "stratum": {
       "nombre": "Zirconium Stratum",
       "url": "/grand-theft-auto-v/vehicles/zirconium-stratum",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/stratum_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/stratum.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15028,7 +15028,7 @@ module.exports = {
     "schafter": {
       "nombre": "Benefactor Schafter",
       "url": "/grand-theft-auto-v/vehicles/benefactor-schafter",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/schafter_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/schafter.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15051,7 +15051,7 @@ module.exports = {
     "romero_hearse": {
       "nombre": "Chariot Romero Hearse",
       "url": "/grand-theft-auto-v/vehicles/chariot-romero-hearse",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/romero-hearse_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/romero-hearse.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -15074,7 +15074,7 @@ module.exports = {
     "regina": {
       "nombre": "Dundreary Regina",
       "url": "/grand-theft-auto-v/vehicles/dundreary-regina",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/regina_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/regina.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15097,7 +15097,7 @@ module.exports = {
     "primo": {
       "nombre": "Albany Primo",
       "url": "/grand-theft-auto-v/vehicles/albany-primo",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/primo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/primo.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15120,7 +15120,7 @@ module.exports = {
     "premier": {
       "nombre": "Declasse Premier",
       "url": "/grand-theft-auto-v/vehicles/declasse-premier",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/premier_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/premier.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15143,7 +15143,7 @@ module.exports = {
     "intruder": {
       "nombre": "Karin Intruder",
       "url": "/grand-theft-auto-v/vehicles/karin-intruder",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/intruder_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/intruder.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15166,7 +15166,7 @@ module.exports = {
     "ingot": {
       "nombre": "Vulcar Ingot",
       "url": "/grand-theft-auto-v/vehicles/vulcar-ingot",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/ingot_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/ingot.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15189,7 +15189,7 @@ module.exports = {
     "fugitive": {
       "nombre": "Cheval Fugitive",
       "url": "/grand-theft-auto-v/vehicles/cheval-fugitive",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/fugitive_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/fugitive.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15212,7 +15212,7 @@ module.exports = {
     "emperor": {
       "nombre": "Albany Emperor",
       "url": "/grand-theft-auto-v/vehicles/albany-emperor",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/emperor_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/emperor.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15235,7 +15235,7 @@ module.exports = {
     "asterope": {
       "nombre": "Karin Asterope",
       "url": "/grand-theft-auto-v/vehicles/karin-asterope",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/asterope_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/asterope.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15258,7 +15258,7 @@ module.exports = {
     "asea": {
       "nombre": "Declasse Asea",
       "url": "/grand-theft-auto-v/vehicles/declasse-asea",
-      "imagen": "/images/gta-5/vehicles/sedans/main/resized/asea_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sedans/main/asea.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15281,7 +15281,7 @@ module.exports = {
     "blazer_lifeguard": {
       "nombre": "Nagasaki Blazer Lifeguard",
       "url": "/grand-theft-auto-v/vehicles/nagasaki-blazer-lifeguard",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/blazer-lifeguard_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/blazer-lifeguard.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -15306,7 +15306,7 @@ module.exports = {
     "vivanite_knoway": {
       "nombre": "Karin Vivanite KnoWay",
       "url": "/vehicles/grand-theft-auto-v/vivanite-knoway",
-      "imagen": "/images/gta-5/vehicles/temp/resized/vivanite-knoway_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/vivanite-knoway.jpg",
       "metadatos": {
         "agregado": "1.72 Un Refugio en las Colinas",
         "asientos": 4,
@@ -15323,7 +15323,7 @@ module.exports = {
     "brickade_6x6_acid": {
       "nombre": "MTL Brickade 6x6 (Lab. de Ácido)",
       "url": "/grand-theft-auto-v/vehicles/brickade-6x6",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/brickade-6x6_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/brickade-6x6.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 6,
@@ -15346,7 +15346,7 @@ module.exports = {
     "festival_bus": {
       "nombre": "Festival Bus",
       "url": "/grand-theft-auto-v/vehicles/festival-bus",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/festival-bus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/festival-bus.jpg",
       "metadatos": {
         "agregado": "1.44 After Hours",
         "asientos": 11,
@@ -15371,7 +15371,7 @@ module.exports = {
     "wastelander": {
       "nombre": "MTL Wastelander",
       "url": "/grand-theft-auto-v/vehicles/mtl-wastelander",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/wastelander_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/wastelander.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 6,
@@ -15396,7 +15396,7 @@ module.exports = {
     "dune_service": {
       "nombre": "MTL Dune",
       "url": "/grand-theft-auto-v/vehicles/mtl-dune",
-      "imagen": "/igallery/4201-4300/resized/GTA5_MTLDune_GlobeOil-4232-360_320x180.jpg",
+      "imagen": "/igallery/4201-4300/GTA5_MTLDune_GlobeOil-4232-360.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 2,
@@ -15419,7 +15419,7 @@ module.exports = {
     "brickade": {
       "nombre": "MTL Brickade",
       "url": "/grand-theft-auto-v/vehicles/mtl-brickade",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/brickade_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/brickade.jpg",
       "metadatos": {
         "agregado": "1.34 Further Adventures in Finance and Felony",
         "asientos": 6,
@@ -15442,7 +15442,7 @@ module.exports = {
     "cable_car": {
       "nombre": "Cable Car",
       "url": "/grand-theft-auto-v/vehicles/cable-car",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/cable-car_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/cable-car.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -15459,7 +15459,7 @@ module.exports = {
     "tour_bus": {
       "nombre": "Brute Tour Bus",
       "url": "/grand-theft-auto-v/vehicles/brute-tour-bus",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/tour-bus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/tour-bus.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 10,
@@ -15482,7 +15482,7 @@ module.exports = {
     "rental_shuttle_bus": {
       "nombre": "Brute Rental Shuttle Bus",
       "url": "/grand-theft-auto-v/vehicles/brute-rental-shuttle-bus",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/rental-shuttle-bus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/rental-shuttle-bus.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 10,
@@ -15505,7 +15505,7 @@ module.exports = {
     "freight_train": {
       "nombre": "Freight Train",
       "url": "/grand-theft-auto-v/vehicles/freight-train",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/freight-train_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/freight-train.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 0,
@@ -15522,7 +15522,7 @@ module.exports = {
     "taxi": {
       "nombre": "Vapid Taxi",
       "url": "/grand-theft-auto-v/vehicles/vapid-taxi",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/taxi_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/taxi.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15545,7 +15545,7 @@ module.exports = {
     "metro_train": {
       "nombre": "Metro Train",
       "url": "/grand-theft-auto-v/vehicles/metro-train",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/metro-train_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/metro-train.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 0,
@@ -15562,7 +15562,7 @@ module.exports = {
     "trashmaster": {
       "nombre": "JoBuilt Trashmaster",
       "url": "/grand-theft-auto-v/vehicles/jobuilt-trashmaster",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/trashmaster_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/trashmaster.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -15585,7 +15585,7 @@ module.exports = {
     "dashound": {
       "nombre": "Brute Dashound",
       "url": "/grand-theft-auto-v/vehicles/brute-dashound",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/dashound_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/dashound.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 10,
@@ -15608,7 +15608,7 @@ module.exports = {
     "bus": {
       "nombre": "Brute Bus",
       "url": "/grand-theft-auto-v/vehicles/brute-bus",
-      "imagen": "/images/gta-5/vehicles/service/main/resized/bus_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/service/main/bus.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 16,
@@ -15631,7 +15631,7 @@ module.exports = {
     "airport_bus": {
       "nombre": "Brute Airport Bus",
       "url": "/grand-theft-auto-v/vehicles/brute-airport-bus",
-      "imagen": "/igallery/5801-5900/resized/GTA5_Airportbus_Story-5808-360_320x180.jpg",
+      "imagen": "/igallery/5801-5900/GTA5_Airportbus_Story-5808-360.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 16,
@@ -15656,7 +15656,7 @@ module.exports = {
     "itali_classic": {
       "nombre": "Grotti Itali Classic",
       "url": "/vehicles/grand-theft-auto-v/itali-classic",
-      "imagen": "/images/gta-5/vehicles/temp/resized/itali-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/itali-classic.jpg",
       "metadatos": {
         "agregado": "1.72 Un Refugio en las Colinas",
         "asientos": 2,
@@ -15673,7 +15673,7 @@ module.exports = {
     "astrale": {
       "nombre": "Pfister Astrale",
       "url": "/vehicles/grand-theft-auto-v/astrale",
-      "imagen": "/images/gta-5/vehicles/temp/resized/astrale_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/astrale.jpg",
       "metadatos": {
         "agregado": "1.72 Un Refugio en las Colinas",
         "asientos": 2,
@@ -15692,7 +15692,7 @@ module.exports = {
     "gt750": {
       "nombre": "Grotti GT750",
       "url": "/vehicles/grand-theft-auto-v/gt750",
-      "imagen": "/igallery/gta5-database/resized/gt750-1-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/gt750-1-360.jpg",
       "metadatos": {
         "agregado": "1.72 Un Refugio en las Colinas",
         "asientos": 2,
@@ -15715,7 +15715,7 @@ module.exports = {
     "cheetah_classic_widebody": {
       "nombre": "Grotti LSCM Cheetah Classic",
       "url": "/vehicles/grand-theft-auto-v/cheetah-classic-widebody",
-      "imagen": "/images/gta-5/vehicles/temp/resized/lscm-cheetah-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/lscm-cheetah-classic.jpg",
       "metadatos": {
         "agregado": "1.71 Money Fronts",
         "asientos": 2,
@@ -15740,7 +15740,7 @@ module.exports = {
     "uranus_lozspeed": {
       "nombre": "Vapid Uranus LozSpeed",
       "url": "/vehicles/grand-theft-auto-v/uranus-lozspeed",
-      "imagen": "/igallery/gta5-database/resized/uranus-lozspeed-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/uranus-lozspeed-360.jpg",
       "metadatos": {
         "agregado": "1.70 Agents of Sabotage",
         "asientos": 2,
@@ -15763,7 +15763,7 @@ module.exports = {
     "coquette_d1": {
       "nombre": "Invetero Coquette D1",
       "url": "/grand-theft-auto-v/vehicles/coquette-d1",
-      "imagen": "/images/gta-5/vehicles/sports-classic/resized/coquette-d1_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/coquette-d1.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 2,
@@ -15786,7 +15786,7 @@ module.exports = {
     "toreador": {
       "nombre": "Pegassi Toreador",
       "url": "/grand-theft-auto-v/vehicles/toreador",
-      "imagen": "/igallery/7201-7300/resized/GTAOnline_Vehicles_Toreador_Action-7284-360_320x180.jpg",
+      "imagen": "/igallery/7201-7300/GTAOnline_Vehicles_Toreador_Action-7284-360.jpg",
       "metadatos": {
         "agregado": "1.52 Golpe a Cayo Perico",
         "asientos": 4,
@@ -15809,7 +15809,7 @@ module.exports = {
     "peyote_custom": {
       "nombre": "Vapid Peyote Custom",
       "url": "/grand-theft-auto-v/vehicles/peyote-custom",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/peyote-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/peyote-custom.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 2,
@@ -15834,7 +15834,7 @@ module.exports = {
     "jb_700w": {
       "nombre": "Dewbauchee JB 700W",
       "url": "/grand-theft-auto-v/vehicles/jb-700w",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/jb-700w_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/jb-700w.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 2,
@@ -15857,7 +15857,7 @@ module.exports = {
     "retinue_mk_ii": {
       "nombre": "Vapid Retinue Mk II",
       "url": "/grand-theft-auto-v/vehicles/retinue-mk-ii",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/retinue-mk-ii_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/retinue-mk-ii.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 2,
@@ -15880,7 +15880,7 @@ module.exports = {
     "dynasty": {
       "nombre": "Weeny Dynasty",
       "url": "/grand-theft-auto-v/vehicles/dynasty",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/dynasty_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/dynasty.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 4,
@@ -15903,7 +15903,7 @@ module.exports = {
     "zion_classic": {
       "nombre": "Übermacht Zion Classic",
       "url": "/grand-theft-auto-v/vehicles/zion-classic",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/zion-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/zion-classic.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -15926,7 +15926,7 @@ module.exports = {
     "nebula_turbo": {
       "nombre": "Vulcar Nebula Turbo",
       "url": "/grand-theft-auto-v/vehicles/nebula-turbo",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/nebula-turbo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/nebula-turbo.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 2,
@@ -15951,7 +15951,7 @@ module.exports = {
     "swinger": {
       "nombre": "Ocelot Swinger",
       "url": "/grand-theft-auto-v/vehicles/swinger",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/swinger_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/swinger.jpg",
       "metadatos": {
         "agregado": "1.44 After Hours",
         "asientos": 2,
@@ -15974,7 +15974,7 @@ module.exports = {
     "cheburek": {
       "nombre": "RUNE Cheburek",
       "url": "/grand-theft-auto-v/vehicles/rune-cheburek",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/cheburek_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/cheburek.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 4,
@@ -15999,7 +15999,7 @@ module.exports = {
     "michelli_gt": {
       "nombre": "Lampadati Michelli GT",
       "url": "/grand-theft-auto-v/vehicles/michelli-gt",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/michelli-gt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/michelli-gt.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 2,
@@ -16022,7 +16022,7 @@ module.exports = {
     "fagaloa": {
       "nombre": "Vulcar Fagaloa",
       "url": "/grand-theft-auto-v/vehicles/vulcar-fagaloa",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/fagaloa_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/fagaloa.jpg",
       "metadatos": {
         "agregado": "1.43 Southern SA Super Sport Series",
         "asientos": 2,
@@ -16045,7 +16045,7 @@ module.exports = {
     "190z": {
       "nombre": "Karin 190z",
       "url": "/grand-theft-auto-v/vehicles/karin-190z",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/190z_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/190z.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -16068,7 +16068,7 @@ module.exports = {
     "gt500": {
       "nombre": "Grotti GT500",
       "url": "/grand-theft-auto-v/vehicles/grotti-gt500",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/gt500_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/gt500.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -16091,7 +16091,7 @@ module.exports = {
     "viseris": {
       "nombre": "Lampadati Viseris",
       "url": "/grand-theft-auto-v/vehicles/lampadati-viseris",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/viseris_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/viseris.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -16114,7 +16114,7 @@ module.exports = {
     "savestra": {
       "nombre": "Annis Savestra",
       "url": "/grand-theft-auto-v/vehicles/annis-savestra",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/savestra_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/savestra.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -16137,7 +16137,7 @@ module.exports = {
     "stromberg": {
       "nombre": "Ocelot Stromberg",
       "url": "/grand-theft-auto-v/vehicles/ocelot-stromberg",
-      "imagen": "/igallery/6301-6400/resized/GTA5_Stromberg_Online-6379-360_320x180.jpg",
+      "imagen": "/igallery/6301-6400/GTA5_Stromberg_Online-6379-360.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -16162,7 +16162,7 @@ module.exports = {
     "deluxo": {
       "nombre": "Imponte Deluxo",
       "url": "/grand-theft-auto-v/vehicles/imponte-deluxo",
-      "imagen": "/images/gta-5/vehicles/sports-classic/resized/deluxo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/deluxo.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 2,
@@ -16187,7 +16187,7 @@ module.exports = {
     "rapid_gt_classic": {
       "nombre": "Dewbauchee Rapid GT Classic",
       "url": "/grand-theft-auto-v/vehicles/dewbauchee-rapid-gt-classic",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/rapid-gt-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/rapid-gt-classic.jpg",
       "metadatos": {
         "agregado": "1.41 Contrabando",
         "asientos": 2,
@@ -16210,7 +16210,7 @@ module.exports = {
     "retinue": {
       "nombre": "Vapid Retinue",
       "url": "/grand-theft-auto-v/vehicles/vapid-retinue",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/retinue_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/retinue.jpg",
       "metadatos": {
         "agregado": "1.41 Contrabando",
         "asientos": 2,
@@ -16233,7 +16233,7 @@ module.exports = {
     "ardent": {
       "nombre": "Ocelot Ardent",
       "url": "/grand-theft-auto-v/vehicles/ocelot-ardent",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/ardent_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/ardent.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 2,
@@ -16256,7 +16256,7 @@ module.exports = {
     "torero": {
       "nombre": "Pegassi Torero",
       "url": "/grand-theft-auto-v/vehicles/pegassi-torero",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/torero_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/torero.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 2,
@@ -16279,7 +16279,7 @@ module.exports = {
     "cheetah_classic": {
       "nombre": "Grotti Cheetah Classic",
       "url": "/grand-theft-auto-v/vehicles/grotti-cheetah-classic",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/cheetah-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/cheetah-classic.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 2,
@@ -16302,7 +16302,7 @@ module.exports = {
     "turismo_classic": {
       "nombre": "Grotti Turismo Classic",
       "url": "/grand-theft-auto-v/vehicles/grotti-turismo-classic",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/turismo-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/turismo-classic.jpg",
       "metadatos": {
         "agregado": "1.38 Special Vehicle Circuit",
         "asientos": 2,
@@ -16327,7 +16327,7 @@ module.exports = {
     "infernus_classic": {
       "nombre": "Pegassi Infernus Classic",
       "url": "/grand-theft-auto-v/vehicles/pegassi-infernus-classic",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/infernus-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/infernus-classic.jpg",
       "metadatos": {
         "agregado": "1.38 Special Vehicle Circuit",
         "asientos": 2,
@@ -16350,7 +16350,7 @@ module.exports = {
     "tornado_rat_rod": {
       "nombre": "Declasse Tornado Rat Rod",
       "url": "/grand-theft-auto-v/vehicles/tornado-rat-rod",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/tornado-rat-rod_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/tornado-rat-rod.jpg",
       "metadatos": {
         "agregado": "1.36 Bikers",
         "asientos": 2,
@@ -16373,7 +16373,7 @@ module.exports = {
     "tornado_custom": {
       "nombre": "Declasse Tornado Custom",
       "url": "/grand-theft-auto-v/vehicles/declasse-tornado-custom",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/tornado-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/tornado-custom.jpg",
       "metadatos": {
         "agregado": "1.33 Lowriders: Custom Classics",
         "asientos": 2,
@@ -16398,7 +16398,7 @@ module.exports = {
     "roosevelt_valor": {
       "nombre": "Albany Roosevelt Valor",
       "url": "/grand-theft-auto-v/vehicles/albany-roosevelt-valor",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/roosevelt-valor_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/roosevelt-valor.jpg",
       "metadatos": {
         "agregado": "1.32 Be My Valentine",
         "asientos": 6,
@@ -16421,7 +16421,7 @@ module.exports = {
     "mamba": {
       "nombre": "Declasse Mamba",
       "url": "/grand-theft-auto-v/vehicles/declasse-mamba",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/mamba_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/mamba.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 2,
@@ -16444,7 +16444,7 @@ module.exports = {
     "franken_stange": {
       "nombre": "Albany Fränken Stange",
       "url": "/grand-theft-auto-v/vehicles/albany-franken-stange",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/franken-stange_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/franken-stange.jpg",
       "metadatos": {
         "agregado": "1.30 Halloween Surprise",
         "asientos": 4,
@@ -16467,7 +16467,7 @@ module.exports = {
     "stirling_gt": {
       "nombre": "Benefactor Stirling GT",
       "url": "/grand-theft-auto-v/vehicles/benefactor-stirling-gt",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/stirling-gt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/stirling-gt.jpg",
       "metadatos": {
         "agregado": "1.27 Ill-Gotten Gains Part 1",
         "asientos": 2,
@@ -16492,7 +16492,7 @@ module.exports = {
     "casco": {
       "nombre": "Lampadati Casco",
       "url": "/grand-theft-auto-v/vehicles/lampadati-casco",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/casco_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/casco.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 2,
@@ -16515,7 +16515,7 @@ module.exports = {
     "coquette_classic": {
       "nombre": "Invetero Coquette Classic",
       "url": "/grand-theft-auto-v/vehicles/invetero-coquette-classic",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/coquette-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/coquette-classic.jpg",
       "metadatos": {
         "agregado": "1.16 SA Flight School",
         "asientos": 2,
@@ -16538,7 +16538,7 @@ module.exports = {
     "pigalle": {
       "nombre": "Lampadati Pigalle",
       "url": "/grand-theft-auto-v/vehicles/lampadati-pigalle",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/pigalle_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/pigalle.jpg",
       "metadatos": {
         "agregado": "1.14 I'm Not a Hipster",
         "asientos": 2,
@@ -16561,7 +16561,7 @@ module.exports = {
     "roosevelt": {
       "nombre": "Albany Roosevelt",
       "url": "/grand-theft-auto-v/vehicles/albany-roosevelt",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/roosevelt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/roosevelt.jpg",
       "metadatos": {
         "agregado": "1.10 Valentine's Day Massacre",
         "asientos": 6,
@@ -16584,7 +16584,7 @@ module.exports = {
     "tornado_mariachi": {
       "nombre": "Declasse Tornado Mariachi",
       "url": "/grand-theft-auto-v/vehicles/tornado-mariachi",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/tornado-mariachi_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/tornado-mariachi.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16607,7 +16607,7 @@ module.exports = {
     "z_type": {
       "nombre": "Truffade Z-Type",
       "url": "/grand-theft-auto-v/vehicles/truffade-z-type",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/z-type_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/z-type.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16630,7 +16630,7 @@ module.exports = {
     "tornado_convertible": {
       "nombre": "Declasse Tornado Convertible",
       "url": "/grand-theft-auto-v/vehicles/declasse-tornado-convertible",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/tornado-convertible_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/tornado-convertible.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16653,7 +16653,7 @@ module.exports = {
     "tornado": {
       "nombre": "Declasse Tornado",
       "url": "/grand-theft-auto-v/vehicles/declasse-tornado",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/tornado_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/tornado.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16676,7 +16676,7 @@ module.exports = {
     "stinger_classic": {
       "nombre": "Grotti Stinger GT",
       "url": "/grand-theft-auto-v/vehicles/grotti-stinger-gt",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/stinger-gt_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/stinger-gt.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16699,7 +16699,7 @@ module.exports = {
     "stinger": {
       "nombre": "Grotti Stinger",
       "url": "/grand-theft-auto-v/vehicles/grotti-stinger",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/stinger_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/stinger.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16722,7 +16722,7 @@ module.exports = {
     "peyote": {
       "nombre": "Vapid Peyote",
       "url": "/grand-theft-auto-v/vehicles/vapid-peyote",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/peyote_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/peyote.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16745,7 +16745,7 @@ module.exports = {
     "monroe": {
       "nombre": "Pegassi Monroe",
       "url": "/grand-theft-auto-v/vehicles/pegassi-monroe",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/monroe_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/monroe.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16768,7 +16768,7 @@ module.exports = {
     "manana": {
       "nombre": "Albany Manana",
       "url": "/grand-theft-auto-v/vehicles/albany-manana",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/manana_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/manana.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16791,7 +16791,7 @@ module.exports = {
     "jb_700": {
       "nombre": "Dewbauchee JB 700",
       "url": "/grand-theft-auto-v/vehicles/dewbauchee-jb-700",
-      "imagen": "/images/gta-5/vehicles/sports-classic/main/resized/jb-700_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/sports-classic/main/jb-700.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16816,7 +16816,7 @@ module.exports = {
     "keitora": {
       "nombre": "Shitzu Keitora",
       "url": "/vehicles/grand-theft-auto-v/keitora",
-      "imagen": "/images/gta-5/vehicles/temp/resized/keitora_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/keitora.jpg",
       "metadatos": {
         "agregado": "1.72 Un Refugio en las Colinas",
         "asientos": 2,
@@ -16835,7 +16835,7 @@ module.exports = {
     "slamtruck": {
       "nombre": "Vapid Slamtruck",
       "url": "/grand-theft-auto-v/vehicles/slamtruck",
-      "imagen": "/images/gta-5/vehicles/temp/resized/slamtruck_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/slamtruck.jpg",
       "metadatos": {
         "agregado": "1.52 Golpe a Cayo Perico",
         "asientos": 2,
@@ -16858,7 +16858,7 @@ module.exports = {
     "moc_trailer": {
       "nombre": "Mobile Operations Center (Trailer)",
       "url": "/grand-theft-auto-v/vehicles/mobile-operations-center-trailer",
-      "imagen": "/images/gta-5/vehicles/military/main/resized/mobile-operations-center_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/military/main/mobile-operations-center.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 3,
@@ -16877,7 +16877,7 @@ module.exports = {
     "caddy_bunker": {
       "nombre": "Nagasaki Caddy (Bunker)",
       "url": "/grand-theft-auto-v/vehicles/nagasaki-caddy-bunker",
-      "imagen": "/igallery/1401-1500/resized/GTAOnline_Bunker_Transportation_2_CaddyBunker-1500-512_320x180.jpg",
+      "imagen": "/igallery/1401-1500/GTAOnline_Bunker_Transportation_2_CaddyBunker-1500-512.jpg",
       "metadatos": {
         "agregado": "1.40 Tráfico de armas",
         "asientos": 2,
@@ -16900,7 +16900,7 @@ module.exports = {
     "caddy_civilian": {
       "nombre": "Nagasaki Caddy (Civilian)",
       "url": "/grand-theft-auto-v/vehicles/caddy-utility",
-      "imagen": "/igallery/1501-1600/resized/GTAOnline_Bunker_Transportation_1_CaddyUtility-1501-512_320x180.jpg",
+      "imagen": "/igallery/1501-1600/GTAOnline_Bunker_Transportation_1_CaddyUtility-1501-512.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16923,7 +16923,7 @@ module.exports = {
     "utility_truck_contender": {
       "nombre": "Vapid Utility Truck (Contender)",
       "url": "/grand-theft-auto-v/vehicles/vapid-utility-truck-contender",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/utility-truck-contender_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/utility-truck-contender.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16946,7 +16946,7 @@ module.exports = {
     "utility_truck_cherry_picker": {
       "nombre": "Brute Utility Truck (Cherry Picker)",
       "url": "/grand-theft-auto-v/vehicles/brute-utility-truck-cherry-picker",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/utility-truck-cherry-picker_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/utility-truck-cherry-picker.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16969,7 +16969,7 @@ module.exports = {
     "utility_truck_van": {
       "nombre": "Brute Utility Truck (Van)",
       "url": "/grand-theft-auto-v/vehicles/brute-utility-truck",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/utility-truck_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/utility-truck.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -16992,7 +16992,7 @@ module.exports = {
     "tractor": {
       "nombre": "Stanley Tractor",
       "url": "/grand-theft-auto-v/vehicles/stanley-tractor",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/tractor_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/tractor.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -17015,7 +17015,7 @@ module.exports = {
     "tow_truck_large": {
       "nombre": "Vapid Tow Truck (Large)",
       "url": "/grand-theft-auto-v/vehicles/vapid-tow-truck-large",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/tow-truck-large_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/tow-truck-large.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -17038,7 +17038,7 @@ module.exports = {
     "tow_truck_small": {
       "nombre": "Vapid Tow Truck (Small)",
       "url": "/grand-theft-auto-v/vehicles/vapid-tow-truck",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/tow-truck_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/tow-truck.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -17061,7 +17061,7 @@ module.exports = {
     "scrap_truck": {
       "nombre": "Vapid Scrap Truck",
       "url": "/grand-theft-auto-v/vehicles/vapid-scrap-truck",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/scrap-truck_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/scrap-truck.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -17084,7 +17084,7 @@ module.exports = {
     "sadler": {
       "nombre": "Vapid Sadler",
       "url": "/grand-theft-auto-v/vehicles/vapid-sadler",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/sadler_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/sadler.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -17107,7 +17107,7 @@ module.exports = {
     "ripley": {
       "nombre": "HVY Ripley",
       "url": "/grand-theft-auto-v/vehicles/hvy-ripley",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/ripley_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/ripley.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -17130,7 +17130,7 @@ module.exports = {
     "lawn_mower": {
       "nombre": "Jacksheepe Lawn Mower",
       "url": "/grand-theft-auto-v/vehicles/jacksheepe-lawn-mower",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/lawn-mower_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/lawn-mower.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -17153,7 +17153,7 @@ module.exports = {
     "forklift": {
       "nombre": "HVY Forklift",
       "url": "/grand-theft-auto-v/vehicles/hvy-forklift",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/forklift_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/forklift.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -17176,7 +17176,7 @@ module.exports = {
     "fieldmaster": {
       "nombre": "Stanley Fieldmaster",
       "url": "/grand-theft-auto-v/vehicles/stanley-fieldmaster",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/fieldmaster_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/fieldmaster.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -17199,7 +17199,7 @@ module.exports = {
     "docktug": {
       "nombre": "HVY Docktug",
       "url": "/grand-theft-auto-v/vehicles/hvy-docktug",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/docktug_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/docktug.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -17222,7 +17222,7 @@ module.exports = {
     "caddy_golf": {
       "nombre": "Nagasaki Caddy (Golf)",
       "url": "/grand-theft-auto-v/vehicles/nagasaki-caddy",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/caddy_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/caddy.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -17245,7 +17245,7 @@ module.exports = {
     "airtug": {
       "nombre": "HVY Airtug",
       "url": "/grand-theft-auto-v/vehicles/hvy-airtug",
-      "imagen": "/images/gta-5/vehicles/utility/main/resized/airtug_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/utility/main/airtug.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -17268,7 +17268,7 @@ module.exports = {
     "faggio": {
       "nombre": "Pegassi Faggio",
       "url": "/grand-theft-auto-v/vehicles/pegassi-faggio",
-      "imagen": "/images/gta-5/vehicles/motorcycles/main/resized/faggio_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/motorcycles/main/faggio.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -17293,7 +17293,7 @@ module.exports = {
     "journey_ii": {
       "nombre": "Zirconium Journey II",
       "url": "/grand-theft-auto-v/vehicles/journey-ii",
-      "imagen": "/igallery/8801-8900/resized/gtaonline-journeyii-action-8848-360_320x180.jpg",
+      "imagen": "/igallery/8801-8900/gtaonline-journeyii-action-8848-360.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 6,
@@ -17316,7 +17316,7 @@ module.exports = {
     "surfer_custom": {
       "nombre": "BF Surfer Custom",
       "url": "/grand-theft-auto-v/vehicles/surfer-custom",
-      "imagen": "/igallery/8801-8900/resized/gtaonline-lsdrugwars-artwork-surfercustom-8860-360_320x180.jpg",
+      "imagen": "/igallery/8801-8900/gtaonline-lsdrugwars-artwork-surfercustom-8860-360.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 4,
@@ -17339,7 +17339,7 @@ module.exports = {
     "youga_custom_ld": {
       "nombre": "Vapid Youga Custom (LD Organics)",
       "url": "/grand-theft-auto-v/vehicles/youga-custom",
-      "imagen": "/images/gta-5/vehicles/temp/resized/youga-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/youga-custom.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 4,
@@ -17356,7 +17356,7 @@ module.exports = {
     "youga_classic_4x4": {
       "nombre": "Bravado Youga Classic 4x4",
       "url": "/grand-theft-auto-v/vehicles/youga-classic-4x4",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/youga-classic-4x4_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/youga-classic-4x4.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 4,
@@ -17381,7 +17381,7 @@ module.exports = {
     "speedo_custom": {
       "nombre": "Vapid Speedo Custom",
       "url": "/grand-theft-auto-v/vehicles/speedo-custom",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/speedo-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/speedo-custom.jpg",
       "metadatos": {
         "agregado": "1.44 After Hours",
         "asientos": 4,
@@ -17406,7 +17406,7 @@ module.exports = {
     "rcv": {
       "nombre": "RCV",
       "url": "/grand-theft-auto-v/vehicles/rcv",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/rcv_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/rcv.jpg",
       "metadatos": {
         "agregado": "1.42 Golpe del Fin del Mundo",
         "asientos": 6,
@@ -17431,7 +17431,7 @@ module.exports = {
     "boxville_armored": {
       "nombre": "Brute Armored Boxville",
       "url": "/grand-theft-auto-v/vehicles/brute-boxville-armored",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/boxville-armored_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/boxville-armored.jpg",
       "metadatos": {
         "agregado": "1.37 Import/Export",
         "asientos": 5,
@@ -17456,7 +17456,7 @@ module.exports = {
     "youga_classic": {
       "nombre": "Bravado Youga Classic",
       "url": "/grand-theft-auto-v/vehicles/bravado-youga-classic",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/youga-classic_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/youga-classic.jpg",
       "metadatos": {
         "agregado": "1.36 Bikers",
         "asientos": 4,
@@ -17479,7 +17479,7 @@ module.exports = {
     "rumpo_custom": {
       "nombre": "Bravado Rumpo Custom",
       "url": "/grand-theft-auto-v/vehicles/bravado-rumpo-custom",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/rumpo-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/rumpo-custom.jpg",
       "metadatos": {
         "agregado": "1.34 Further Adventures in Finance and Felony",
         "asientos": 4,
@@ -17502,7 +17502,7 @@ module.exports = {
     "minivan_custom": {
       "nombre": "Vapid Minivan Custom",
       "url": "/grand-theft-auto-v/vehicles/vapid-minivan-custom",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/minivan-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/minivan-custom.jpg",
       "metadatos": {
         "agregado": "1.33 Lowriders: Custom Classics",
         "asientos": 4,
@@ -17527,7 +17527,7 @@ module.exports = {
     "mule_heist": {
       "nombre": "Maibatsu Mule (Heist)",
       "url": "/grand-theft-auto-v/vehicles/maibatsu-mule-armored",
-      "imagen": "/images/gta-5/vehicles/commercial/main/resized/mule-armored_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/commercial/main/mule-armored.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 2,
@@ -17550,7 +17550,7 @@ module.exports = {
     "gang_burrito": {
       "nombre": "Declasse Gang Burrito",
       "url": "/grand-theft-auto-v/vehicles/declasse-gang-burrito",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/gang-burrito_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/gang-burrito.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 4,
@@ -17573,7 +17573,7 @@ module.exports = {
     "boxville_post_op": {
       "nombre": "Brute Boxville (Post OP)",
       "url": "/grand-theft-auto-v/vehicles/brute-boxville",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/boxville-heist_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/boxville-heist.jpg",
       "metadatos": {
         "agregado": "1.21 Heists DLC",
         "asientos": 4,
@@ -17596,7 +17596,7 @@ module.exports = {
     "paradise": {
       "nombre": "Bravado Paradise",
       "url": "/grand-theft-auto-v/vehicles/bravado-paradise",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/paradise_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/paradise.jpg",
       "metadatos": {
         "agregado": "1.06 Beach Bum",
         "asientos": 4,
@@ -17619,7 +17619,7 @@ module.exports = {
     "boxville_lsds": {
       "nombre": "Brute Boxville (LSDS)",
       "url": "/grand-theft-auto-v/vehicles/boxville-lsds",
-      "imagen": "/images/gta-5/vehicles/temp/dripfeed-chop-shop/resized/boxville-lsds_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/temp/dripfeed-chop-shop/boxville-lsds.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 6,
@@ -17642,7 +17642,7 @@ module.exports = {
     "taco_van": {
       "nombre": "Brute Taco Van",
       "url": "/grand-theft-auto-v/vehicles/brute-taco-van",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/taco-van_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/taco-van.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 1,
@@ -17665,7 +17665,7 @@ module.exports = {
     "pony": {
       "nombre": "Brute Pony",
       "url": "/grand-theft-auto-v/vehicles/brute-pony",
-      "imagen": "/igallery/5601-5700/resized/GTA5_Pony_2_Main-5602-360_320x180.jpg",
+      "imagen": "/igallery/5601-5700/GTA5_Pony_2_Main-5602-360.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -17688,7 +17688,7 @@ module.exports = {
     "surfer": {
       "nombre": "BF Surfer",
       "url": "/grand-theft-auto-v/vehicles/bf-surfer",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/surfer_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/surfer.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -17711,7 +17711,7 @@ module.exports = {
     "bison": {
       "nombre": "Bravado Bison",
       "url": "/grand-theft-auto-v/vehicles/bravado-bison",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/bison_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/bison.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 6,
@@ -17734,7 +17734,7 @@ module.exports = {
     "boxville_lsdwp": {
       "nombre": "Brute Boxville (LSDWP)",
       "url": "/grand-theft-auto-v/vehicles/boxville-lsdwp",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/boxville-lsdwp_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/boxville-lsdwp.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -17757,7 +17757,7 @@ module.exports = {
     "boxville_civilian": {
       "nombre": "Brute Boxville",
       "url": "/grand-theft-auto-v/vehicles/boxville",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/boxville_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/boxville.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -17780,7 +17780,7 @@ module.exports = {
     "bugstars_burrito": {
       "nombre": "Declasse Bugstars Burrito",
       "url": "/grand-theft-auto-v/vehicles/bugstars-burrito",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/burrito-bugstars_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/burrito-bugstars.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -17803,7 +17803,7 @@ module.exports = {
     "lost_gang_burrito": {
       "nombre": "Declasse Lost Gang Burrito",
       "url": "/grand-theft-auto-v/vehicles/lost-gang-burrito",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/gang-burrito-lost_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/gang-burrito-lost.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -17826,7 +17826,7 @@ module.exports = {
     "clown_van": {
       "nombre": "Vapid Clown Van",
       "url": "/grand-theft-auto-v/vehicles/clown-van",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/clown-van_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/clown-van.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -17849,7 +17849,7 @@ module.exports = {
     "youga": {
       "nombre": "Bravado Youga",
       "url": "/grand-theft-auto-v/vehicles/bravado-youga",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/youga_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/youga.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -17872,7 +17872,7 @@ module.exports = {
     "speedo": {
       "nombre": "Vapid Speedo",
       "url": "/grand-theft-auto-v/vehicles/vapid-speedo",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/speedo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/speedo.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -17895,7 +17895,7 @@ module.exports = {
     "rumpo": {
       "nombre": "Bravado Rumpo",
       "url": "/grand-theft-auto-v/vehicles/bravado-rumpo",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/rumpo_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/rumpo.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -17918,7 +17918,7 @@ module.exports = {
     "minivan": {
       "nombre": "Vapid Minivan",
       "url": "/grand-theft-auto-v/vehicles/vapid-minivan",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/minivan_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/minivan.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -17941,7 +17941,7 @@ module.exports = {
     "journey": {
       "nombre": "Zirconium Journey",
       "url": "/grand-theft-auto-v/vehicles/zirconium-journey",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/journey_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/journey.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 6,
@@ -17964,7 +17964,7 @@ module.exports = {
     "camper": {
       "nombre": "Brute Camper",
       "url": "/grand-theft-auto-v/vehicles/brute-camper",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/camper_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/camper.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -17987,7 +17987,7 @@ module.exports = {
     "burrito": {
       "nombre": "Declasse Burrito",
       "url": "/grand-theft-auto-v/vehicles/declasse-burrito",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/burrito-lsdwp_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/burrito-lsdwp.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -18010,7 +18010,7 @@ module.exports = {
     "bobcat_xl": {
       "nombre": "Vapid Bobcat XL",
       "url": "/grand-theft-auto-v/vehicles/vapid-bobcat-xl",
-      "imagen": "/images/gta-5/vehicles/vans/main/resized/bobcat-xl_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/vans/main/bobcat-xl.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 2,
@@ -18035,7 +18035,7 @@ module.exports = {
     "woodlander": {
       "nombre": "Karin Woodlander",
       "url": "/vehicles/grand-theft-auto-v/woodlander",
-      "imagen": "/igallery/gta5-database/resized/woodlander-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/woodlander-360.jpg",
       "metadatos": {
         "agregado": "1.71 Money Fronts",
         "asientos": 4,
@@ -18060,7 +18060,7 @@ module.exports = {
     "everon_rs": {
       "nombre": "Karin Everon RS",
       "url": "/vehicles/grand-theft-auto-v/everon-rs",
-      "imagen": "/igallery/gta5-database/resized/everon-rs-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/everon-rs-360.jpg",
       "metadatos": {
         "agregado": "1.71 Money Fronts",
         "asientos": 2,
@@ -18083,7 +18083,7 @@ module.exports = {
     "castigator": {
       "nombre": "Canis Castigator",
       "url": "/grand-theft-auto-v/vehicles/castigator",
-      "imagen": "/igallery/gta5-database/resized/castigator-360_320x180.jpg",
+      "imagen": "/igallery/gta5-database/castigator-360.jpg",
       "metadatos": {
         "agregado": "1.69 Bottom Dollar Bounties",
         "asientos": 4,
@@ -18106,7 +18106,7 @@ module.exports = {
     "baller_st_d": {
       "nombre": "Gallivanter Baller ST-D",
       "url": "/grand-theft-auto-v/vehicles/baller-st-d",
-      "imagen": "/images/gta-5/vehicles/suvs/resized/baller-st-d_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/baller-st-d.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 4,
@@ -18131,7 +18131,7 @@ module.exports = {
     "cavalcade_xl": {
       "nombre": "Albany Cavalcade XL",
       "url": "/grand-theft-auto-v/vehicles/cavalcade-xl",
-      "imagen": "/images/gta-5/vehicles/suvs/resized/cavalcade-xl_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/cavalcade-xl.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 4,
@@ -18154,7 +18154,7 @@ module.exports = {
     "dorado_suv": {
       "nombre": "Bravado Dorado",
       "url": "/grand-theft-auto-v/vehicles/dorado",
-      "imagen": "/images/gta-5/vehicles/suvs/resized/dorado_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/dorado.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 4,
@@ -18177,7 +18177,7 @@ module.exports = {
     "vivanite_suv": {
       "nombre": "Karin Vivanite",
       "url": "/grand-theft-auto-v/vehicles/vivanite",
-      "imagen": "/images/gta-5/vehicles/suvs/resized/vivanite_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/vivanite.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 4,
@@ -18202,7 +18202,7 @@ module.exports = {
     "aleutian": {
       "nombre": "Vapid Aleutian",
       "url": "/grand-theft-auto-v/vehicles/aleutian",
-      "imagen": "/images/gta-5/vehicles/suvs/resized/aleutian_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/aleutian.jpg",
       "metadatos": {
         "agregado": "1.68 The Chop Shop",
         "asientos": 4,
@@ -18227,7 +18227,7 @@ module.exports = {
     "issi_rally": {
       "nombre": "Weeny Issi Rally",
       "url": "/grand-theft-auto-v/vehicles/issi-rally",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/issi-rally_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/issi-rally.jpg",
       "metadatos": {
         "agregado": "1.64 Guerra de Drogas en Los Santos",
         "asientos": 4,
@@ -18252,7 +18252,7 @@ module.exports = {
     "astron_custom": {
       "nombre": "Pfister Astron Custom",
       "url": "/grand-theft-auto-v/vehicles/astron-custom",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/astron-custom_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/astron-custom.jpg",
       "metadatos": {
         "agregado": "1.59 PS5 & Xbox Series X|S Release",
         "asientos": 4,
@@ -18277,7 +18277,7 @@ module.exports = {
     "granger_3600lx": {
       "nombre": "Declasse Granger 3600LX",
       "url": "/grand-theft-auto-v/vehicles/granger-3600lx",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/granger-3600lx_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/granger-3600lx.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 8,
@@ -18302,7 +18302,7 @@ module.exports = {
     "i_wagen": {
       "nombre": "Obey I-Wagen",
       "url": "/grand-theft-auto-v/vehicles/i-wagen",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/i-wagen_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/i-wagen.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 4,
@@ -18325,7 +18325,7 @@ module.exports = {
     "baller_st": {
       "nombre": "Gallivanter Baller ST",
       "url": "/grand-theft-auto-v/vehicles/baller-st",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/baller-st_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/baller-st.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 4,
@@ -18348,7 +18348,7 @@ module.exports = {
     "astron": {
       "nombre": "Pfister Astron",
       "url": "/grand-theft-auto-v/vehicles/astron",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/astron_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/astron.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 4,
@@ -18371,7 +18371,7 @@ module.exports = {
     "jubilee": {
       "nombre": "Enus Jubilee",
       "url": "/grand-theft-auto-v/vehicles/jubilee",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/jubilee_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/jubilee.jpg",
       "metadatos": {
         "agregado": "1.58 The Contract",
         "asientos": 4,
@@ -18396,7 +18396,7 @@ module.exports = {
     "squaddie": {
       "nombre": "Mammoth Squaddie",
       "url": "/grand-theft-auto-v/vehicles/squaddie",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/squaddie_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/squaddie.jpg",
       "metadatos": {
         "agregado": "1.52 Golpe a Cayo Perico",
         "asientos": 4,
@@ -18419,7 +18419,7 @@ module.exports = {
     "seminole_frontier": {
       "nombre": "Canis Seminole Frontier",
       "url": "/grand-theft-auto-v/vehicles/seminole-frontier",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/seminole-frontier_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/seminole-frontier.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 4,
@@ -18442,7 +18442,7 @@ module.exports = {
     "landstalker_xl": {
       "nombre": "Dundreary Landstalker XL",
       "url": "/grand-theft-auto-v/vehicles/landstalker-xl",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/landstalker-xl_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/landstalker-xl.jpg",
       "metadatos": {
         "agregado": "1.51 LS Summer Special",
         "asientos": 4,
@@ -18465,7 +18465,7 @@ module.exports = {
     "rebla_gts": {
       "nombre": "Übermacht Rebla GTS",
       "url": "/grand-theft-auto-v/vehicles/rebla-gts",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/rebla-gts_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/rebla-gts.jpg",
       "metadatos": {
         "agregado": "1.49 Golpe al Casino The Diamond",
         "asientos": 4,
@@ -18488,7 +18488,7 @@ module.exports = {
     "novak": {
       "nombre": "Lampadati Novak",
       "url": "/grand-theft-auto-v/vehicles/novak",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/novak_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/novak.jpg",
       "metadatos": {
         "agregado": "1.47 Diamond Casino & Resort",
         "asientos": 4,
@@ -18511,7 +18511,7 @@ module.exports = {
     "toros": {
       "nombre": "Pegassi Toros",
       "url": "/grand-theft-auto-v/vehicles/toros",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/toros_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/toros.jpg",
       "metadatos": {
         "agregado": "1.46 Arena War",
         "asientos": 4,
@@ -18534,7 +18534,7 @@ module.exports = {
     "patriot_stretch": {
       "nombre": "Mammoth Patriot Stretch",
       "url": "/grand-theft-auto-v/vehicles/patriot-stretch",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/patriot-stretch_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/patriot-stretch.jpg",
       "metadatos": {
         "agregado": "1.44 After Hours",
         "asientos": 6,
@@ -18557,7 +18557,7 @@ module.exports = {
     "contender": {
       "nombre": "Vapid Contender",
       "url": "/grand-theft-auto-v/vehicles/vapid-contender",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/contender_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/contender.jpg",
       "metadatos": {
         "agregado": "1.35 Cunning Stunts",
         "asientos": 4,
@@ -18580,7 +18580,7 @@ module.exports = {
     "xls_armored": {
       "nombre": "Benefactor XLS (Armored)",
       "url": "/grand-theft-auto-v/vehicles/benefactor-xls-armored",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/xls-armored_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/xls-armored.jpg",
       "metadatos": {
         "agregado": "1.34 Further Adventures in Finance and Felony",
         "asientos": 4,
@@ -18603,7 +18603,7 @@ module.exports = {
     "xls": {
       "nombre": "Benefactor XLS",
       "url": "/grand-theft-auto-v/vehicles/benefactor-xls",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/xls_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/xls.jpg",
       "metadatos": {
         "agregado": "1.34 Further Adventures in Finance and Felony",
         "asientos": 4,
@@ -18626,7 +18626,7 @@ module.exports = {
     "baller_le_lwb": {
       "nombre": "Gallivanter Baller LE LWB",
       "url": "/grand-theft-auto-v/vehicles/gallivanter-baller-le-lwb",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/baller-le-lwb_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/baller-le-lwb.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -18649,7 +18649,7 @@ module.exports = {
     "baller_le_lwb_armored": {
       "nombre": "Gallivanter Baller LE LWB (Armored)",
       "url": "/grand-theft-auto-v/vehicles/gallivanter-baller-le-lwb-armored",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/baller-le-lwb-armored_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/baller-le-lwb-armored.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -18672,7 +18672,7 @@ module.exports = {
     "baller_le_armored": {
       "nombre": "Gallivanter Baller LE (Armored)",
       "url": "/grand-theft-auto-v/vehicles/gallivanter-baller-le-armored",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/baller-le-armored_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/baller-le-armored.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -18695,7 +18695,7 @@ module.exports = {
     "baller_le": {
       "nombre": "Gallivanter Baller LE",
       "url": "/grand-theft-auto-v/vehicles/gallivanter-baller-le",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/baller-le_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/baller-le.jpg",
       "metadatos": {
         "agregado": "1.31 Executives and Other Criminals",
         "asientos": 4,
@@ -18718,7 +18718,7 @@ module.exports = {
     "dubsta_6x6": {
       "nombre": "Benefactor Dubsta 6x6",
       "url": "/grand-theft-auto-v/vehicles/benefactor-dubsta-6x6",
-      "imagen": "/images/gta-5/vehicles/off-road/main/resized/dubsta-6x6_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/off-road/main/dubsta-6x6.jpg",
       "metadatos": {
         "agregado": "1.14 I'm Not a Hipster",
         "asientos": 6,
@@ -18741,7 +18741,7 @@ module.exports = {
     "huntley_s": {
       "nombre": "Enus Huntley S",
       "url": "/grand-theft-auto-v/vehicles/enus-huntley-s",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/huntley-s_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/huntley-s.jpg",
       "metadatos": {
         "agregado": "1.13 High Life",
         "asientos": 4,
@@ -18764,7 +18764,7 @@ module.exports = {
     "park_ranger": {
       "nombre": "Declasse Park Ranger",
       "url": "/grand-theft-auto-v/vehicles/declasse-park-ranger",
-      "imagen": "/images/gta-5/vehicles/emergency/main/resized/park-ranger_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/emergency/main/park-ranger.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 8,
@@ -18787,7 +18787,7 @@ module.exports = {
     "mesa": {
       "nombre": "Canis Mesa",
       "url": "/grand-theft-auto-v/vehicles/canis-mesa",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/mesa_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/mesa.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -18810,7 +18810,7 @@ module.exports = {
     "dubsta_2": {
       "nombre": "Benefactor Dubsta 2",
       "url": "/grand-theft-auto-v/vehicles/benefactor-dubsta-2",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/dubsta-2_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/dubsta-2.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -18833,7 +18833,7 @@ module.exports = {
     "serrano": {
       "nombre": "Benefactor Serrano",
       "url": "/grand-theft-auto-v/vehicles/benefactor-serrano",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/serrano_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/serrano.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -18856,7 +18856,7 @@ module.exports = {
     "seminole": {
       "nombre": "Canis Seminole",
       "url": "/grand-theft-auto-v/vehicles/canis-seminole",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/seminole_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/seminole.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -18879,7 +18879,7 @@ module.exports = {
     "rocoto": {
       "nombre": "Obey Rocoto",
       "url": "/grand-theft-auto-v/vehicles/obey-rocoto",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/rocoto_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/rocoto.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -18902,7 +18902,7 @@ module.exports = {
     "radius": {
       "nombre": "Vapid Radius",
       "url": "/grand-theft-auto-v/vehicles/vapid-radius",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/radius_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/radius.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -18925,7 +18925,7 @@ module.exports = {
     "patriot_suv": {
       "nombre": "Mammoth Patriot",
       "url": "/grand-theft-auto-v/vehicles/mammoth-patriot",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/patriot_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/patriot.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -18948,7 +18948,7 @@ module.exports = {
     "landstalker": {
       "nombre": "Dundreary Landstalker",
       "url": "/grand-theft-auto-v/vehicles/dundreary-landstalker",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/landstalker_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/landstalker.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -18971,7 +18971,7 @@ module.exports = {
     "habanero": {
       "nombre": "Emperor Habanero",
       "url": "/grand-theft-auto-v/vehicles/emperor-habanero",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/habanero_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/habanero.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -18994,7 +18994,7 @@ module.exports = {
     "gresley": {
       "nombre": "Bravado Gresley",
       "url": "/grand-theft-auto-v/vehicles/bravado-gresley",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/gresley_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/gresley.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -19017,7 +19017,7 @@ module.exports = {
     "granger": {
       "nombre": "Declasse Granger",
       "url": "/grand-theft-auto-v/vehicles/declasse-granger",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/granger_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/granger.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 8,
@@ -19040,7 +19040,7 @@ module.exports = {
     "fq_2": {
       "nombre": "Fathom FQ 2",
       "url": "/grand-theft-auto-v/vehicles/fathom-fq-2",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/fq-2_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/fq-2.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -19063,7 +19063,7 @@ module.exports = {
     "dubsta": {
       "nombre": "Benefactor Dubsta",
       "url": "/grand-theft-auto-v/vehicles/benefactor-dubsta",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/dubsta_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/dubsta.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -19086,7 +19086,7 @@ module.exports = {
     "cavalcade_ii": {
       "nombre": "Albany Cavalcade II",
       "url": "/grand-theft-auto-v/vehicles/albany-cavalcade-ii",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/cavalcade-2_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/cavalcade-2.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -19109,7 +19109,7 @@ module.exports = {
     "cavalcade": {
       "nombre": "Albany Cavalcade",
       "url": "/grand-theft-auto-v/vehicles/albany-cavalcade",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/cavalcade_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/cavalcade.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -19132,7 +19132,7 @@ module.exports = {
     "beejay_xl": {
       "nombre": "Karin BeeJay XL",
       "url": "/grand-theft-auto-v/vehicles/karin-beejay-xl",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/beejay-xl_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/beejay-xl.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -19155,7 +19155,7 @@ module.exports = {
     "baller_ii": {
       "nombre": "Gallivanter Baller II",
       "url": "/grand-theft-auto-v/vehicles/gallivanter-baller-ii",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/baller-2_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/baller-2.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -19178,7 +19178,7 @@ module.exports = {
     "baller_suv": {
       "nombre": "Gallivanter Baller",
       "url": "/grand-theft-auto-v/vehicles/gallivanter-baller",
-      "imagen": "/images/gta-5/vehicles/suvs/main/resized/baller_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/suvs/main/baller.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
@@ -19201,7 +19201,7 @@ module.exports = {
     "crusader": {
       "nombre": "Canis Crusader",
       "url": "/grand-theft-auto-v/vehicles/canis-crusader",
-      "imagen": "/images/gta-5/vehicles/military/main/resized/crusader_320x180.jpg",
+      "imagen": "/images/gta-5/vehicles/military/main/crusader.jpg",
       "metadatos": {
         "agregado": "1.01 Game Launch",
         "asientos": 4,
