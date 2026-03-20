@@ -1,22 +1,16 @@
 const express = require('express');
 const router = express.Router();
 
-// Importación de tu base de datos de vehículos
+// Importación de datos
 const vehiculosData = require('../data/vehiculos'); 
+const logos = require('../data/logos'); // Importamos de nuevo tu mapeo de links
 
 /**
  * GET /api/vehiculos/:model
- * Busca por ID, nombre exacto, coincidencia parcial o filtros especiales (imani, hao, drift).
  */
 router.get('/:model', (req, res) => {
     const modelParam = req.params.model.toLowerCase().trim();
     
-    // Configuración base para la URL absoluta
-    // Esto toma el protocolo (http/https) y el host (dominio:puerto) actual
-    const protocol = req.protocol;
-    const host = req.get('host');
-    const baseUrl = `${protocol}://${host}`;
-
     // 1. FILTRADO POR MEJORAS ESPECIALES (imani, hao, drift)
     const filtrosEspeciales = {
         'imani': 'imani-tech',
@@ -59,6 +53,7 @@ router.get('/:model', (req, res) => {
             const idLimpio = id.toLowerCase().replace(/[\s-]/g, '');
             const nombreLimpio = (auto.nombre || "").toLowerCase().replace(/[\s-]/g, '');
             
+            // Coincidencia Exacta
             if (idLimpio === modelSearch || nombreLimpio === modelSearch) {
                 mejorCoincidencia = auto;
                 mejorCoincidencia.idOriginal = id;
@@ -67,6 +62,7 @@ router.get('/:model', (req, res) => {
                 break; 
             }
 
+            // Coincidencia Parcial
             if (idLimpio.includes(modelSearch) || nombreLimpio.includes(modelSearch)) {
                 const puntaje = modelSearch.length / Math.max(idLimpio.length, nombreLimpio.length);
                 if (puntaje > maxPuntaje) {
@@ -84,24 +80,18 @@ router.get('/:model', (req, res) => {
         return res.status(404).json({ error: "Vehículo no encontrado" });
     }
 
-    // 3. GENERACIÓN DE URL ABSOLUTA PARA EL LOGO
+    // 3. OBTENCIÓN DEL LOGO DESDE EL OBJETO DE LINKS
     const v = mejorCoincidencia;
-    const fabricanteRaw = v.metadatos?.fabricante || "";
-    const fabricanteClean = fabricanteRaw.toLowerCase().replace(/[\s-]/g, '');
-    
-    // Generamos la URL completa del logo
-    let logoUrl = null;
-    if (fabricanteClean && fabricanteClean !== "na") {
-        logoUrl = `${baseUrl}/api/assets/${fabricanteClean}.png`;
-    }
+    const fabKey = (v.metadatos?.fabricante || "").toLowerCase().trim();
+    const logoUrl = logos[fabKey] || null; // Busca el link en tu archivo logos.js
 
-    // 4. RESPUESTA FINAL CON TODOS LOS DATOS ORIGINALES + CATEGORÍA + URL LOGO
+    // 4. RESPUESTA FINAL COMPLETA
     res.json({
         id_sistema: v.idOriginal,
         categoria: categoriaEncontrada,
-        logo_fabricante: logoUrl, // Ahora es una URL completa: http://tuapi.com/api/assets/progen.png
+        logo_fabricante: logoUrl, // Vuelve a ser el link directo (URL) de tu data/logos
         busqueda_info: maxPuntaje === 1 ? "Coincidencia exacta" : "Resultado aproximado",
-        ...v 
+        ...v // Esparce todo el contenido original del JSON
     });
 });
 
