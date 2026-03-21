@@ -1,26 +1,31 @@
 const express = require('express');
 const router = express.Router();
-const armasData = require('../data/armas'); // Tu archivo con todas las armas por categoría
+const armasData = require('../data/armas');
 
-router.get('/:nombre', (req, res) => {
-    const searchRaw = req.params.nombre.toLowerCase().trim();
-    // Limpiamos la búsqueda: quitamos espacios, guiones y puntos
+// Cambiamos a '/:nombre?' (el signo ? lo hace opcional)
+router.get('/:nombre?', (req, res) => {
+    const searchParam = req.params.nombre;
+
+    // --- CASO 1: NO HAY BÚSQUEDA ---
+    if (!searchParam) {
+        return res.json(armasData);
+    }
+
+    // --- CASO 2: HAY BÚSQUEDA (Tu lógica original) ---
+    const searchRaw = searchParam.toLowerCase().trim();
     const searchClean = searchRaw.replace(/[\s-.]/g, ''); 
 
     let mejorCoincidencia = null;
     let categoriaEncontrada = "";
     let maxPuntaje = 0;
 
-    // Recorremos las categorías del objeto
     for (const categoria in armasData) {
         for (const id in armasData[categoria]) {
             const arma = armasData[categoria][id];
-            
-            // Normalizamos el ID (la llave) y el Nombre para comparar
             const idLimpio = id.replace(/[\s-.]/g, '');
             const nombreLimpio = (arma.nombre || "").toLowerCase().replace(/[\s-.]/g, '');
 
-            // 1. Coincidencia exacta (Prioridad máxima)
+            // Coincidencia exacta
             if (idLimpio === searchClean || nombreLimpio === searchClean) {
                 mejorCoincidencia = { ...arma, idOriginal: id };
                 categoriaEncontrada = categoria;
@@ -28,7 +33,7 @@ router.get('/:nombre', (req, res) => {
                 break; 
             }
 
-            // 2. Coincidencia parcial por aproximación
+            // Coincidencia parcial
             if (idLimpio.includes(searchClean) || searchClean.includes(idLimpio)) {
                 const puntaje = searchClean.length / idLimpio.length;
                 if (puntaje > maxPuntaje) {
@@ -38,7 +43,7 @@ router.get('/:nombre', (req, res) => {
                 }
             }
         }
-        if (maxPuntaje === 1) break; // Si ya encontramos el exacto, paramos
+        if (maxPuntaje === 1) break;
     }
 
     if (!mejorCoincidencia) return res.status(404).json({ error: "Arma no encontrada" });
