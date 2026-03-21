@@ -2,8 +2,7 @@ const express = require('express');
 const router = express.Router();
 const armasData = require('../data/armas');
 
-// --- 1. RUTA PARA LISTAR CATEGORÍAS (DEBE IR PRIMERO) ---
-// Si alguien entra a /categorias, entrará aquí y NO en la búsqueda de arma
+// 1. RUTA PARA LISTAR CATEGORÍAS DISPONIBLES
 router.get('/categorias', (req, res) => {
     const listaCategorias = Object.keys(armasData);
     res.json({
@@ -12,19 +11,34 @@ router.get('/categorias', (req, res) => {
     });
 });
 
-// --- 2. LÓGICA COMPARTIDA PARA BUSCAR O LISTAR TODO ---
+// 2. LÓGICA DE BÚSQUEDA (Individual, Categoría o Todo)
 const obtenerArmas = (req, res) => {
     const searchParam = req.params.nombre;
 
-    // CASO: Si no hay parámetro, devuelve el JSON completo
+    // CASO A: No hay búsqueda -> Devolver todo
     if (!searchParam) {
         return res.json(armasData);
     }
 
-    // LÓGICA DE BÚSQUEDA (Tu código original de filtrado)
     const searchRaw = searchParam.toLowerCase().trim();
-    const searchClean = searchRaw.replace(/[\s-.]/g, ''); 
+    const searchClean = searchRaw.replace(/[\s-.]/g, '');
 
+    // --- NUEVO --- 
+    // CASO B: ¿La búsqueda es una CATEGORÍA? (ej: "pistolas")
+    // Buscamos si existe la categoría ignorando mayúsculas y espacios
+    const categoriaKey = Object.keys(armasData).find(cat => 
+        cat.toLowerCase().replace(/[\s-.]/g, '') === searchClean
+    );
+
+    if (categoriaKey) {
+        return res.json({
+            tipo: "categoria",
+            nombre: categoriaKey,
+            armas: armasData[categoriaKey]
+        });
+    }
+
+    // CASO C: La búsqueda es un ARMA (Tu lógica original)
     let mejorCoincidencia = null;
     let categoriaEncontrada = "";
     let maxPuntaje = 0;
@@ -39,7 +53,7 @@ const obtenerArmas = (req, res) => {
                 mejorCoincidencia = { ...arma, idOriginal: id };
                 categoriaEncontrada = categoria;
                 maxPuntaje = 1;
-                break; 
+                break;
             }
 
             if (idLimpio.includes(searchClean) || searchClean.includes(idLimpio)) {
@@ -54,10 +68,14 @@ const obtenerArmas = (req, res) => {
         if (maxPuntaje === 1) break;
     }
 
-    if (!mejorCoincidencia) return res.status(404).json({ error: "Arma no encontrada" });
+    if (!mejorCoincidencia) {
+        return res.status(404).json({ error: "No se encontró arma ni categoría con ese nombre" });
+    }
 
+    // Respuesta para arma individual
     const a = mejorCoincidencia;
     res.json({
+        tipo: "arma",
         nombre: a.nombre,
         categoria: categoriaEncontrada,
         precio: a.precioGTAOnline > 0 ? `$${a.precioGTAOnline.toLocaleString()}` : "Gratis / N/A",
@@ -74,8 +92,8 @@ const obtenerArmas = (req, res) => {
     });
 };
 
-// --- 3. DEFINICIÓN DE RUTAS RESTANTES ---
-router.get('/', obtenerArmas);        // Devuelve todo
-router.get('/:nombre', obtenerArmas); // Busca un arma específica
+// 3. RUTAS
+router.get('/', obtenerArmas);
+router.get('/:nombre', obtenerArmas);
 
 module.exports = router;
