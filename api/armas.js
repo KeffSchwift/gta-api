@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const armasData = require('../data/armas');
 
-// 1. RUTA PARA LISTAR CATEGORÍAS DISPONIBLES
+// 1. RUTA PARA LISTAR CATEGORÍAS
 router.get('/categorias', (req, res) => {
     const listaCategorias = Object.keys(armasData);
     res.json({
@@ -11,11 +11,11 @@ router.get('/categorias', (req, res) => {
     });
 });
 
-// 2. LÓGICA DE BÚSQUEDA (Individual, Categoría o Todo)
+// LÓGICA DE BÚSQUEDA
 const obtenerArmas = (req, res) => {
     const searchParam = req.params.nombre;
 
-    // CASO A: No hay búsqueda -> Devolver todo
+    // CASO A: No hay búsqueda -> Todo el JSON
     if (!searchParam) {
         return res.json(armasData);
     }
@@ -23,22 +23,42 @@ const obtenerArmas = (req, res) => {
     const searchRaw = searchParam.toLowerCase().trim();
     const searchClean = searchRaw.replace(/[\s-.]/g, '');
 
-    // --- NUEVO --- 
-    // CASO B: ¿La búsqueda es una CATEGORÍA? (ej: "pistolas")
-    // Buscamos si existe la categoría ignorando mayúsculas y espacios
+    // --- NUEVO: SOPORTE PARA NÚMEROS (ÍNDICE GLOBAL) ---
+    // Esto permite que BDFD navegue por todo el arsenal con un número
+    if (/^\d+$/.test(searchClean)) {
+        const indice = parseInt(searchClean);
+        let todasLasArmas = [];
+        
+        for (const cat in armasData) {
+            for (const id in armasData[cat]) {
+                todasLasArmas.push({ ...armasData[cat][id], idOriginal: id, categoriaPadre: cat });
+            }
+        }
+
+        const arma = todasLasArmas[indice];
+        if (!arma) return res.status(404).json({ error: "Índice fuera de rango" });
+
+        // Devolvemos el formato de arma individual
+        return res.json(formatearArma(arma, arma.categoriaPadre, arma.idOriginal, "Índice"));
+    }
+
+    // --- CASO B: BÚSQUEDA POR CATEGORÍA ---
     const categoriaKey = Object.keys(armasData).find(cat => 
         cat.toLowerCase().replace(/[\s-.]/g, '') === searchClean
     );
 
     if (categoriaKey) {
-        return res.json({
-            tipo: "categoria",
-            nombre: categoriaKey,
-            armas: armasData[categoriaKey]
-        });
+        // IMPORTANTE: Convertimos el OBJETO de armas en un ARRAY []
+        // Esto es lo que permite que BDFD use $httpResult[0.nombre]
+        const listaArmasCat = Object.keys(armasData[categoriaKey]).map(id => ({
+            ...armasData[categoriaKey][id],
+            idOriginal: id
+        }));
+
+        return res.json(listaArmasCat); 
     }
 
-    // CASO C: La búsqueda es un ARMA (Tu lógica original)
+    // --- CASO C: BÚSQUEDA POR NOMBRE (Tu lógica original) ---
     let mejorCoincidencia = null;
     let categoriaEncontrada = "";
     let maxPuntaje = 0;
@@ -69,30 +89,30 @@ const obtenerArmas = (req, res) => {
     }
 
     if (!mejorCoincidencia) {
-        return res.status(404).json({ error: "No se encontró arma ni categoría con ese nombre" });
+        return res.status(404).json({ error: "No encontrado" });
     }
 
-    // Respuesta para arma individual
-    const a = mejorCoincidencia;
-    res.json({
-        tipo: "arma",
-        nombre: a.nombre,
-        categoria: categoriaEncontrada,
-        precio: a.precioGTAOnline > 0 ? `$${a.precioGTAOnline.toLocaleString()}` : "Gratis / N/A",
-        desbloqueo: a.nivelDesbloqueo || 0,
-        imagen: a.imagen,
-        stats: {
-            general: a.estadisticas?.general || 0,
-            daño: a.estadisticas?.daño || 0,
-            cadencia: a.estadisticas?.cadencia || 0,
-            precision: a.estadisticas?.precision || 0,
-            alcance: a.estadisticas?.alcance || 0
-        },
-        metadatos: { id: a.idOriginal, busqueda: maxPuntaje < 1 ? "Aproximado" : "Exacto" }
-    });
+    res.json(formatearArma(mejorCoincidencia, categoriaEncontrada, mejorCoincidencia.idOriginal, maxPuntaje < 1 ? "Aproximado" : "Exacto"));
 };
 
-// 3. RUTAS
+// Función auxiliar para no repetir el formato de respuesta de un arma
+const formatearArma = (a, categoria, id, tipo) => ({
+    tipo: "arma",
+    nombre: a.nombre,
+    categoria: categoria,
+    precio: a.precioGTAOnline > 0 ? `$${a.precioGTAOnline.toLocaleString()}` : "Gratis / N/A",
+    desbloqueo: a.nivelDesbloqueo || 0,
+    imagen: a.imagen,
+    stats: {
+        general: a.estadisticas?.general || 0,
+        daño: a.estadisticas?.daño || 0,
+        cadencia: a.estadisticas?.cadencia || 0,
+        precision: a.estadisticas?.precision || 0,
+        alcance: a.estadisticas?.alcance || 0
+    },
+    metadatos: { id: id, busqueda: tipo }
+});
+
 router.get('/', obtenerArmas);
 router.get('/:nombre', obtenerArmas);
 
