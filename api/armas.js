@@ -1,31 +1,27 @@
 const express = require('express');
 const router = express.Router();
-const armasData = require('../data/armas'); // Tu archivo con todas las armas por categoría
+const armasData = require('../data/armas');
 
-// --- NUEVA RUTA: LISTAR CATEGORÍAS ---
-// URL: /categorias
+// --- 1. RUTA PARA LISTAR CATEGORÍAS (DEBE IR PRIMERO) ---
+// Si alguien entra a /categorias, entrará aquí y NO en la búsqueda de arma
 router.get('/categorias', (req, res) => {
-    // Obtenemos las llaves del objeto (Pistolas, Fusiles, etc.)
-    const categorias = Object.keys(armasData);
-    
+    const listaCategorias = Object.keys(armasData);
     res.json({
-        total: categorias.length,
-        categorias: categorias
+        total: listaCategorias.length,
+        categorias: listaCategorias
     });
 });
 
-// --- LÓGICA DE BÚSQUEDA Y LISTADO TOTAL ---
+// --- 2. LÓGICA COMPARTIDA PARA BUSCAR O LISTAR TODO ---
 const obtenerArmas = (req, res) => {
     const searchParam = req.params.nombre;
 
-    // CASO 1: NO HAY BÚSQUEDA (Devuelve todo el JSON)
-    // URL: /
+    // CASO: Si no hay parámetro, devuelve el JSON completo
     if (!searchParam) {
         return res.json(armasData);
     }
 
-    // CASO 2: HAY BÚSQUEDA (Lógica de filtrado)
-    // URL: /:nombre
+    // LÓGICA DE BÚSQUEDA (Tu código original de filtrado)
     const searchRaw = searchParam.toLowerCase().trim();
     const searchClean = searchRaw.replace(/[\s-.]/g, ''); 
 
@@ -36,11 +32,9 @@ const obtenerArmas = (req, res) => {
     for (const categoria in armasData) {
         for (const id in armasData[categoria]) {
             const arma = armasData[categoria][id];
-            
             const idLimpio = id.replace(/[\s-.]/g, '');
             const nombreLimpio = (arma.nombre || "").toLowerCase().replace(/[\s-.]/g, '');
 
-            // 1. Coincidencia exacta
             if (idLimpio === searchClean || nombreLimpio === searchClean) {
                 mejorCoincidencia = { ...arma, idOriginal: id };
                 categoriaEncontrada = categoria;
@@ -48,7 +42,6 @@ const obtenerArmas = (req, res) => {
                 break; 
             }
 
-            // 2. Coincidencia parcial
             if (idLimpio.includes(searchClean) || searchClean.includes(idLimpio)) {
                 const puntaje = searchClean.length / idLimpio.length;
                 if (puntaje > maxPuntaje) {
@@ -58,15 +51,12 @@ const obtenerArmas = (req, res) => {
                 }
             }
         }
-        if (maxPuntaje === 1) break; 
+        if (maxPuntaje === 1) break;
     }
 
-    if (!mejorCoincidencia) {
-        return res.status(404).json({ error: "Arma no encontrada" });
-    }
+    if (!mejorCoincidencia) return res.status(404).json({ error: "Arma no encontrada" });
 
     const a = mejorCoincidencia;
-
     res.json({
         nombre: a.nombre,
         categoria: categoriaEncontrada,
@@ -80,18 +70,12 @@ const obtenerArmas = (req, res) => {
             precision: a.estadisticas?.precision || 0,
             alcance: a.estadisticas?.alcance || 0
         },
-        metadatos: {
-            id: a.idOriginal,
-            busqueda: maxPuntaje < 1 ? "Aproximado" : "Exacto"
-        }
+        metadatos: { id: a.idOriginal, busqueda: maxPuntaje < 1 ? "Aproximado" : "Exacto" }
     });
 };
 
-// --- DEFINICIÓN DE RUTAS ---
-
-// IMPORTANTE: La ruta /categorias debe ir ANTES de /:nombre 
-// para que Express no confunda la palabra "categorias" con el nombre de un arma.
-router.get('/', obtenerArmas);
-router.get('/:nombre', obtenerArmas);
+// --- 3. DEFINICIÓN DE RUTAS RESTANTES ---
+router.get('/', obtenerArmas);        // Devuelve todo
+router.get('/:nombre', obtenerArmas); // Busca un arma específica
 
 module.exports = router;
