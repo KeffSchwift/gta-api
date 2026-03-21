@@ -23,42 +23,39 @@ const obtenerArmas = (req, res) => {
     const searchRaw = searchParam.toLowerCase().trim();
     const searchClean = searchRaw.replace(/[\s-.]/g, '');
 
-    // --- NUEVO: SOPORTE PARA NÚMEROS (ÍNDICE GLOBAL) ---
-    // Esto permite que BDFD navegue por todo el arsenal con un número
+    // --- CASO NÚMEROS (ÍNDICE GLOBAL) ---
     if (/^\d+$/.test(searchClean)) {
         const indice = parseInt(searchClean);
         let todasLasArmas = [];
-        
         for (const cat in armasData) {
             for (const id in armasData[cat]) {
                 todasLasArmas.push({ ...armasData[cat][id], idOriginal: id, categoriaPadre: cat });
             }
         }
-
         const arma = todasLasArmas[indice];
         if (!arma) return res.status(404).json({ error: "Índice fuera de rango" });
-
-        // Devolvemos el formato de arma individual
         return res.json(formatearArma(arma, arma.categoriaPadre, arma.idOriginal, "Índice"));
     }
 
-    // --- CASO B: BÚSQUEDA POR CATEGORÍA ---
+    // --- CASO B: BÚSQUEDA POR CATEGORÍA (CON CONTEO AL INICIO) ---
     const categoriaKey = Object.keys(armasData).find(cat => 
         cat.toLowerCase().replace(/[\s-.]/g, '') === searchClean
     );
 
     if (categoriaKey) {
-        // IMPORTANTE: Convertimos el OBJETO de armas en un ARRAY []
-        // Esto es lo que permite que BDFD use $httpResult[0.nombre]
-        const listaArmasCat = Object.keys(armasData[categoriaKey]).map(id => ({
-            ...armasData[categoriaKey][id],
-            idOriginal: id
-        }));
+        const armasDeCategoria = armasData[categoriaKey];
+        const total = Object.keys(armasDeCategoria).length;
 
-        return res.json(listaArmasCat); 
+        // Creamos un objeto nuevo para asegurar que 'total_armas' sea lo primero que aparezca
+        const respuesta = {
+            total_armas: total,
+            ...armasDeCategoria
+        };
+
+        return res.json(respuesta); 
     }
 
-    // --- CASO C: BÚSQUEDA POR NOMBRE (Tu lógica original) ---
+    // --- CASO C: BÚSQUEDA POR NOMBRE (Lógica original) ---
     let mejorCoincidencia = null;
     let categoriaEncontrada = "";
     let maxPuntaje = 0;
@@ -88,14 +85,11 @@ const obtenerArmas = (req, res) => {
         if (maxPuntaje === 1) break;
     }
 
-    if (!mejorCoincidencia) {
-        return res.status(404).json({ error: "No encontrado" });
-    }
+    if (!mejorCoincidencia) return res.status(404).json({ error: "No encontrado" });
 
     res.json(formatearArma(mejorCoincidencia, categoriaEncontrada, mejorCoincidencia.idOriginal, maxPuntaje < 1 ? "Aproximado" : "Exacto"));
 };
 
-// Función auxiliar para no repetir el formato de respuesta de un arma
 const formatearArma = (a, categoria, id, tipo) => ({
     tipo: "arma",
     nombre: a.nombre,
