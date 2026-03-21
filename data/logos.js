@@ -51,7 +51,7 @@ module.exports = {
   "stanley": "PGwX17yW/stanley.png",
   "toundra": "3yTpvypT/toundra.png",
   "truffade": "671xYjR0/truffade.png",
-  "ubermacht": "S7Nvg6N3/ubermacht.png",
+  "übermacht": "S7Nvg6N3/ubermacht.png",
   "vapid": "d0TXRGpg/vapid.png",
   "vomfeuer": "67zM2BYP/vomfeuer.png",
   "vulcar": "7xpNC8Cn/vulcar.png",
