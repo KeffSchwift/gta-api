@@ -13,40 +13,44 @@ const LIGAS_INFO = {
     "CL": { "nombre": "🇪🇺 UEFA Champions League", "hex": "#003399", "emblema": "https://crests.football-data.org/CL.png" }
 };
 
-let cache = {};
+const cache = {}; 
 const CACHE_DURATION = 5 * 60 * 1000;
 
-const generarTablaASCII = (ligaNombre, tabla) => {
-    const w = { pos: 2, equipo: 15, pts: 2, dg: 2 };
-    let ascii = `P. | EQUIPO          | PT | DG\n`;
-    ascii += `---|-----------------|---|---\n`;
+const generarTablaASCII = (tabla) => {
+    // Definimos anchos fijos estrictos
+    const w = { pos: 2, equipo: 15, pts: 2, dg: 3 };
+    
+    // Encabezado alineado con las filas
+    let ascii = `P.|EQUIPO         |PT|DG \n`;
+    ascii += `--|---------------|--|---\n`;
     
     tabla.forEach(e => {
         const pos = e.pos.toString().padStart(w.pos, '0');
         const nombre = (e.equipo || "S/N").substring(0, w.equipo).padEnd(w.equipo, ' ');
         const pts = (e.pts ?? 0).toString().padStart(w.pts, ' ');
+        // La diferencia de goles suele ser de 3 caracteres (ej: -10 o 100)
         const dg = (e.dg ?? 0).toString().padStart(w.dg, ' ');
-        ascii += `${pos} | ${nombre} | ${pts} | ${dg}\n`;
+        
+        ascii += `${pos}|${nombre}|${pts}|${dg}\n`;
     });
     return ascii;
 };
 
 router.get('/:league', async (req, res) => {
-    const code = req.params.league.toUpperCase();
+    const leagueCode = req.params.league.toUpperCase();
     const now = Date.now();
 
-    // Si la liga no está en nuestro JSON de info, podemos rechazar o usar valores por defecto
-    const infoExtra = LIGAS_INFO[code] || { nombre: code, hex: "#FFFFFF", emblema: "" };
+    const infoExtra = LIGAS_INFO[leagueCode] || { nombre: leagueCode, hex: "#FFFFFF", emblema: "" };
 
-    if (!cache[code] || (now - cache[code].lastUpdate > CACHE_DURATION)) {
+    if (!cache[leagueCode] || (now - cache[leagueCode].lastUpdate > CACHE_DURATION)) {
         try {
-            const response = await fetch(`http://api.football-data.org/v4/competitions/${code}/standings`, {
+            const response = await fetch(`http://api.football-data.org/v4/competitions/${leagueCode}/standings`, {
                 headers: { 'X-Auth-Token': '9fb4b27d0a23448d9a7cc91579b97696' }
             });
 
             if (!response.ok) throw new Error();
+
             const rawData = await response.json();
-            
             const standings = rawData.standings[0].table.map(item => ({
                 pos: item.position,
                 equipo: item.team.shortName || item.team.name,
@@ -54,21 +58,23 @@ router.get('/:league', async (req, res) => {
                 dg: item.goalDifference
             }));
 
-            cache[code] = {
-                tabla: generarTablaASCII(infoExtra.nombre, standings),
+            cache[leagueCode] = {
+                ascii: generarTablaASCII(standings),
                 lastUpdate: now
             };
-        } catch (e) {
-            if (!cache[code]) return res.status(404).json({ error: "Liga no soportada" });
+
+        } catch (error) {
+            if (!cache[leagueCode]) {
+                return res.status(404).json({ error: `Liga '${leagueCode}' no encontrada.` });
+            }
         }
     }
 
-    // Respuesta final combinada en JSON
     res.json({
         nombre: infoExtra.nombre,
         hex: infoExtra.hex,
         emblema: infoExtra.emblema,
-        tabla: cache[code].tabla
+        tabla_ascii: cache[leagueCode].ascii
     });
 });
 
