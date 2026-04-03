@@ -7,9 +7,8 @@ const CACHE_DURATION = 5 * 60 * 1000; // 5 minutos
 
 const generarTablaASCII = (ligaNombre, tabla) => {
     const w = { pos: 2, equipo: 15, pts: 2, dg: 2 };
-    let ascii = `---- ${ligaNombre.toUpperCase()} ----\n`;
-    ascii += `P. | EQUIPO         | PT | DG\n`;
-    ascii += `--|----------------|----|----\n`;
+    let ascii = `P. | EQUIPO          | PT | DG\n`;
+    ascii += `---|-----------------|----|----\n`;
     
     tabla.forEach(e => {
         const pos = e.pos.toString().padStart(w.pos, '0');
