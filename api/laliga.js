@@ -6,27 +6,27 @@ let lastUpdate = 0;
 const CACHE_DURATION = 5 * 60 * 1000;
 
 const generarTablaASCII = (tabla) => {
-    // Definimos los anchos de columna
-    const w = { pos: 3, equipo: 18, pts: 3, dg: 3 };
+    // Definimos anchos mínimos para mantener todo pegado
+    const w = { pos: 2, equipo: 15, pts: 2, dg: 2 };
     
-    // Encabezado con separadores rectos para mayor limpieza
-    let ascii = ` #  | ${"EQUIPO".padEnd(w.equipo)} | PTS | DG \n`;
-    ascii += `----|${"-".repeat(w.equipo + 2)}|-----|----\n`;
+    // Encabezado ultra-compacto
+    let ascii = `P.|EQUIPO         |PT|DG\n`;
+    ascii += `--|---------------|--|--\n`;
     
     tabla.forEach(e => {
-        const pos = e.pos.toString().padStart(2, ' ').padEnd(w.pos, ' ');
-        // Cortamos el nombre si es muy largo para que no rompa la línea
+        // padStart/padEnd con los valores exactos para evitar huecos
+        const pos = e.pos.toString().padStart(w.pos, '0');
         const nombre = e.equipo.substring(0, w.equipo).padEnd(w.equipo, ' ');
-        const pts = e.pts.toString().padStart(3, ' ');
-        const dg = e.dg.toString().padStart(3, ' ');
+        const pts = e.pts.toString().padStart(w.pts, ' ');
+        const dg = e.dg.toString().padStart(w.dg, ' ');
         
-        ascii += `${pos} | ${nombre} | ${pts} | ${dg}\n`;
+        ascii += `${pos}|${nombre}|${pts}|${dg}\n`;
     });
     
     return ascii;
 };
 
-router.get('/', async (req, res) => {
+router.get('/posiciones', async (req, res) => {
     const now = Date.now();
 
     if (!cacheData || (now - lastUpdate > CACHE_DURATION)) {
@@ -35,27 +35,25 @@ router.get('/', async (req, res) => {
                 headers: { 'X-Auth-Token': '9fb4b27d0a23448d9a7cc91579b97696' }
             });
 
+            if (!response.ok) throw new Error();
+
             const rawData = await response.json();
-            const tablaAbreviada = rawData.standings[0].table.map(item => ({
+            const datosCucinados = rawData.standings[0].table.map(item => ({
                 pos: item.position,
                 equipo: item.team.shortName,
                 pts: item.points,
                 dg: item.goalDifference
             }));
 
-            // Guardamos solo el string de la tabla
-            cacheData = generarTablaASCII(tablaAbreviada);
+            cacheData = generarTablaASCII(datosCucinados);
             lastUpdate = now;
-
-        } catch (error) {
-            if (!cacheData) return res.status(500).send("Error al obtener datos.");
+        } catch (e) {
+            if (!cacheData) return res.status(500).send("Error");
         }
     }
 
-    // Enviamos la respuesta como TEXTO PLANO para que se vea directo la tabla
     res.set('Content-Type', 'text/plain; charset=utf-8');
     res.send(cacheData);
 });
 
 module.exports = router;
- 
