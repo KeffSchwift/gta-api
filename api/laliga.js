@@ -21,7 +21,7 @@ const generarTablaASCII = (ligaNombre, tabla) => {
 };
 
 // Endpoint: /gta/posiciones/:league (ej: /gta/posiciones/PD, /gta/posiciones/CL, /gta/posiciones/BSA)
-router.get('/posiciones/:league', async (req, res) => {
+router.get('/:league', async (req, res) => {
     const leagueCode = req.params.league.toUpperCase();
     const now = Date.now();
 
