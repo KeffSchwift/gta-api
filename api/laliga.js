@@ -1,14 +1,25 @@
 const express = require('express');
 const router = express.Router();
 
-// Objeto de caché multidimensional (una entrada por cada liga solicitada)
-const cache = {}; 
-const CACHE_DURATION = 5 * 60 * 1000; // 5 minutos
+const LIGAS_INFO = {
+    "PD": { "nombre": "🇪🇸 LaLiga", "hex": "#EE252E", "emblema": "https://crests.football-data.org/laliga.png" },
+    "PL": { "nombre": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League", "hex": "#3D195B", "emblema": "https://crests.football-data.org/PL.png" },
+    "BL1": { "nombre": "🇩🇪 Bundesliga", "hex": "#D3010C", "emblema": "https://crests.football-data.org/BL1.png" },
+    "SA": { "nombre": "🇮🇹 Serie A", "hex": "#008FD7", "emblema": "https://crests.football-data.org/c111.png" },
+    "FL1": { "nombre": "🇫🇷 Ligue 1", "hex": "#DAE025", "emblema": "https://crests.football-data.org/FL1.png" },
+    "DED": { "nombre": "🇳🇱 Eredivisie", "hex": "#F5941C", "emblema": "https://crests.football-data.org/ED.png" },
+    "PPL": { "nombre": "🇵🇹 Primeira Liga", "hex": "#EDBB3F", "emblema": "https://crests.football-data.org/PPL.png" },
+    "BSA": { "nombre": "🇧🇷 Série A", "hex": "#009540", "emblema": "https://crests.football-data.org/bsa.png" },
+    "CL": { "nombre": "🇪🇺 UEFA Champions League", "hex": "#003399", "emblema": "https://crests.football-data.org/CL.png" }
+};
+
+let cache = {};
+const CACHE_DURATION = 5 * 60 * 1000;
 
 const generarTablaASCII = (ligaNombre, tabla) => {
     const w = { pos: 2, equipo: 15, pts: 2, dg: 2 };
     let ascii = `P. | EQUIPO          | PT | DG\n`;
-    ascii += `---|-----------------|----|----\n`;
+    ascii += `---|-----------------|---|---\n`;
     
     tabla.forEach(e => {
         const pos = e.pos.toString().padStart(w.pos, '0');
@@ -20,25 +31,22 @@ const generarTablaASCII = (ligaNombre, tabla) => {
     return ascii;
 };
 
-// Endpoint: /gta/posiciones/:league (ej: /gta/posiciones/PD, /gta/posiciones/CL, /gta/posiciones/BSA)
 router.get('/:league', async (req, res) => {
-    const leagueCode = req.params.league.toUpperCase();
+    const code = req.params.league.toUpperCase();
     const now = Date.now();
 
-    // Verificamos si existe caché para esta liga específica y si sigue vigente
-    if (!cache[leagueCode] || (now - cache[leagueCode].lastUpdate > CACHE_DURATION)) {
+    // Si la liga no está en nuestro JSON de info, podemos rechazar o usar valores por defecto
+    const infoExtra = LIGAS_INFO[code] || { nombre: code, hex: "#FFFFFF", emblema: "" };
+
+    if (!cache[code] || (now - cache[code].lastUpdate > CACHE_DURATION)) {
         try {
-            console.log(`[LOG] Actualizando datos para: ${leagueCode}`);
-            
-            const response = await fetch(`http://api.football-data.org/v4/competitions/${leagueCode}/standings`, {
+            const response = await fetch(`http://api.football-data.org/v4/competitions/${code}/standings`, {
                 headers: { 'X-Auth-Token': '9fb4b27d0a23448d9a7cc91579b97696' }
             });
 
-            if (!response.ok) throw new Error('No se pudo obtener la liga');
-
+            if (!response.ok) throw new Error();
             const rawData = await response.json();
             
-            // Extraemos los datos de la tabla (standings[0] suele ser la tabla general)
             const standings = rawData.standings[0].table.map(item => ({
                 pos: item.position,
                 equipo: item.team.shortName || item.team.name,
@@ -46,22 +54,22 @@ router.get('/:league', async (req, res) => {
                 dg: item.goalDifference
             }));
 
-            // Guardamos en caché usando el código de la liga como clave única
-            cache[leagueCode] = {
-                data: generarTablaASCII(rawData.competition.name, standings),
+            cache[code] = {
+                tabla: generarTablaASCII(infoExtra.nombre, standings),
                 lastUpdate: now
             };
-
-        } catch (error) {
-            // Si la API falla pero tenemos datos viejos en caché, los enviamos. Si no, error.
-            if (!cache[leagueCode]) {
-                return res.status(404).send(`Error: El codigo '${leagueCode}' no es una liga valida o no esta disponible.`);
-            }
+        } catch (e) {
+            if (!cache[code]) return res.status(404).json({ error: "Liga no soportada" });
         }
     }
 
-    res.set('Content-Type', 'text/plain; charset=utf-8');
-    res.send(cache[leagueCode].data);
+    // Respuesta final combinada en JSON
+    res.json({
+        nombre: infoExtra.nombre,
+        hex: infoExtra.hex,
+        emblema: infoExtra.emblema,
+        tabla: cache[code].tabla
+    });
 });
 
 module.exports = router;
