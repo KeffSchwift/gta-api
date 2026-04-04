@@ -43,7 +43,7 @@ const mapVehicleData = (cat, id, data) => {
 /**
  * 1. CONCESIONARIOS (Premium 5 autos / Lujo 2 autos)
  */
-router.get('/concesionarios/diario', (req, res) => {
+router.get('/shop', (req, res) => {
     const seed = getDaySeed();
     let poolNormal = [];
     let poolLujo = [];
@@ -85,7 +85,7 @@ router.get('/misiones/exportacion', (req, res) => {
 /**
  * 3. ROBO DE CALLE (Verifica si es exportación)
  */
-router.get('/misiones/robo-calle', (req, res) => {
+router.get('/robar', (req, res) => {
     const categoriasCalle = ['sedans', 'compacts', 'coupes', 'suvs', 'muscles', 'sports'];
     let poolCalle = [];
     for (const cat of categoriasCalle) {
