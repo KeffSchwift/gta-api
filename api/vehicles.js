@@ -28,7 +28,7 @@ const mapVehicleData = (cat, id, data) => {
     const fabKey = (data.metadatos?.fabricante || "").toLowerCase().trim();
     return {
         id: id,
-        categoria: cat,
+        categoria: cat.toUpperCase(),
         logo_fabricante: logos[fabKey] || null,
         nombre: data.nombre,
         imagen: data.imagen,
@@ -41,14 +41,19 @@ const mapVehicleData = (cat, id, data) => {
 // --- ENDPOINTS ---
 
 /**
- * 1. CONCESIONARIOS (Premium 5 autos / Lujo 2 autos)
+ * 1. CONCESIONARIOS (Solo Terrestres: Premium 5 / Lujo 2)
  */
 router.get('/shop', (req, res) => {
     const seed = getDaySeed();
     let poolNormal = [];
     let poolLujo = [];
 
+    // Filtro para asegurar que solo aparezcan vehículos de tierra
+    const catsExcluidas = ['planes', 'helicopters', 'boats', 'submarines'];
+
     for (const cat in vehiculosData) {
+        if (catsExcluidas.includes(cat.toLowerCase())) continue;
+
         for (const id in vehiculosData[cat]) {
             const v = mapVehicleData(cat, id, vehiculosData[cat][id]);
             if (cat.toLowerCase() === 'super') {
@@ -62,14 +67,14 @@ router.get('/shop', (req, res) => {
     res.json({
         fecha: new Date().toISOString().split('T')[0],
         concesionario_premium: seededShuffle([...poolNormal], seed).slice(0, 5),
-        concesionario_lujo: seededShuffle([...poolLujo], seed + 1).slice(0, 2) // Solo 2 de lujo
+        concesionario_lujo: seededShuffle([...poolLujo], seed + 1).slice(0, 2)
     });
 });
 
 /**
  * 2. EXPORTACIONES (8 vehículos diarios)
  */
-router.get('/misiones/exportacion', (req, res) => {
+router.get('/exportar', (req, res) => {
     const seed = getDaySeed() + 99;
     let totalPool = [];
     for (const cat in vehiculosData) {
@@ -95,8 +100,12 @@ router.get('/robar', (req, res) => {
             }
         }
     }
+    
+    if (poolCalle.length === 0) return res.status(500).json({ error: "No hay vehículos en el pool de calle" });
+
     const autoEncontrado = poolCalle[Math.floor(Math.random() * poolCalle.length)];
 
+    // Lógica de exportación para verificar el objetivo
     const seedExport = getDaySeed() + 99;
     let exportPool = [];
     for (const cat in vehiculosData) {
@@ -115,7 +124,33 @@ router.get('/robar', (req, res) => {
 });
 
 /**
- * 4. BUSCADOR POR CATEGORÍA (4 autos - Versión Simplificada)
+ * 4. BUSCADOR GLOBAL (Busca por nombre o ID en toda la DB)
+ */
+router.get('/buscar', (req, res) => {
+    const query = req.query.q ? req.query.q.toLowerCase().trim() : '';
+    if (!query) return res.status(400).json({ error: "Falta el parámetro de búsqueda (?q=...)" });
+
+    let resultados = [];
+
+    for (const cat in vehiculosData) {
+        for (const id in vehiculosData[cat]) {
+            const v = vehiculosData[cat][id];
+            // Match por nombre o por ID exacto
+            if (v.nombre.toLowerCase().includes(query) || id.toLowerCase() === query) {
+                resultados.push(mapVehicleData(cat, id, v));
+            }
+        }
+    }
+
+    res.json({
+        termino: query,
+        cantidad: resultados.length,
+        resultados: resultados
+    });
+});
+
+/**
+ * 5. BUSCADOR POR CATEGORÍA
  */
 router.get('/categoria/:catName', (req, res) => {
     const catParam = req.params.catName.toLowerCase().trim();
@@ -123,14 +158,10 @@ router.get('/categoria/:catName', (req, res) => {
 
     let pool = [];
     for (const id in vehiculosData[catParam]) {
-        const v = vehiculosData[catParam][id];
-        pool.push({
-            nombre: v.nombre,
-            rendimiento: v.rendimiento?.estadisticas?.general || 0
-        });
+        pool.push(mapVehicleData(catParam, id, vehiculosData[catParam][id]));
     }
 
-    // 4 aleatorios simplificados
+    // 4 aleatorios
     const seleccion = pool.sort(() => 0.5 - Math.random()).slice(0, 4);
 
     res.json({
@@ -140,4 +171,3 @@ router.get('/categoria/:catName', (req, res) => {
 });
 
 module.exports = router;
-
