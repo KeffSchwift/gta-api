@@ -6,6 +6,7 @@ app.use('/auto', require('./api/autos'));
 app.use('/arma', require('./api/armas')); 
 app.use('/gta', require('./api/gta')); 
 app.use('/liga', require('./api/laliga'));
+app.use('/game', require('./api/vehicles'));
 
 
 app.listen(3000, () => {
