@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 app.use(express.json());
 
-app.use('/arma', require('./api/armas')); 
+app.use('/c4', require('./api/armas')); 
 app.use('/gta', require('./api/gta')); 
 app.use('/liga', require('./api/laliga'));
 app.use('/game', require('./api/vehicles'));
