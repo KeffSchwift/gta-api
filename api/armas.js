@@ -1,80 +1,90 @@
 const express = require('express');
 const router = express.Router();
-const armasData = require('../data/armas');
 
-// 1. RUTA PARA CATEGORÍAS
-router.get('/categorias', (req, res) => {
+// Almacenamos los juegos usando el ID del usuario como clave
+const juegos = new Map();
+
+const FILAS = 6;
+const COLUMNAS = 7;
+const VACIO = '⬛';
+const JUGADOR_1 = '🔴'; // Usuario
+const JUGADOR_2 = '🟡'; // Bot
+
+// Crea una matriz vacía de 6x7
+const crearTablero = () => Array(FILAS).fill(null).map(() => Array(COLUMNAS).fill(VACIO));
+
+// Verifica si alguien conectó 4
+function verificarGanador(tablero, ficha) {
+    // Horizontal
+    for (let f = 0; f < FILAS; f++) {
+        for (let c = 0; c < COLUMNAS - 3; c++) {
+            if (tablero[f][c] === ficha && tablero[f][c+1] === ficha && tablero[f][c+2] === ficha && tablero[f][c+3] === ficha) return true;
+        }
+    }
+    // Vertical
+    for (let f = 0; f < FILAS - 3; f++) {
+        for (let c = 0; c < COLUMNAS; c++) {
+            if (tablero[f][c] === ficha && tablero[f+1][c] === ficha && tablero[f+2][c] === ficha && tablero[f+3][c] === ficha) return true;
+        }
+    }
+    // Diagonales
+    for (let f = 0; f < FILAS - 3; f++) {
+        for (let c = 0; c < COLUMNAS; c++) {
+            // Diagonal \
+            if (c < COLUMNAS - 3 && tablero[f][c] === ficha && tablero[f+1][c+1] === ficha && tablero[f+2][c+2] === ficha && tablero[f+3][c+3] === ficha) return true;
+            // Diagonal /
+            if (c >= 3 && tablero[f][c] === ficha && tablero[f+1][c-1] === ficha && tablero[f+2][c-2] === ficha && tablero[f+3][c-3] === ficha) return true;
+        }
+    }
+    return false;
+}
+
+// ENDPOINT: Iniciar Juego (Usa el ID del autor que envíes)
+router.post('/c4', (req, res) => {
+    // En BDFD puedes enviar el authorID en el body o como parámetro
+    // Aquí asumimos que lo mandas para identificar la sesión
+    const idUsuario = req.body.idUsuario || "global"; 
+    
+    juegos.set(idUsuario, {
+        tablero: crearTablero(),
+        ganador: null
+    });
+
+    res.json({ idJuego: idUsuario });
+});
+
+// ENDPOINT: Movimiento
+router.post('/c4/drop/:id', (req, res) => {
+    const { id } = req.params; // El ID del usuario
+    const { columna, jugador } = req.body;
+    
+    const juego = juegos.get(id);
+    if (!juego) return res.status(404).json({ error: "Juego no iniciado" });
+
+    const ficha = (jugador == 1) ? JUGADOR_1 : JUGADOR_2;
+    const colIdx = parseInt(columna);
+    let filaColocada = -1;
+
+    // Lógica de gravedad (caer hasta la última fila vacía)
+    for (let f = FILAS - 1; f >= 0; f--) {
+        if (juego.tablero[f][colIdx] === VACIO) {
+            juego.tablero[f][colIdx] = ficha;
+            filaColocada = f;
+            break;
+        }
+    }
+
+    if (filaColocada !== -1 && verificarGanador(juego.tablero, ficha)) {
+        juego.ganador = jugador;
+    }
+
+    // Convertir matriz a string con saltos de línea para BDFD
+    const tableroString = juego.tablero.map(f => f.join('')).join('\n');
+
     res.json({
-        total: Object.keys(armasData).length,
-        categorias: Object.keys(armasData)
+        tablero: tableroString,
+        ganador: juego.ganador || ""
     });
 });
-
-// Función para limpiar la respuesta del arma
-const infoArma = (a, cat, id) => ({
-    nombre: a.nombre,
-    categoria: cat,
-    precio: a.precioGTAOnline > 0 ? `$${a.precioGTAOnline.toLocaleString()}` : "Gratis",
-    desbloqueo: a.nivelDesbloqueo || 0,
-    imagen: a.imagen,
-    stats: a.estadisticas || {}
-});
-
-const obtenerArmas = (req, res) => {
-    const searchParam = req.params.nombre;
-
-    // --- CASO: LISTADO TOTAL O CATEGORÍA ---
-    const categoriaKey = searchParam ? Object.keys(armasData).find(cat => 
-        cat.toLowerCase().replace(/[\s-.]/g, '') === searchParam.toLowerCase().trim().replace(/[\s-.]/g, '')
-    ) : null;
-
-    if (!searchParam || categoriaKey) {
-        let listaFinal = [];
-        let temporal = [];
-
-        if (!searchParam) {
-            // Todo el JSON plano
-            for (const cat in armasData) {
-                for (const id in armasData[cat]) {
-                    temporal.push(infoArma(armasData[cat][id], cat, id));
-                }
-            }
-        } else {
-            // Solo una categoría
-            for (const id in armasData[categoriaKey]) {
-                temporal.push(infoArma(armasData[categoriaKey][id], categoriaKey, id));
-            }
-        }
-
-        // --- EL FORMATO QUE ME PEDISTE ---
-        // 1. Metemos el objeto de info en el primer lugar (índice 0)
-        listaFinal.push({ 
-            total_armas: temporal.length, 
-            info: "El listado de armas empieza en el índice 1" 
-        });
-
-        // 2. Metemos todas las armas a continuación
-        listaFinal.push(...temporal);
-
-        return res.json(listaFinal);
-    }
-
-    // --- CASO: BÚSQUEDA POR ÍNDICE (Si el usuario pone un número en la URL) ---
-    if (/^\d+$/.test(searchParam)) {
-        let todas = [];
-        for (const cat in armasData) {
-            for (const id in armasData[cat]) {
-                todas.push({ ...armasData[cat][id], catName: cat, idOrg: id });
-            }
-        }
-        const a = todas[parseInt(searchParam) - 1]; // /1 devuelve la primera arma real
-        return a ? res.json(infoArma(a, a.catName, a.idOrg)) : res.status(404).json({ error: "No existe" });
-    }
-
-    res.status(404).json({ error: "No encontrado" });
-};
-
-router.get('/', obtenerArmas);
-router.get('/:nombre', obtenerArmas);
 
 module.exports = router;
